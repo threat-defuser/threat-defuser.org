@@ -2,7 +2,7 @@
 base_url = "https://threat-defuser.org"
 
 # Whether to automatically compile all Sass files in the sass directory
-compile_sass = false
+compile_sass = true
 
 # Whether to do syntax highlighting
 # Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
@@ -11,5 +11,30 @@ highlight_code = true
 # Whether to build a search index to be used later on by a JavaScript library
 build_search_index = false
 
+taxonomies = [
+  { name = "tags" }
+]
+
 [extra]
-# Put all your custom variables here
+
+navigation = [
+  { name = "About", path = "/" },
+  { name = "Work packages", path = "/work-packages/" },
+  { name = "Kick-off", path = "/kick-off/" },
+  { name = "Team", path = "/team/" },
+  { name = "Open positions", path = "/positions/" },
+  { name = "Blog", path = "/blog/" }
+]
+
+icon = "favicon.ico"
+profile_small = "profile.png"
+profile_large = "profile.png"
+
+accent = "#05a081"
+accent_light = "#82d0c0"
+
+author = "John Doe"
+
+footer_about = """
+We can replace this footer about message with something more meaningful.
+"""
