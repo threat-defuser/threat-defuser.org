@@ -24,7 +24,6 @@ navigation = [
 
 icon = "favicon.ico"
 profile_small = "profile.png"
-profile_large = "profile.png"
 
 accent = "#05a081"
 accent_light = "#82d0c0"
