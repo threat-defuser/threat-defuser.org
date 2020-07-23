@@ -9,7 +9,7 @@
         - 
         <span class="tags">
           {% for tag in page.taxonomies.tags %}
-            <a href="{{ get_taxonomy_url(kind="tags", name=tag) }}">{{ tag }}</a>
+            <a href="{{ get_taxonomy_url(kind="tags", name=tag) | safe }}">{{ tag }}</a>
           {% endfor %}
         </span>
       {% endif %}
@@ -33,14 +33,14 @@
     {% if page.earlier %}
       <div class="link">
         Previous <br />
-        <a href="{{ page.earlier.permalink }}">{{ page.earlier.title }}</a>
+        <a href="{{ page.earlier.permalink | safe }}">{{ page.earlier.title }}</a>
       </div>
     {% endif %}
 
     {% if page.later %}
       <div class="link">
         Next <br />
-        <a href="{{ page.later.permalink }}">{{ page.later.title }}</a>
+        <a href="{{ page.later.permalink | safe }}">{{ page.later.title }}</a>
       </div>
     {% endif %}
 
