@@ -19,7 +19,8 @@ navigation = [
   { name = "Kick-off", path = "/kick-off/" },
   { name = "Team", path = "/team/" },
   { name = "Open positions", path = "/positions/" },
-  { name = "Blog", path = "/blog/" }
+  { name = "Blog", path = "/blog/" },
+  { name = "GitHub", path = "https://github.com/threat-defuser" }
 ]
 
 icon = "favicon.ico"
