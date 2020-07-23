@@ -51,6 +51,7 @@
       {% endblock title %}
     </title>
 
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link href="https://unpkg.com/blueprint-css@3.1.1/dist/blueprint.min.css" rel="stylesheet" />
     <link href="{{ get_url(path="main.css") | safe }}" rel="stylesheet" />
   </head>
@@ -60,9 +61,14 @@
         <img src="{{ resize_image(path=config.extra.profile_small, width=50, height=50, op="fill") | safe }}" alt="profile picture">
       </a>
       <nav>
-        {% for link in config.extra.navigation %}
-          <a href="{{ link.path | safe }}">{{ link.name }}</a>
-        {% endfor %}
+        <div class="topnav" id="mytopnav">
+          {% for link in config.extra.navigation %}
+            <a href="{{ link.path | safe }}">{{ link.name }}</a>
+          {% endfor %}
+          <a href="javascript:void(0);" class="icon" onclick="toggle_hamburger()">
+            <i class="fa fa-bars"></i>
+          </a>
+        </div>
       </nav>
     </header>
 
@@ -76,6 +82,8 @@
           {{ config.extra.footer_about | markdown | safe }}
         </div>
       {% endif %}
+
+      <script src="/js/own.js"></script>
     </main>
   </body>
 </html>
