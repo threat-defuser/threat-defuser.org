@@ -6,6 +6,9 @@ title = "THREAT DEFUSER"
 
 #### NORRUSS grant project September 2020 - August 2026
 
+- [Project overview](overview.pdf)
+- [Proposal](proposal.pdf)
+
 THREAT-DEFUSER explores the role of "soft" information strategies propagated
 through mass and social media that constitute hybrid warfare. We investigate
 Norwegian perceptions of Russia, as well as Russian perceptions of Norway, in
