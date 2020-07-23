@@ -5,14 +5,6 @@
     <h1>{{ page.title }}</h1>
     <small>
       {{ page.date | date(format="%B %d, %Y") }}
-      {% if page.taxonomies.tags %}
-        - 
-        <span class="tags">
-          {% for tag in page.taxonomies.tags %}
-            <a href="{{ get_taxonomy_url(kind="tags", name=tag) | safe }}">{{ tag }}</a>
-          {% endfor %}
-        </span>
-      {% endif %}
     </small>
   </div>
 

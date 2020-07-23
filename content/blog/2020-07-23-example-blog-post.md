@@ -1,7 +1,5 @@
 +++
 title = "Example blog post"
-[taxonomies]
-tags = [ "lorem", "ipsum", "sometag" ]
 +++
 
 ## Section
