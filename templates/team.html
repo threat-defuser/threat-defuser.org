@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+
+{% block content %}
+  {{ section.content | safe }}
+
+  {% set data = load_data(path="content/team/data.toml") %}
+
+  <div bp="grid 4">
+    {% for person in data.team %}
+      <div class="center">
+        <img src="{{ resize_image(path="team/" ~ person.picture, width=100, height=100, op="fill") | safe }}"
+             alt="team member picture">
+        <br>
+        {% if person.homepage %}
+          <a href="{{ person.homepage | safe }}">{{ person.name }}</a>
+        {% else %}
+          {{ person.name }}
+        {% endif %}
+      </div>
+    {% endfor %}
+  </div>
+
+{% endblock content %}

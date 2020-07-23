@@ -51,7 +51,8 @@
       {% endblock title %}
     </title>
 
-    <link rel="stylesheet" href="{{ get_url(path="main.css") | safe }}">
+    <link href="https://unpkg.com/blueprint-css@3.1.1/dist/blueprint.min.css" rel="stylesheet" />
+    <link href="{{ get_url(path="main.css") | safe }}" rel="stylesheet" />
   </head>
   <body>
     <header>
