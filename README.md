@@ -25,16 +25,16 @@ To edit content, you most of the time only need to edit Markdown files and
 
 ### How to contribute changes
 
-To add/edit content, modify files inside the <content> folder.  You can modify
+To add/edit content, modify files inside the [content](content) folder.  You can modify
 these via the web or using GitHub Desktop or using the command line by opening
 pull requests (change proposals).
 
 If you want to add new pages to the navigation bar or modify the navigation
-bar, modify `navigation` in <config.toml>.
+bar, modify `navigation` in [config.toml](config.toml).
 
 You can change the looks if you know your way around CSS/SASS.
 
-You can modify the page layouts by editing files inside the <templates> folder.
+You can modify the page layouts by editing files inside the [templates](templates) folder.
 
 
 ### How to preview changes locally
