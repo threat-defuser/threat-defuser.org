@@ -31,5 +31,7 @@ accent_light = "#82d0c0"
 author = "John Doe"
 
 footer_about = """
-We can replace this footer about message with something more meaningful.
+This site is hosted on [GitHub](https://github.com/threat-defuser/threat-defuser.org).
+[Here](https://github.com/threat-defuser/threat-defuser.org/blob/master/README.md) are instructions
+on how to apply/suggest changes.
 """

@@ -67,6 +67,14 @@
 
     <main>
       {% block content %} {% endblock content %}
+
+      <hr class="footer-rule" />
+
+      {% if config.extra.footer_about %}
+        <div class="footer-about">
+          {{ config.extra.footer_about | markdown | safe }}
+        </div>
+      {% endif %}
     </main>
   </body>
 </html>
