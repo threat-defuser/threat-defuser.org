@@ -13,4 +13,16 @@
     {% endif %}
   </div>
   #}
+
+  <div bp="grid vertical-center 6@sm 6@md 3@lg">
+    <img src="{{ resize_image(path="logos/uit.png", height=100, op="fit_height") | safe }}"
+         alt="UiT logo">
+    <img src="{{ resize_image(path="logos/nupi.png", height=70, op="fit_height") | safe }}"
+         alt="NUPI logo">
+    <img src="{{ resize_image(path="logos/cuni.png", height=100, op="fit_height") | safe }}"
+         alt="CUNI logo">
+    <img src="{{ resize_image(path="logos/utsyn.png", height=100, op="fit_height") | safe }}"
+         alt="UTSYN logo">
+  </div>
+
 {% endblock content %}
