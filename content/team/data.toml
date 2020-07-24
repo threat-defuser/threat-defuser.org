@@ -16,6 +16,7 @@ homepage = "http://www.juls.savba.sk/~vladob"
 [[team]]
 name = "Patrick Cullen"
 picture = "cullen.jpg"
+homepage = "https://www.nupi.no/en/About-NUPI/Employees/Researchers/Patrick-J.-Cullen"
 
 [[team]]
 name = "Václav Cvrček"
@@ -25,6 +26,7 @@ homepage = "https://ucnk.ff.cuni.cz/cs/ustav/lide/vaclav-cvrcek/"
 [[team]]
 name = "Gunhild Hoogensen Gjørv"
 picture = "hoogensen-gjoerv.jpg"
+homepage = "https://uit.no/ansatte/person?p_document_id=42266"
 
 [[team]]
 name = "Tore Nesset"
@@ -39,6 +41,7 @@ homepage = "https://en.uit.no/om/enhet/ansatte/person?p_document_id=43820&p_dime
 [[team]]
 name = "Andrei Rogatchevski"
 picture = "rogatchevski.jpg"
+homepage = "https://uit.no/ansatte/person?p_document_id=361780"
 
 [[team]]
 name = "Josef Šlerka"

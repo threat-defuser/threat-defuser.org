@@ -4,7 +4,7 @@ title = "THREAT DEFUSER"
 
 ## THREAT DEFUSER
 
-#### NORRUSS grant project September 2020 - August 2026
+#### September 2020 - August 2026
 
 - [Project overview](overview.pdf)
 - [Proposal](proposal.pdf)
@@ -37,6 +37,9 @@ THREAT-DEFUSER assesses Russia's increasingly assertive role in matters
 of foreign and security policy, particularly in relation to their engagement in
 hybrid warfare. The same tools are implemented also to analyze Russian
 attitudes to Europe that have a direct bearing on Norwegian-Russian relations.
+
+THREAT-DEFUSER is funded by the
+[Research Council of Norway](https://www.forskningsradet.no/), grant number 300002.
 
 This project is administered by [UiT The Arctic University of Norway](https://uit.no/startsida), 
 in collaboration with:
