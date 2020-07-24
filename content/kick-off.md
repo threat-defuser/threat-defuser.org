@@ -55,7 +55,7 @@ template = "page.html"
 
 - Please read the short CVs of all of team members (see pages 23-65 of full proposal) to facilitate icebreaker
 - The following books have been acquired as ebooks by UiT’s UB and are also available through booksellers and audible.com
-+ Rid, Thomas. 2020. *Active measures: The secret history of disinformation and political warfare*. New York: Farrar, Straus and Giroux.
-+	Howard, Philip N. 2020. *Lie Machines: How to Save Democracy from Troll Armies, Deceitful Robots, Junk News Operations, and Political Operatives*. Yale University Press.
-+	Stengel, Richard. 2019. *Information Wars: How We Lost the Global Battle Against Disinformation and What We Can Do About It*. Grove Atlantic.
-+	Wylie, Christopher. 2019. *Mindf'ck: Cambridge Analytica and the plot to break America*. New York: Random House.
+  - Rid, Thomas. 2020. *Active measures: The secret history of disinformation and political warfare*. New York: Farrar, Straus and Giroux.
+  - Howard, Philip N. 2020. *Lie Machines: How to Save Democracy from Troll Armies, Deceitful Robots, Junk News Operations, and Political Operatives*. Yale University Press.
+  - Stengel, Richard. 2019. *Information Wars: How We Lost the Global Battle Against Disinformation and What We Can Do About It*. Grove Atlantic.
+  - Wylie, Christopher. 2019. *Mindf'ck: Cambridge Analytica and the plot to break America*. New York: Random House.
