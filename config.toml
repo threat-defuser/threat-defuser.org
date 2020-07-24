@@ -30,6 +30,7 @@ accent = "#05a081"
 accent_light = "#82d0c0"
 
 footer_about = """
+Contact: [Laura Janda](http://ansatte.uit.no/laura.janda/).
 This site is hosted on [GitHub](https://github.com/threat-defuser/threat-defuser.org).
 [Here](https://github.com/threat-defuser/threat-defuser.org/blob/master/README.md) are instructions
 on how to apply/suggest changes.
