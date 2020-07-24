@@ -40,3 +40,9 @@ attitudes to Europe that have a direct bearing on Norwegian-Russian relations.
 
 THREAT-DEFUSER is funded by the
 [Research Council of Norway](https://www.forskningsradet.no/), grant number 300002.
+
+This project is administered by [UiT The Arctic University of Norway](https://uit.no/startsida), 
+in collaboration with:
+- the [Norwegian Institute of International Affairs](https://www.nupi.no/en)
+- [Charles University](https://cuni.cz/UK-1.html)
+- [UTSYN – FORUM FOR UTENRIKS OG SIKKERHET](https://www.prosjektutsyn.no/)
