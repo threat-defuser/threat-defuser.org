@@ -57,19 +57,30 @@
   </head>
   <body>
     <header>
-      <a class="profile-icon" href="/">
-        <img src="{{ resize_image(path=config.extra.profile_small, width=150, height=150, op="fill") | safe }}" alt="profile picture">
-      </a>
-      <nav>
-        <div class="topnav" id="mytopnav">
-          {% for link in config.extra.navigation %}
-            <a href="{{ link.path | safe }}">{{ link.name }}</a>
-          {% endfor %}
-          <a href="javascript:void(0);" class="icon" onclick="toggle_hamburger()">
-            <i class="fa fa-bars"></i>
+      <div bp="grid">
+        <div bp="12@sm 2@md 2@lg">
+          <a class="profile-icon" href="/">
+            <img src="{{ resize_image(path=config.extra.profile_small, width=150, height=150, op="fill") | safe }}" alt="profile picture">
           </a>
         </div>
-      </nav>
+        <div bp="12@sm 10@md 10@lg">
+          <p>
+            THREAT-DEFUSER
+            <br>
+            Hybrid warfare and a plan to safeguard societies
+          </p>
+          <nav>
+            <div class="topnav" id="mytopnav">
+              {% for link in config.extra.navigation %}
+                <a href="{{ link.path | safe }}">{{ link.name }}</a>
+              {% endfor %}
+              <a href="javascript:void(0);" class="icon" onclick="toggle_hamburger()">
+                <i class="fa fa-bars"></i>
+              </a>
+            </div>
+          </nav>
+        </div>
+      </div>
     </header>
 
     <main>
