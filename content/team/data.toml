@@ -46,6 +46,11 @@ picture = "slerka.jpg"
 homepage = "https://uisk.ff.cuni.cz/cs/o-ustavu/vyucujici/josef-slerka/"
 
 [[team]]
+name = "Trond Trosterud"
+picture = "trosterud.jpg"
+homepage = "https://uit.no/ansatte/person?p_document_id=41545"
+
+[[team]]
 name = "Masako Ueda Fidler"
 picture = "ueda-fidler.jpg"
 homepage = "https://vivo.brown.edu/display/mufidler"
