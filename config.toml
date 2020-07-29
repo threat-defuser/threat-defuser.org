@@ -11,6 +11,9 @@ highlight_code = true
 # Whether to build a search index to be used later on by a JavaScript library
 build_search_index = false
 
+title = "THREAT-DEFUSER"
+description = "Hybrid warfare and a plan to safeguard societies"
+
 [extra]
 
 navigation = [
@@ -25,6 +28,7 @@ navigation = [
 
 icon = "favicon.ico"
 profile_small = "profile.png"
+twitter_image = "https://threat-defuser.org/profile.png"
 
 accent = "#05a081"
 accent_light = "#82d0c0"
