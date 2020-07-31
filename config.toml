@@ -26,8 +26,7 @@ navigation = [
   { name = "GitHub", path = "https://github.com/threat-defuser" }
 ]
 
-icon = "favicon.ico"
-profile_small = "profile.png"
+profile_logo = "profile.png"
 twitter_image = "https://threat-defuser.org/profile.png"
 
 accent = "#05a081"
