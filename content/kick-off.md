@@ -47,6 +47,7 @@ template = "page.html"
 - [Thomas Rid](https://sais.jhu.edu/users/trid2), Professor of Strategic Studies at Johns Hopkins University's School of Advanced International Studies and author of *Active measures: The secret history of disinformation and political warfare*
 - [Philip N. Howard](https://www.oii.ox.ac.uk/people/philip-howard/), Professor of Internet Studies and Director of the Oxford Internet Institute at the University of Oxford and author of *Lie Machines: How to Save Democracy from Troll Armies, Deceitful Robots, Junk News Operations, and Political Operatives*
 - [Tormod Heier](https://forsvaret.no/hogskolene/forsvarets-hogskole/ansatte/ansatte/Heier%20Tormod), Lieutenant-colonel and Researcher at Forsvarets høgskole (Military College) and author of *Et farligere Norge?*
+- [Silje Karine Muotka](https://sametinget.no/finn-ansatt/?personid=44&zx=w), Councillor of the Norwegian Sámi Parliament and member of the [Norwegian Sámi Association](https://nsr.no/)
 - Marte Aasen, Project Coordinator at [UTSYN Forum for utenriks og sikkerhet](https://www.prosjektutsyn.no/)
 - [Silje Susanne Alvestad](https://www.hf.uio.no/ilos/personer/vit/susanas/), Postdoc at UiO and PI on NFR-funded project *Fakespeak: The language of fake news*
 - Barbara Renzi, Lecturer at Istituto Italiano di Cultura in Cologne and at Cologne Technical University and PI on MSCA proposal *ConVirus – The Conspiracy Virus: How metaphor cons us into false beliefs about COVID-19* (to be submitted Sept 2020)
