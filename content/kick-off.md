@@ -6,7 +6,7 @@ template = "page.html"
 
 ### NOTE: Kick-off meeting is for team members and invited guests
 
-#### Goals
+### Goals
 
 - Team members get to know each other
 - Brainstorming
@@ -15,35 +15,126 @@ template = "page.html"
 - Learn about relevant projects and resources
 - Inspiration from guests
 
-#### Venue: zoom
+### Venue: zoom
 
 - Team members in Tromsø gather locally in room SVHUM A 3021 equipped with cameras and screens
 - Meeting will be video recorded and later edited to make a short promotional video and/or podcast that can be shared publicly
 
-#### Program
+### Program
 
-- Each hour will have 50 minutes meeting and 10 minutes break
+Each hour will have 50 minutes meeting and 10 minutes break:
 
-| Monday August 24 |      |
-| ----- | ------|
-| 13:00 to 14:00 | Opening and Ice-breaker |
-| 14:00 to 15:00 | Daniel Braun, Deputy Head of Cabinet of [Věra Jourová, Vice President of the European Commission](https://ec.europa.eu/commission/commissioners/2019-2024/jourova/team_en), with responsibility for Values and Transparency |
-| 15:00 to 16:00 | WP1 & WP2 |
-| 16:00 to 17:00 | [Thomas Rid](https://sais.jhu.edu/users/trid2), Professor of Strategic Studies at Johns Hopkins University's School of Advanced International Studies and author of *Active measures: The secret history of disinformation and political warfare* |
-| 17:00 to 18:00 | Dinner & WP4 |
-| 18:00 to 19:00 | Marte Aasen, Project Coordinator and  at [UTSYN Forum for utenriks og sikkerhet](https://www.prosjektutsyn.no/) |
+<table class="ui definition table">
+  <thead>
+    <tr>
+      <th class="three wide"></th>
+      <th>Monday August 24</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>13:00 to 14:00</td>
+      <td>
+        Opening and Ice-breaker
+      </td>
+    </tr>
+    <tr>
+      <td>14:00 to 15:00</td>
+      <td>
+        Daniel Braun, Deputy Head of Cabinet of
+        <a href="https://ec.europa.eu/commission/commissioners/2019-2024/jourova/team_en">Věra Jourová, Vice President of the European Commission</a>,
+        with responsibility for Values and Transparency
+      </td>
+    </tr>
+    <tr>
+      <td>15:00 to 16:00</td>
+      <td>
+        WP1 & WP2
+      </td>
+    </tr>
+    <tr>
+      <td>16:00 to 17:00</td>
+      <td>
+        <a href="https://sais.jhu.edu/users/trid2">Thomas Rid</a>,
+        Professor of Strategic Studies at Johns Hopkins University's School of Advanced International Studies and author of
+	<i>Active measures: The secret history of disinformation and political warfare</i>
+      </td>
+    </tr>
+    <tr>
+      <td>17:00 to 18:00</td>
+      <td>
+        Dinner & WP4
+      </td>
+    </tr>
+    <tr>
+      <td>18:00 to 19:00</td>
+      <td>
+        Marte Aasen, Project Coordinator at
+        <a href="https://www.prosjektutsyn.no/">UTSYN Forum for utenriks og sikkerhet</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-| Tuesday August 25 |     |
-| ------ | ---------|
-| 13:00 to 14:00 | [Tormod Heier](https://forsvaret.no/hogskolene/forsvarets-hogskole/ansatte/ansatte/Heier%20Tormod), Lieutenant-colonel and Researcher at Forsvarets høgskole (Military College) and author of *Et farligere Norge?* |
-| 14:00 to 15:00 | WP3 & WP5 | 
-| 15:00 to 16:00 | [Philip N. Howard](https://www.oii.ox.ac.uk/people/philip-howard/), Professor of Internet Studies and Director of the Oxford Internet Institute at the University of Oxford and author of *Lie Machines: How to Save Democracy from Troll Armies, Deceitful Robots, Junk News Operations, and Political Operatives* |
-| 16:00 to 17:00 | [Silje Susanne Alvestad](https://www.hf.uio.no/ilos/personer/vit/susanas/), Postdoc at UiO and PI on NFR-funded project *Fakespeak: The language of fake news* and Barbara Renzi, Lecturer at Istituto Italiano di Cultura in Cologne and at Cologne Technical University and PI on MSCA proposal *ConVirus – The Conspiracy Virus: How metaphor cons us into false beliefs about COVID-19* |
-| 17:00 to 18:00 | [Silje Karine Muotka](https://sametinget.no/finn-ansatt/?personid=44&zx=w), Councillor of the Norwegian Sámi Parliament and member of the [Norwegian Sámi Association](https://nsr.no/) |
-| 18:00 to 19:00 | Dinner & Closing Summary |
+<table class="ui definition table">
+  <thead>
+    <tr>
+      <th class="three wide"></th>
+      <th>Tuesday August 25</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>13:00 to 14:00</td>
+      <td>
+        <a href="https://forsvaret.no/hogskolene/forsvarets-hogskole/ansatte/ansatte/Heier%20Tormod">Tormod Heier</a>,
+        Lieutenant-colonel and Researcher at Forsvarets høgskole
+        (Military College) and author of <i>Et farligere Norge?</i>
+      </td>
+    </tr>
+    <tr>
+      <td>14:00 to 15:00</td>
+      <td>
+        WP3 & WP5
+      </td>
+    </tr>
+    <tr>
+      <td>15:00 to 16:00</td>
+      <td>
+        <a href="https://www.oii.ox.ac.uk/people/philip-howard/">Philip N. Howard</a>,
+        Professor of Internet Studies and Director of the Oxford Internet Institute at the University of Oxford and author of
+	<i>Lie Machines: How to Save Democracy from Troll Armies, Deceitful Robots, Junk News Operations, and Political Operatives</i>
+      </td>
+    </tr>
+    <tr>
+      <td>16:00 to 17:00</td>
+      <td>
+        <a href="https://www.hf.uio.no/ilos/personer/vit/susanas/">Silje Susanne Alvestad</a>,
+        Postdoc at UiO and PI on NFR-funded project <i>Fakespeak: The language of fake news</i>
+	and Barbara Renzi, Lecturer at Istituto Italiano di Cultura in Cologne and at
+	Cologne Technical University and PI on MSCA proposal
+	<i>ConVirus – The Conspiracy Virus: How metaphor cons us into false beliefs about COVID-19</i>
+      </td>
+    </tr>
+    <tr>
+      <td>17:00 to 18:00</td>
+      <td>
+        <a href="https://sametinget.no/finn-ansatt/?personid=44&zx=w">Silje Karine Muotka</a>,
+        Councillor of the Norwegian Sámi Parliament and member of the
+        <a href="https://nsr.no/">Norwegian Sámi Association</a>,
+      </td>
+    </tr>
+    <tr>
+      <td>18:00 to 19:00</td>
+      <td>
+        Dinner & Closing Summary
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 
-#### Recommended readings (for team members)
+### Recommended readings (for team members)
 
 - Please read the short CVs of all of team members (see pages 23-65 of full proposal) to facilitate icebreaker
 - The following books have been acquired as ebooks by UiT’s UB and some are also available through booksellers and audible.com
