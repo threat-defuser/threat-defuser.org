@@ -42,8 +42,7 @@ Each hour will have 50 minutes meeting and 10 minutes break:
       <td>14:00 to 15:00</td>
       <td>
         Daniel Braun, Deputy Head of Cabinet of
-        <a href="https://ec.europa.eu/commission/commissioners/2019-2024/jourova/team_en">Věra Jourová, Vice President of the European Commission</a>,
-        with responsibility for Values and Transparency
+        <a href="https://ec.europa.eu/commission/commissioners/2019-2024/jourova/team_en">Věra Jourová, Vice President of the European Commission for Values and Transparency</a>
       </td>
     </tr>
     <tr>
