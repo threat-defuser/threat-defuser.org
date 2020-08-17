@@ -31,12 +31,12 @@ homepage = "https://uit.no/ansatte/person?p_document_id=42266"
 [[team]]
 name = "Tore Nesset"
 picture = "nesset.jpg"
-homepage = "http://uit.no/om/enhet/ansatte/person?p_document_id=41533&p_dimension_id=210121"
+homepage = "https://uit.no/ansatte/person?p_document_id=41533"
 
 [[team]]
 name = "Holger Pötzsch"
 picture = "poetzsch.jpg"
-homepage = "https://en.uit.no/om/enhet/ansatte/person?p_document_id=43820&p_dimension_id=210121"
+homepage = "https://uit.no/ansatte/person?p_document_id=43820"
 
 [[team]]
 name = "Andrei Rogatchevski"
