@@ -48,15 +48,13 @@ Each hour will have 50 minutes meeting and 10 minutes break:
     <tr>
       <td>15:00 to 16:00</td>
       <td>
-        WP1 & WP2
+        Organization, workflow, schedule of meetings & WP1
       </td>
     </tr>
     <tr>
       <td>16:00 to 17:00</td>
       <td>
-        <a href="https://sais.jhu.edu/users/trid2">Thomas Rid</a>,
-        Professor of Strategic Studies at Johns Hopkins University's School of Advanced International Studies and author of
-	<i>Active measures: The secret history of disinformation and political warfare</i>
+       WP2 
       </td>
     </tr>
     <tr>
@@ -120,13 +118,15 @@ Each hour will have 50 minutes meeting and 10 minutes break:
       <td>
         <a href="https://sametinget.no/finn-ansatt/?personid=44&zx=w">Silje Karine Muotka</a>,
         Councillor of the Norwegian Sámi Parliament and member of the
-        <a href="https://nsr.no/">Norwegian Sámi Association</a>,
+        <a href="https://nsr.no/">Norwegian Sámi Association</a>
       </td>
     </tr>
     <tr>
       <td>18:00 to 19:00</td>
       <td>
-        Dinner & Closing Summary
+        Dinner & <a href="https://sais.jhu.edu/users/trid2">Thomas Rid</a>,
+        Professor of Strategic Studies at Johns Hopkins University's School of Advanced International Studies and author of
+	<i>Active measures: The secret history of disinformation and political warfare</i>
       </td>
     </tr>
   </tbody>
