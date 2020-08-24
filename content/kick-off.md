@@ -27,7 +27,7 @@ Each hour will have 50 minutes meeting and 10 minutes break:
 <table class="ui definition table">
   <thead>
     <tr>
-      <th class="three wide"></th>
+      <th class="three wide">All times are in CEST</th>
       <th>Monday August 24</th>
     </tr>
   </thead>
@@ -76,7 +76,7 @@ Each hour will have 50 minutes meeting and 10 minutes break:
 <table class="ui definition table">
   <thead>
     <tr>
-      <th class="three wide"></th>
+      <th class="three wide">All times are in CEST</th>
       <th>Tuesday August 25</th>
     </tr>
   </thead>
