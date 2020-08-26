@@ -19,4 +19,6 @@ with an application deadline of **September 30, 2020**:
 - [WP1: PhD in Russian Linguistics - Language of perceived threats in Russian Media](https://www.jobbnorge.no/en/available-jobs/job/185277/phd-in-russian-linguistics-language-of-perceived-threats-in-russian-media)
 - [WP2: PhD Fellow in Linguistics - Keyword/Keymorph Analysis of Russian and Norwegian News Media](https://www.jobbnorge.no/en/available-jobs/job/186159/phd-fellow-in-linguistics-keyword-keymorph-analysis-of-russian-and-norwegian-news-media)
 
-The announcement for the PhD position for WP4 is in the process of being approved.
+The PhD position for WP4 has been announced on [jobbnorge.no](https://www.jobbnorge.no/search) 
+with an application deadline of **September 16, 2020**:
+- [PhD Fellow in Peace Studies](https://www.jobbnorge.no/en/available-jobs/job/190468/phd-fellow-in-peace-studies)
