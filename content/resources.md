@@ -2,7 +2,13 @@
 template = "page.html"
 +++
 
-## Recommended books and links
+## Recommended links and books
+
+### Links
+- [European Digital Media Observatory](https://edmo.eu/)
+- [Tackling COVID-19 disinformation - Getting the facts right](https://ec.europa.eu/info/sites/info/files/communication-tackling-covid-19-disinformation-getting-facts-right_en.pdf): a communication from the European Commission
+- [Digital Services Act proposed by European Commission](https://ec.europa.eu/digital-single-market/en/news/consultation-digital-services-act-package): Now open for public consultation, deadline to respond **September 8, 2020**
+- [European Democracy Action Plan proposed by European Commission](https://ec.europa.eu/commission/presscorner/detail/en/IP_20_1352): Now open for public consultation, deadline to respond **September 15, 2020**
 
 ### Books
 
