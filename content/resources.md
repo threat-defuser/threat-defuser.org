@@ -2,7 +2,7 @@
 template = "page.html"
 +++
 
-## Recommended links and books
+## Recommended links and other resources
 
 ### Links
 - [European Digital Media Observatory](https://edmo.eu/)
@@ -19,3 +19,7 @@ template = "page.html"
   - Wylie, Christopher. 2019. *Mindf'ck: Cambridge Analytica and the plot to break America*. New York: Random House.
   - Jankowicz, Nina. 2020. *How to Lose the Information War: Russia, Fake News, and the Future of Conflict.*
     I. B. Tauris & Company, Limited.
+
+### How to documents for the THREAT-DEFUSER team
+
+- [How to register publications and other activities in CRISTIN](How to register publications and other activities.docx)
