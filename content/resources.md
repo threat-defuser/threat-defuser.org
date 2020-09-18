@@ -5,10 +5,20 @@ template = "page.html"
 ## Recommended links and books
 
 ### Links
+
 - [European Digital Media Observatory](https://edmo.eu/)
 - [Tackling COVID-19 disinformation - Getting the facts right](https://ec.europa.eu/info/sites/info/files/communication-tackling-covid-19-disinformation-getting-facts-right_en.pdf): a communication from the European Commission
-- [Digital Services Act proposed by European Commission](https://ec.europa.eu/digital-single-market/en/news/consultation-digital-services-act-package): Now open for public consultation, deadline to respond **September 8, 2020**
-- [European Democracy Action Plan proposed by European Commission](https://ec.europa.eu/commission/presscorner/detail/en/IP_20_1352): Now open for public consultation, deadline to respond **September 15, 2020**
+- [Digital Services Act proposed by European Commission](https://ec.europa.eu/digital-single-market/en/news/consultation-digital-services-act-package)
+- [European Democracy Action Plan proposed by European Commission](https://ec.europa.eu/commission/presscorner/detail/en/IP_20_1352)
+
+### Podcasts
+
+- [The Spread of Misinformation Online](https://overcast.fm/+O1Sbef-OM), interview with Neil F. Johnson
+- [KennanX Episode 10: "'You Can't Say That!' - Political Correctness, Russian-style](https://www.wilsoncenter.org/audio/kennanx-episode-10-you-cant-say-political-correctness-russian-style?sourceid=&emci=1870391e-25f8-ea11-99c3-00155d039e74&emdi=75f6a055-f9f8-ea11-99c3-00155d039e74&ceid=247338)
+
+### Articles
+
+- [The online competition between pro- and anti-vaccination views](https://www.nature.com/articles/s41586-020-2281-1) Full citation: Johnson, N.F., Velásquez, N., Restrepo, N.J. et al. The online competition between pro- and anti-vaccination views. Nature 582, 230–233 (2020). https://doi.org/10.1038/s41586-020-2281-1
 
 ### Books
 
