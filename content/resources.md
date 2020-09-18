@@ -32,4 +32,4 @@ template = "page.html"
 
 ### How to documents for the THREAT-DEFUSER team
 
-- [How to register publications and other activities in CRISTIN](How to register publications and other activities.docx)
+- [How to register publications and other activities in CRISTIN](https://github.com/threat-defuser/threat-defuser.org/blob/master/how-to/register-publication.md)
