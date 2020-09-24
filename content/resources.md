@@ -15,6 +15,7 @@ template = "page.html"
 
 - [The Spread of Misinformation Online](https://overcast.fm/+O1Sbef-OM), interview with Neil F. Johnson
 - [KennanX Episode 10: "'You Can't Say That!' - Political Correctness, Russian-style](https://www.wilsoncenter.org/audio/kennanx-episode-10-you-cant-say-political-correctness-russian-style?sourceid=&emci=1870391e-25f8-ea11-99c3-00155d039e74&emdi=75f6a055-f9f8-ea11-99c3-00155d039e74&ceid=247338)
+- [The Sunday Read: ‘The Agency’](https://www.nytimes.com/2020/09/20/podcasts/the-daily/russia-trolls-misinformation.html), a New York Times “The Daily” podcast about the Russian Internet Research Agency.
 
 ### Articles
 
