@@ -19,7 +19,11 @@ template = "page.html"
 
 ### Articles
 
+- [Pandemic Politics in Eurasia: Roadmap for a New Research Subfield](https://www.tandfonline.com/doi/full/10.1080/10758216.2020.1812404) Full citation: Marlene Laruelle, Mikhail Alexseev, Cynthia Buckley, Ralph S. Clem, J. Paul Goode, Ivan Gomza, Henry E. Hale, Erik Herron, Andrey Makarychev, Madeline McCann, Mariya Omelicheva, Gulnaz Sharafutdinova, Regina Smyth, Sarah Wilson Sokhey, Mikhail Troitskiy, Joshua A. Tucker, Judyth Twigg & Elizabeth Wishnick (2020) Pandemic Politics in Eurasia: Roadmap for a New Research Subfield, Problems of Post-Communism, https://doi.org/10.1080/10758216.2020.1812404
+
 - [The online competition between pro- and anti-vaccination views](https://www.nature.com/articles/s41586-020-2281-1) Full citation: Johnson, N.F., Velásquez, N., Restrepo, N.J. et al. The online competition between pro- and anti-vaccination views. Nature 582, 230–233 (2020). https://doi.org/10.1038/s41586-020-2281-1
+
+- [Slipping Racism into the Mainstream: A Theory of Information Laundering](https://www.researchgate.net/figure/Model-of-information-laundering_fig2_263138211) Full citation: Klein, Adam. 2012. Slipping Racism into the Mainstream: A Theory of Information Laundering. Communication Theory 22 (2012) 427–448.
 
 ### Books
 
