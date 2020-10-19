@@ -10,6 +10,7 @@ template = "page.html"
 - [Tackling COVID-19 disinformation - Getting the facts right](https://ec.europa.eu/info/sites/info/files/communication-tackling-covid-19-disinformation-getting-facts-right_en.pdf): a communication from the European Commission
 - [Digital Services Act proposed by European Commission](https://ec.europa.eu/digital-single-market/en/news/consultation-digital-services-act-package)
 - [European Democracy Action Plan proposed by European Commission](https://ec.europa.eu/commission/presscorner/detail/en/IP_20_1352)
+- [Levada Center poll: Who Do Russians Consider Their Biggest Enemies?](https://www.rferl.org/a/who-do-russians-consider-their-biggest-enemies/30896941.html)
 
 ### Podcasts
 
