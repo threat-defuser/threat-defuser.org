@@ -11,7 +11,7 @@ template = "page.html"
 - [Digital Services Act proposed by European Commission](https://ec.europa.eu/digital-single-market/en/news/consultation-digital-services-act-package)
 - [European Democracy Action Plan proposed by European Commission](https://ec.europa.eu/commission/presscorner/detail/en/IP_20_1352)
 - [Levada Center poll: Who Do Russians Consider Their Biggest Enemies?](https://www.rferl.org/a/who-do-russians-consider-their-biggest-enemies/30896941.html)
-- [https://www.regjeringen.no/no/aktuelt/presentasjon-av-den-nye-samfunnssikkerhetsmeldingen-og-langtidsplanen-for-forsvaret-justisministerens-innlegg/id2771492/](Presentasjon av den nye samfunnssikkerhetsmeldingen og langtidsplanen for Forsvaret)
+- [Presentasjon av den nye samfunnssikkerhetsmeldingen og langtidsplanen for Forsvaret](https://www.regjeringen.no/no/aktuelt/presentasjon-av-den-nye-samfunnssikkerhetsmeldingen-og-langtidsplanen-for-forsvaret-justisministerens-innlegg/id2771492/)
 
 ### Podcasts
 
