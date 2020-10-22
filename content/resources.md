@@ -11,8 +11,8 @@ template = "page.html"
 - [Tackling COVID-19 disinformation - Getting the facts right](https://ec.europa.eu/info/sites/info/files/communication-tackling-covid-19-disinformation-getting-facts-right_en.pdf): a communication from the European Commission
 - [Digital Services Act proposed by European Commission](https://ec.europa.eu/digital-single-market/en/news/consultation-digital-services-act-package)
 - [European Democracy Action Plan proposed by European Commission](https://ec.europa.eu/commission/presscorner/detail/en/IP_20_1352)
-- [Levada Center poll: Who Do Russians Consider Their Biggest Enemies?](https://www.rferl.org/a/who-do-russians-consider-their-biggest-enemies/30896941.html)
 - [Presentasjon av den nye samfunnssikkerhetsmeldingen og langtidsplanen for Forsvaret](https://www.regjeringen.no/no/aktuelt/presentasjon-av-den-nye-samfunnssikkerhetsmeldingen-og-langtidsplanen-for-forsvaret-justisministerens-innlegg/id2771492/)
+
 
 ### Podcasts
 
@@ -22,6 +22,8 @@ template = "page.html"
 
 ### Articles
 
+- [FROM ENGLISH INTO RUSSIAN INTO CZECH: RE-TRANSLATION AS A MANIPULATIVE TOOL](https://euvsdisinfo.eu/from-english-into-russian-into-czech-re-translation-as-a-manipulative-tool/)
+- [Levada Center poll: Who Do Russians Consider Their Biggest Enemies?](https://www.rferl.org/a/who-do-russians-consider-their-biggest-enemies/30896941.html)
 - [Pandemic Politics in Eurasia: Roadmap for a New Research Subfield](https://www.tandfonline.com/doi/full/10.1080/10758216.2020.1812404) Full citation: Marlene Laruelle, Mikhail Alexseev, Cynthia Buckley, Ralph S. Clem, J. Paul Goode, Ivan Gomza, Henry E. Hale, Erik Herron, Andrey Makarychev, Madeline McCann, Mariya Omelicheva, Gulnaz Sharafutdinova, Regina Smyth, Sarah Wilson Sokhey, Mikhail Troitskiy, Joshua A. Tucker, Judyth Twigg & Elizabeth Wishnick (2020) Pandemic Politics in Eurasia: Roadmap for a New Research Subfield, Problems of Post-Communism, https://doi.org/10.1080/10758216.2020.1812404
 
 - [The online competition between pro- and anti-vaccination views](https://www.nature.com/articles/s41586-020-2281-1) Full citation: Johnson, N.F., Velásquez, N., Restrepo, N.J. et al. The online competition between pro- and anti-vaccination views. Nature 582, 230–233 (2020). https://doi.org/10.1038/s41586-020-2281-1
