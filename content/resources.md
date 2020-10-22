@@ -6,6 +6,7 @@ template = "page.html"
 
 ### Links
 
+- [The Grey Zone](https://uit.no/research/thegreyzone): A research group at UiT The Arctic University of Norway that focuses on multiple challenges around understanding and addressing "grey zone" or hybrid threats and warfare
 - [European Digital Media Observatory](https://edmo.eu/)
 - [Tackling COVID-19 disinformation - Getting the facts right](https://ec.europa.eu/info/sites/info/files/communication-tackling-covid-19-disinformation-getting-facts-right_en.pdf): a communication from the European Commission
 - [Digital Services Act proposed by European Commission](https://ec.europa.eu/digital-single-market/en/news/consultation-digital-services-act-package)
