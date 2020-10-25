@@ -21,7 +21,7 @@ navigation = [
   { name = "Work packages", path = "/work-packages/" },
   { name = "Kick-off", path = "/kick-off/" },
   { name = "Team", path = "/team/" },
-  { name = "Open positions", path = "/positions/" },
+  { name = "Events", path = "/events/" },
 # { name = "Blog", path = "/blog/" },
   { name = "Resources", path = "/resources/" },
   { name = "GitHub", path = "https://github.com/threat-defuser" }
