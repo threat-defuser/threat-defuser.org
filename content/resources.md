@@ -33,6 +33,7 @@ template = "page.html"
 ### Books
 
 - The following books have been acquired as ebooks by UiT’s UB and some are also available through booksellers and audible.com
+  - Lepore, Jill. 2020. *If Then: How the Simulmatics Corporation Invented the Future*. Liveright.
   - Rid, Thomas. 2020. *Active measures: The secret history of disinformation and political warfare*. New York: Farrar, Straus and Giroux.
   - Howard, Philip N. 2020. *Lie Machines: How to Save Democracy from Troll Armies, Deceitful Robots, Junk News Operations, and Political Operatives*. Yale University Press.
   - Stengel, Richard. 2019. *Information Wars: How We Lost the Global Battle Against Disinformation and What We Can Do About It*. Grove Atlantic.
