@@ -22,6 +22,8 @@ template = "page.html"
 
 ### Articles
 
+-[Spiraling toward a New Cold War in the North? The Effect of Mutual and Multifaceted Securitization](doi: 10.1093/jogss/ogaa044). Wilhelmsen, Julie (2020) Spiraling toward a New Cold War in the North? The Effect of Mutual and Multifaceted Securitization. Journal of Global Security Studies, 0(0), 2020, 1–19.
+-[Norway and Russia in the Arctic: New Cold War Contamination?](https://doi.org/10.23865/arctic.v9.1334). JulieWilhelmsen & Kristian Lundby Gjerde.“Norway and Russia in the Arctic: New ColdWar Contamination?” Arctic Review on Law and Politics, Vol. 9, 2018, pp. 382–407.
 - [FROM ENGLISH INTO RUSSIAN INTO CZECH: RE-TRANSLATION AS A MANIPULATIVE TOOL](https://euvsdisinfo.eu/from-english-into-russian-into-czech-re-translation-as-a-manipulative-tool/)
 - [Levada Center poll: Who Do Russians Consider Their Biggest Enemies?](https://www.rferl.org/a/who-do-russians-consider-their-biggest-enemies/30896941.html)
 - [Pandemic Politics in Eurasia: Roadmap for a New Research Subfield](https://www.tandfonline.com/doi/full/10.1080/10758216.2020.1812404) Full citation: Marlene Laruelle, Mikhail Alexseev, Cynthia Buckley, Ralph S. Clem, J. Paul Goode, Ivan Gomza, Henry E. Hale, Erik Herron, Andrey Makarychev, Madeline McCann, Mariya Omelicheva, Gulnaz Sharafutdinova, Regina Smyth, Sarah Wilson Sokhey, Mikhail Troitskiy, Joshua A. Tucker, Judyth Twigg & Elizabeth Wishnick (2020) Pandemic Politics in Eurasia: Roadmap for a New Research Subfield, Problems of Post-Communism, https://doi.org/10.1080/10758216.2020.1812404
