@@ -6,7 +6,7 @@ template = "page.html"
 
 ### Links
 
--[Threat Defuser Team CrowdTangle Site](https://apps.crowdtangle.com/threatdefuserteam)
+- [Threat Defuser Team CrowdTangle Site](https://apps.crowdtangle.com/threatdefuserteam)
 - [The Grey Zone](https://uit.no/research/thegreyzone): A research group at UiT The Arctic University of Norway that focuses on multiple challenges around understanding and addressing "grey zone" or hybrid threats and warfare
 - [European Digital Media Observatory](https://edmo.eu/)
 - [Tackling COVID-19 disinformation - Getting the facts right](https://ec.europa.eu/info/sites/info/files/communication-tackling-covid-19-disinformation-getting-facts-right_en.pdf): a communication from the European Commission
