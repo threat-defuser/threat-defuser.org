@@ -23,6 +23,7 @@ navigation = [
   { name = "Team", path = "/team/" },
   { name = "Events", path = "/events/" },
 # { name = "Blog", path = "/blog/" },
+  { name = "Results", path = "/results/" },
   { name = "Resources", path = "/resources/" },
   { name = "GitHub", path = "https://github.com/threat-defuser" }
 ]
