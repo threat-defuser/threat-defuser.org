@@ -2,6 +2,8 @@
 template = "page.html"
 +++
 
+## Results
+
 ## Kick-off meeting August 24-25, 2020
 
 ### NOTE: Kick-off meeting is for team members and invited guests
