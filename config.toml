@@ -19,7 +19,7 @@ description = "Hybrid warfare and a plan to safeguard societies"
 navigation = [
   { name = "About", path = "/" },
   { name = "Work packages", path = "/work-packages/" },
-  { name = "Kick-off", path = "/kick-off/" },
+  { name = "Results", path = "/results/" },
   { name = "Team", path = "/team/" },
   { name = "Events", path = "/events/" },
 # { name = "Blog", path = "/blog/" },
