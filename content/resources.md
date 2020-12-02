@@ -37,6 +37,7 @@ template = "page.html"
 ### Books
 
 - The following books have been acquired as ebooks by UiT’s UB and some are also available through booksellers and audible.com
+  - Aral, Sinan. 2020. The Hype Machine: HOW SOCIAL MEDIA DISRUPTS OUR ELECTIONS, OUR ECONOMY, AND OUR HEALTH–AND HOW WE MUST ADAPT. Penguin Random House.
   - Sanger, David E. 2019. *The Perfect Weapon: War, Sabotage, and Fear in the Cyber Age*. Penguin Random House.
   - Lepore, Jill. 2020. *If Then: How the Simulmatics Corporation Invented the Future*. Liveright.
   - Rid, Thomas. 2020. *Active measures: The secret history of disinformation and political warfare*. New York: Farrar, Straus and Giroux.
