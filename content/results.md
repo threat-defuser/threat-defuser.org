@@ -18,9 +18,9 @@ template = "page.html"
 
 ### Articles
 
--Janda, Laura A. 13.11.2020.[“Sannheten trenger hjelp når feilinformasjon spres i sosiale medier”](https://www.transitmag.no/2020/11/13/sannheten-trenger-hjelp-nar-feilinformasjon-spres-i-sosiale-medier/). Op-ed in <i>Transit Magasin</i>.   
+- Janda, Laura A. 13.11.2020. [“Sannheten trenger hjelp når feilinformasjon spres i sosiale medier”](https://www.transitmag.no/2020/11/13/sannheten-trenger-hjelp-nar-feilinformasjon-spres-i-sosiale-medier/). Op-ed in <i>Transit Magasin</i>.
+
 
 ### How to register results for the THREAT-DEFUSER team
 
 - [How to register publications and other activities in CRISTIN](https://github.com/threat-defuser/threat-defuser.org/blob/master/how-to/register-publication.md)
-
