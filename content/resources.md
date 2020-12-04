@@ -8,6 +8,9 @@ template = "page.html"
 
 - [Threat Defuser Team CrowdTangle Site](https://apps.crowdtangle.com/threatdefuserteam)
 - [The Grey Zone](https://uit.no/research/thegreyzone): A research group at UiT The Arctic University of Norway that focuses on multiple challenges around understanding and addressing "grey zone" or hybrid threats and warfare
+- [Wikipedia Conspiracist media](https://en.wikipedia.org/wiki/Category:Conspiracist_media): A list of conspiracist media sources
+- [Rational Wiki](https://rationalwiki.org/wiki/Main_Page): Analysis of pseudoscience, crank ideas, authoritariansim and fundamentalism as represented in the media.
+- [Media Bias Fact Check](https://mediabiasfactcheck.com/): rating of the credibility and political balance of media sources
 - [European Digital Media Observatory](https://edmo.eu/)
 - [Tackling COVID-19 disinformation - Getting the facts right](https://ec.europa.eu/info/sites/info/files/communication-tackling-covid-19-disinformation-getting-facts-right_en.pdf): a communication from the European Commission
 - [Digital Services Act proposed by European Commission](https://ec.europa.eu/digital-single-market/en/news/consultation-digital-services-act-package)
@@ -22,6 +25,8 @@ template = "page.html"
 - [The Sunday Read: ‘The Agency’](https://www.nytimes.com/2020/09/20/podcasts/the-daily/russia-trolls-misinformation.html), a New York Times “The Daily” podcast about the Russian Internet Research Agency.
 
 ### Articles
+
+- [It takes a village to manipulate the media](https://doi.org/10.1080/1369118X.2020.1739732). Giglietto, Fabio Nicola Righetti,Luca Rossi & Giada Marino. 2020. It takes a village to manipulate the media: coordinated link sharing behavior during 2018 and 2019 Italian elections. *Information, Communication & Society* 23(6), 867–891.
 
 - [Påvirkningsoperasjoner i sosiale medier – oversikt og utfordringer](https://www.ffi.no/publikasjoner/arkiv/pavirkningsoperasjoner-i-sosiale-medier-oversikt-og-utfordringer). Bergh, Arild. 2020. Påvirkningsoperasjoner i sosiale medier – oversikt og utfordringer / Influence operations in social media – summary and challenges. Forsvarets forskningsinstitutt, rapport 20/01694.
 - [Spiraling toward a New Cold War in the North? The Effect of Mutual and Multifaceted Securitization](doi: 10.1093/jogss/ogaa044). Wilhelmsen, Julie (2020) Spiraling toward a New Cold War in the North? The Effect of Mutual and Multifaceted Securitization. Journal of Global Security Studies, 0(0), 2020, 1–19.
