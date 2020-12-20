@@ -21,6 +21,11 @@ template = "page.html"
 - Janda, Laura A. 13.11.2020. [“Sannheten trenger hjelp når feilinformasjon spres i sosiale medier”](https://www.transitmag.no/2020/11/13/sannheten-trenger-hjelp-nar-feilinformasjon-spres-i-sosiale-medier/). Op-ed in <i>Transit Magasin</i>.
 
 
+### Scholarly presentations
+
+- Hoogensen Gjørv, Gunhild. 22.10.2020. [“Nasjonal sikkerhet i en ekstremsituasjon med pandemi som eksempel”](https://www.dnva.no/detskjer/2020/05/nasjonal-sikkerhet-i-en-ekstremsituasjon-med-pandemi-som-eksempel). Det Norske Videnskaps-Akademi, Oslo.
+
+
 ### How to register results for the THREAT-DEFUSER team
 
 - [How to register publications and other activities in CRISTIN](https://github.com/threat-defuser/threat-defuser.org/blob/master/how-to/register-publication.md)
