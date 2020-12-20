@@ -20,11 +20,14 @@ template = "page.html"
 
 ### Podcasts
 
+- [The Russia File Podcast](https://www.wilsoncenter.org/collection/russia-file-podcast), from the Wilson Center. The podcast explores Russia: its history, politics, culture and society, and its relations with the surrounding countries, the United States and beyond, hosted by Maxim Trudolyubov and Izabella Tabarovsky.
 - [The Spread of Misinformation Online](https://overcast.fm/+O1Sbef-OM), interview with Neil F. Johnson
 - [KennanX Episode 10: "'You Can't Say That!' - Political Correctness, Russian-style](https://www.wilsoncenter.org/audio/kennanx-episode-10-you-cant-say-political-correctness-russian-style?sourceid=&emci=1870391e-25f8-ea11-99c3-00155d039e74&emdi=75f6a055-f9f8-ea11-99c3-00155d039e74&ceid=247338)
 - [The Sunday Read: ‘The Agency’](https://www.nytimes.com/2020/09/20/podcasts/the-daily/russia-trolls-misinformation.html), a New York Times “The Daily” podcast about the Russian Internet Research Agency.
 
 ### Articles
+
+- [Наступление в войне идей](https://rg.ru/2020/11/26/sergej-karaganov-oboronitelnaia-tradiciia-neumestna-v-nyneshnem-mire.html). “An Offensive in a War of Ideas”, by Sergei Karaganov, Honorary Chairman of the Presidium of the Council on Foreign and Defense Policy. This article gives an overview of Russia's sense of its position in the world.
 
 - [It takes a village to manipulate the media](https://doi.org/10.1080/1369118X.2020.1739732). Giglietto, Fabio Nicola Righetti,Luca Rossi & Giada Marino. 2020. It takes a village to manipulate the media: coordinated link sharing behavior during 2018 and 2019 Italian elections. *Information, Communication & Society* 23(6), 867–891.
 
