@@ -48,6 +48,7 @@ template = "page.html"
 presents a multidisciplinary and multifaceted perspective on how the ‘digital’ is simultaneously changing Russia and the research methods scholars use to study Russia.
 
 - The following books have been acquired as ebooks by UiT’s UB and some are also available through booksellers and audible.com
+  - Bergmann, Eirikur. 2018. *Conspiracy & Populism: The Politics of Misinformation*. Springer International Publishing AG.
   - Aral, Sinan. 2020. The Hype Machine: HOW SOCIAL MEDIA DISRUPTS OUR ELECTIONS, OUR ECONOMY, AND OUR HEALTH–AND HOW WE MUST ADAPT. Penguin Random House.
   - Sanger, David E. 2019. *The Perfect Weapon: War, Sabotage, and Fear in the Cyber Age*. Penguin Random House.
   - Lepore, Jill. 2020. *If Then: How the Simulmatics Corporation Invented the Future*. Liveright.
