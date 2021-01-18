@@ -44,7 +44,7 @@ template = "page.html"
 
 ### Books
 
-- [Russian Social Media Influence](RussianSocialMediaRAND.pdf). This is a 2018 study by RAND, including some linguistic analysis.
+- [Russian Social Media Influence](https://www.rand.org/pubs/research_reports/RR2740.html). This is a 2018 study by RAND, including some linguistic analysis.
 - [The Palgrave Handbook of Digital Russia Studies](https://link.springer.com/book/10.1007/978-3-030-42855-6). This open-access anthology 
 presents a multidisciplinary and multifaceted perspective on how the ‘digital’ is simultaneously changing Russia and the research methods scholars use to study Russia.
 
