@@ -14,11 +14,6 @@ picture = "benko.jpg"
 homepage = "http://www.juls.savba.sk/~vladob"
 
 [[team]]
-name = "Patrick Cullen"
-picture = "cullen.jpg"
-homepage = "https://www.nupi.no/en/About-NUPI/Employees/Researchers/Patrick-J.-Cullen"
-
-[[team]]
 name = "Václav Cvrček"
 picture = "cvrcek.jpg"
 homepage = "https://ucnk.ff.cuni.cz/cs/ustav/lide/vaclav-cvrcek/"
