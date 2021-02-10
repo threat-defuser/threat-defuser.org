@@ -27,6 +27,8 @@ template = "page.html"
 
 ### Articles
 
+- [Word Embedding Based on Large-Scale Web Corpora as a PowerfuL Lexicographic Tool](https://hrcak.srce.hr/245458), by Radovan Garabik. 2019.
+
 - [Наступление в войне идей](https://rg.ru/2020/11/26/sergej-karaganov-oboronitelnaia-tradiciia-neumestna-v-nyneshnem-mire.html). “An Offensive in a War of Ideas”, by Sergei Karaganov, Honorary Chairman of the Presidium of the Council on Foreign and Defense Policy. This article gives an overview of Russia's sense of its position in the world.
 
 - [It takes a village to manipulate the media](https://doi.org/10.1080/1369118X.2020.1739732). Giglietto, Fabio Nicola Righetti,Luca Rossi & Giada Marino. 2020. It takes a village to manipulate the media: coordinated link sharing behavior during 2018 and 2019 Italian elections. *Information, Communication & Society* 23(6), 867–891.
