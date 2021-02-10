@@ -15,6 +15,7 @@ env:
   ZOLA_VERSION: "0.13.0"
   MAIN_BRANCH: "main"
   TARGET_BRANCH: "gh-pages"
+  #DEPLOY_ORGANIZATION: ""
   #CNAME: xxx   # or make a CNAME in the root
 
 on:
@@ -49,13 +50,15 @@ jobs:
       run: |
         if [ -f CNAME ] ; then
             mv CNAME public/
+            echo "Copied CNAME from repository root"
             exit 0
         fi
         if [ -n ${{ env.CNAME }} ] ; then
             echo -n ${{ env.CNAME }} > public/CNAME
+            echo "Used CNAME from the action workflow file"
         fi
-    - name: Commit and push to target branch
-      if: github.ref == 'refs/heads/${{ env.MAIN_BRANCH }}'
+    - name: Deploy to gh-pages
+      if: ${{ github.event_name == 'push' && github.ref == format('refs/heads/{0}', env.MAIN_BRANCH) && ( env.DEPLOY_ORGANIZATION == '' || github.repository_owner == env.DEPLOY_ORGANIZATION ) }}
       uses: peaceiris/actions-gh-pages@v3
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
