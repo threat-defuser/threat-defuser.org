@@ -24,6 +24,8 @@ template = "page.html"
 ### Scholarly presentations
 
 - Hoogensen Gjørv, Gunhild. 22.10.2020. [“Nasjonal sikkerhet i en ekstremsituasjon med pandemi som eksempel”](https://www.dnva.no/detskjer/2020/05/nasjonal-sikkerhet-i-en-ekstremsituasjon-med-pandemi-som-eksempel). Det Norske Videnskaps-Akademi, Oslo.
+- Cvrček, Václav and Masako Fidler. 09.03.2021. [A pilot study: Application of Market Basket Analysis to Text Analysis](Threat defuser presentation March 2021-VC-MUF.pdf[Threat defuser presentation March 2021-VC-MUF.pdf](https://github.com/threat-defuser/threat-defuser.org/files/6114623/Threat.defuser.presentation.March.2021-VC-MUF.pdf)
+)
 
 
 ### How to register results for the THREAT-DEFUSER team
