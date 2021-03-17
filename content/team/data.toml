@@ -19,14 +19,27 @@ picture = "cvrcek.jpg"
 homepage = "https://ucnk.ff.cuni.cz/cs/ustav/lide/vaclav-cvrcek/"
 
 [[team]]
+name = "Isabel Dineen"
+picture = "dineen.jpg"
+
+[[team]]
 name = "Gunhild Hoogensen Gjørv"
 picture = "hoogensen-gjoerv.jpg"
 homepage = "https://uit.no/ansatte/person?p_document_id=42266"
 
 [[team]]
+name = "Mariia Kobzeva"
+picture = "kobzeva.jpg"
+homepage = "https://en.uit.no/ansatte/person?p_document_id=649306"
+
+[[team]]
 name = "Tore Nesset"
 picture = "nesset.jpg"
 homepage = "https://uit.no/ansatte/person?p_document_id=41533"
+
+[[team]]
+name = "Anna Obukhova"
+picture = "obukhova.jpg"
 
 [[team]]
 name = "Holger Pötzsch"
@@ -52,3 +65,7 @@ homepage = "https://uit.no/ansatte/person?p_document_id=41545"
 name = "Masako Ueda Fidler"
 picture = "ueda-fidler.jpg"
 homepage = "https://vivo.brown.edu/display/mufidler"
+
+[[team]]
+name = "Valentina Zhukova"
+picture = "zhukova.jpg"
