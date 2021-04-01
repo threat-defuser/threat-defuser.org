@@ -67,5 +67,10 @@ picture = "ueda-fidler.jpg"
 homepage = "https://vivo.brown.edu/display/mufidler"
 
 [[team]]
+name = "Julie Wilhelmsen"
+picture = "wilhelmsen.jpg"
+homepage = "https://www.nupi.no/Om-NUPI/Medarbeidere/Forskere/Julie-Wilhelmsen"
+
+[[team]]
 name = "Valentina Zhukova"
 picture = "zhukova.jpg"
