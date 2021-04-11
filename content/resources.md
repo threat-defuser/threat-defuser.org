@@ -101,4 +101,9 @@ presents a multidisciplinary and multifaceted perspective on how the â€˜digitalâ
 
 ### How-to documents for the THREAT-DEFUSER team
 
-- [How to register publications and other activities in CRISTIN](https://github.com/threat-defuser/threat-defuser.org/blob/master/how-to/register-publication.md)
+- [How to register publications and other activities in CRISTIN](https://github.com/threat-defuser/threat-defuser.org/blob/main/how-to/register-publication.md)
+
+
+### Media search
+
+- This is experimental and under development: [media search](/media-search/)

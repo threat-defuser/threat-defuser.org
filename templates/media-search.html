@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+
+{% block content %}
+  {{ page.content | safe }}
+
+  <img src="{{ resize_image(path="media-clusters.png", height=500, op="fit_height") | safe }}" alt="media clusters">
+
+  <!-- google custom search engine -->
+  <script async src="https://cse.google.com/cse.js?cx=457beaa5215a36439"></script>
+  <div class="gcse-search"></div>
+{% endblock content %}
