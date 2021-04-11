@@ -48,7 +48,7 @@ template = "page.html"
   utfordringer / Influence operations in social media – summary and challenges.
   Forsvarets forskningsinstitutt, rapport 20/01694.
 - [Spiraling toward a New Cold War in the North? The Effect of Mutual and
-  Multifaceted Securitization](doi: 10.1093/jogss/ogaa044). Wilhelmsen, Julie
+  Multifaceted Securitization](https://doi.org/10.1093/jogss/ogaa044). Wilhelmsen, Julie
   (2020) Spiraling toward a New Cold War in the North? The Effect of Mutual and
   Multifaceted Securitization. Journal of Global Security Studies, 0(0), 2020,
   1–19.
