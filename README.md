@@ -39,6 +39,18 @@ around CSS/Sass.
 You can modify the page layouts by editing files inside the [templates](templates) folder.
 
 
+### How to upload articles or presentations
+
+- Create a branch and change to the branch.
+- On the branch add a file to either the [articles folder](content/articles)
+  or the [presentations folder](content/presentations).
+- Then in [results.md](content/results.md) refer to it following the other examples, e.g.:
+```
+- Cvrček, Václav and Masako Fidler. 2021(preprint)/2022(forthcoming).
+  [No Keyword is an Island: In search of covert associations](/articles/CvrcekFidler2021.pdf). *Corpora*.
+```
+
+
 ### How to preview changes locally
 
 Install [Zola](https://www.getzola.org/), then run:
