@@ -19,6 +19,8 @@ template = "page.html"
 
 ### Articles
 
+- Cvrček, Václav and Masako Fidler. 2021(preprint)/2022(forthcoming).
+  [No Keyword is an Island: In search of covert associations](/articles/CvrcekFidler2021.pdf). *Corpora*.
 - Janda, Laura A. 13.11.2020. [“Sannheten trenger hjelp når feilinformasjon spres i sosiale medier”](https://www.transitmag.no/2020/11/13/sannheten-trenger-hjelp-nar-feilinformasjon-spres-i-sosiale-medier/). Op-ed in <i>Transit Magasin</i>.
 
 
