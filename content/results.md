@@ -6,10 +6,10 @@ template = "page.html"
 
 ### Interviews
 
-- Cvrček, Václav. 22.11.2020. [TŘETÍ PÁD: UBLIŽUJEME KOMU, ČEMU? VŠICHNI UBLIŽUJEME RUSKU](https://finmag.penize.cz/dezinformace-a-koronavirus/422169-treti-pad-ublizujeme-komu-cemu-vsichni-ublizujeme-rusku). <i>Finmag</i>.
-- Cvrček, Václav. 21.11.2020. [DRUHÁ VLNA PANDEMIE DO MÉDIÍ JEŠTĚ NEDORAZILA](https://finmag.penize.cz/dezinformace-a-koronavirus/422164-druha-vlna-pandemie-do-medii-jeste-nedorazila). <i>Finmag</i>.
-- Šlerka, Josef. 14.11.2020. [VĚDA A MÉDIA NA SEBE BRUTÁLNĚ NARÁŽEJÍ](https://finmag.penize.cz/dezinformace-a-koronavirus/421945-veda-a-media-na-sebe-brutalne-narazeji). <i>Finmag</i>.
-- Janda, Laura A. October 2020. [Alumni Spotlight Interview: Laura Janda](https://mailchi.mp/eafdf7759369/cas-oslo-newsletter-1579946?e=de07b63c7a). <i>Newsletter of the Centre for Advanced Study in Oslo</i>.
+- Cvrček, Václav. 22.11.2020. [TŘETÍ PÁD: UBLIŽUJEME KOMU, ČEMU? VŠICHNI UBLIŽUJEME RUSKU](https://finmag.penize.cz/dezinformace-a-koronavirus/422169-treti-pad-ublizujeme-komu-cemu-vsichni-ublizujeme-rusku). *Finmag*.
+- Cvrček, Václav. 21.11.2020. [DRUHÁ VLNA PANDEMIE DO MÉDIÍ JEŠTĚ NEDORAZILA](https://finmag.penize.cz/dezinformace-a-koronavirus/422164-druha-vlna-pandemie-do-medii-jeste-nedorazila). *Finmag*.
+- Šlerka, Josef. 14.11.2020. [VĚDA A MÉDIA NA SEBE BRUTÁLNĚ NARÁŽEJÍ](https://finmag.penize.cz/dezinformace-a-koronavirus/421945-veda-a-media-na-sebe-brutalne-narazeji). *Finmag*.
+- Janda, Laura A. October 2020. [Alumni Spotlight Interview: Laura Janda](https://mailchi.mp/eafdf7759369/cas-oslo-newsletter-1579946?e=de07b63c7a). *Newsletter of the Centre for Advanced Study in Oslo*.
 
 
 ### Videos
@@ -21,7 +21,7 @@ template = "page.html"
 
 - Cvrček, Václav and Masako Fidler. 2021(preprint)/2022(forthcoming).
   [No Keyword is an Island: In search of covert associations](/articles/CvrcekFidler2021.pdf). *Corpora*.
-- Janda, Laura A. 13.11.2020. [“Sannheten trenger hjelp når feilinformasjon spres i sosiale medier”](https://www.transitmag.no/2020/11/13/sannheten-trenger-hjelp-nar-feilinformasjon-spres-i-sosiale-medier/). Op-ed in <i>Transit Magasin</i>.
+- Janda, Laura A. 13.11.2020. [“Sannheten trenger hjelp når feilinformasjon spres i sosiale medier”](https://www.transitmag.no/2020/11/13/sannheten-trenger-hjelp-nar-feilinformasjon-spres-i-sosiale-medier/). Op-ed in *Transit Magasin*.
 
 
 ### Scholarly presentations
