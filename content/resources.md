@@ -30,6 +30,7 @@ template = "page.html"
 
 ### Articles
 
+- [How to understand and deal with Russian strategic communication measures?](https://nupi.brage.unit.no/nupi-xmlui/handle/11250/2490552), by Østevik, Malin; Godzimirski, Jakub M. 2018.
 - [Word Embedding Based on Large-Scale Web Corpora as a PowerfuL Lexicographic
   Tool](https://hrcak.srce.hr/245458), by Radovan Garabik. 2019.
 - [Наступление в войне
