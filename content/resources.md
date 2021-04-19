@@ -10,6 +10,7 @@ template = "page.html"
 - [Russia Matters](https://russiamatters.org/)
 - [Threat Defuser Team CrowdTangle Site](https://apps.crowdtangle.com/threatdefuserteam)
 - [The Grey Zone](https://uit.no/research/thegreyzone): A research group at UiT The Arctic University of Norway that focuses on multiple challenges around understanding and addressing "grey zone" or hybrid threats and warfare
+- [The Russia Conference 2017 - Competing realities](https://www.nupi.no/en/Events/2017/The-Russia-Conference-2017-Competing-realities). NUPI.
 - [Wikipedia Conspiracist media](https://en.wikipedia.org/wiki/Category:Conspiracist_media): A list of conspiracist media sources
 - [Rational Wiki](https://rationalwiki.org/wiki/Main_Page): Analysis of pseudoscience, crank ideas, authoritariansim and fundamentalism as represented in the media.
 - [Media Bias Fact Check](https://mediabiasfactcheck.com/): rating of the credibility and political balance of media sources
@@ -31,6 +32,9 @@ template = "page.html"
 ### Articles
 
 - [How to understand and deal with Russian strategic communication measures?](https://nupi.brage.unit.no/nupi-xmlui/handle/11250/2490552), by Østevik, Malin; Godzimirski, Jakub M. 2018.
+- [Going Beyond “Aboutness”: A Quantitative Analysis of Sputnik Czech Republic](https://link.springer.com/chapter/10.1007/978-3-319-98017-1_10), by Masako Fidler and Václav Cvrček. 2018.
+- [corporaexplorer: An R package for dynamic exploration
+of text collections](https://joss.theoj.org/papers/10.21105/joss.01342), by Kristian Lundby Gjerde. 2019.
 - [Word Embedding Based on Large-Scale Web Corpora as a PowerfuL Lexicographic
   Tool](https://hrcak.srce.hr/245458), by Radovan Garabik. 2019.
 - [Наступление в войне
@@ -88,6 +92,8 @@ template = "page.html"
 presents a multidisciplinary and multifaceted perspective on how the ‘digital’ is simultaneously changing Russia and the research methods scholars use to study Russia.
 
 - The following books have been acquired as ebooks by UiT’s UB and some are also available through booksellers and audible.com
+
+  - Butter, Michael and Peter Knight, eds. 2020. *Routledge Handbook of Conspiracy Theories*.
   - Bergmann, Eirikur. 2018. *Conspiracy & Populism: The Politics of Misinformation*. Springer International Publishing AG.
   - Aral, Sinan. 2020. The Hype Machine: HOW SOCIAL MEDIA DISRUPTS OUR ELECTIONS, OUR ECONOMY, AND OUR HEALTH–AND HOW WE MUST ADAPT. Penguin Random House.
   - Sanger, David E. 2019. *The Perfect Weapon: War, Sabotage, and Fear in the Cyber Age*. Penguin Random House.
