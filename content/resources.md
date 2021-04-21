@@ -6,6 +6,7 @@ template = "page.html"
 
 ### Links
 
+- [Czech media map](https://www.nfnz.cz/studie-a-analyzy/typologie-domacich-zpravodajskych-webu/)
 - [Aranea Web Corpora](http://ucts.uniba.sk/aranea_about/)
 - [Russia Matters](https://russiamatters.org/)
 - [Threat Defuser Team CrowdTangle Site](https://apps.crowdtangle.com/threatdefuserteam)
