@@ -23,6 +23,11 @@ name = "Isabel Dineen"
 picture = "dineen.jpg"
 
 [[team]]
+name = "Jakub M. Godzimirski"
+picture = "godzimirski.jpg"
+homepage = "https://www.nupi.no/en/About-NUPI/Employees/Researchers/Jakub-M.-Godzimirski"
+
+[[team]]
 name = "Gunhild Hoogensen Gjørv"
 picture = "hoogensen-gjoerv.jpg"
 homepage = "https://uit.no/ansatte/person?p_document_id=42266"
