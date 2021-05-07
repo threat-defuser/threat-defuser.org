@@ -32,6 +32,7 @@ template = "page.html"
 
 ### Articles
 
+- [RUSSIAN MEDIA IN GERMANY: How Russian information warfare and disinformation have affected Germany, by Dr. Susanne Spahn, 2020](https://www.freiheit.org/sites/default/files/2021-05/russian-media-in-germany.pdf)
 - [How to understand and deal with Russian strategic communication measures?](https://nupi.brage.unit.no/nupi-xmlui/handle/11250/2490552), by Østevik, Malin; Godzimirski, Jakub M. 2018.
 - [Going Beyond “Aboutness”: A Quantitative Analysis of Sputnik Czech Republic](https://link.springer.com/chapter/10.1007/978-3-319-98017-1_10), by Masako Fidler and Václav Cvrček. 2018.
 - [corporaexplorer: An R package for dynamic exploration
