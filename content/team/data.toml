@@ -38,6 +38,11 @@ picture = "kobzeva.jpg"
 homepage = "https://en.uit.no/ansatte/person?p_document_id=649306"
 
 [[team]]
+name = "Anastasia Makarova"
+picture = "makarova.jpg"
+homepage = "https://katalog.uu.se/profile/?id=N20-1741"
+
+[[team]]
 name = "Tore Nesset"
 picture = "nesset.jpg"
 homepage = "https://uit.no/ansatte/person?p_document_id=41533"
