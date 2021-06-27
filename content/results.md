@@ -26,6 +26,8 @@ template = "page.html"
 
 ### Scholarly presentations
 
+- Godzimirski, Jakub M. 12.05.2021. "What are Russia’s strategic ambitions towards Europe and how Russia uses information measures to achieve its goals". Presentation for Threat-Defuser group.[2021 05 12 Threat defuser Russian information warfare towards Europe  goals means and measures.pptx](https://github.com/threat-defuser/threat-defuser.org/files/6721292/2021.05.12.Threat.defuser.Russian.information.warfare.towards.Europe.goals.means.and.measures.pptx)
+
 - Hoogensen Gjørv, Gunhild. 22.10.2020. [“Nasjonal sikkerhet i en ekstremsituasjon med pandemi som eksempel”](https://www.dnva.no/detskjer/2020/05/nasjonal-sikkerhet-i-en-ekstremsituasjon-med-pandemi-som-eksempel). Det Norske Videnskaps-Akademi, Oslo.
 - Cvrček, Václav and Masako Fidler. 09.03.2021.
   [A pilot study: Application of Market Basket Analysis to Text Analysis](/presentations/2021-03-09-vc-muf.pdf).
