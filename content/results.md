@@ -36,3 +36,7 @@ template = "page.html"
 ### How to register results for the THREAT-DEFUSER team
 
 - [How to register publications and other activities in CRISTIN](https://github.com/threat-defuser/threat-defuser.org/blob/main/how-to/register-publication.md)
+
+### Meeting notes
+
+- [Threat-Defuser Meeting, Tuesday September 21, 2021..docx](https://github.com/threat-defuser/threat-defuser.org/files/7208369/Threat-Defuser.Meeting.Tuesday.September.21.2021.docx)
