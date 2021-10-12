@@ -21,7 +21,14 @@ template = "page.html"
 
 - Cvrček, Václav and Masako Fidler. 2021(preprint)/2022(forthcoming).
   [No Keyword is an Island: In search of covert associations](/articles/CvrcekFidler2021.pdf). *Corpora*.
-- Janda, Laura A. 13.11.2020. [“Sannheten trenger hjelp når feilinformasjon spres i sosiale medier”](https://www.transitmag.no/2020/11/13/sannheten-trenger-hjelp-nar-feilinformasjon-spres-i-sosiale-medier/). Op-ed in *Transit Magasin*.
+  
+### Op-ed pieces
+
+- Janda, Laura A. 11.10.2021. [Lover uten grenser i Russland](https://www.nordnorskdebatt.no/lover-uten-grenser-i-russland/o/5-124-143781). Op-ed in *Nordnorsk debatt*.
+
+- Rogatchevski, Andrei. 8. 10. 2021. [Armageddon v českém stylu?](https://blisty.cz/art/105430-armageddon-v-ceskem-stylu.html). Op-ed in *Britské listy*.
+  
+- Janda, Laura A. 13.11.2020. [Sannheten trenger hjelp når feilinformasjon spres i sosiale medier](https://www.transitmag.no/2020/11/13/sannheten-trenger-hjelp-nar-feilinformasjon-spres-i-sosiale-medier/). Op-ed in *Transit Magasin*.
 
 
 ### Scholarly presentations
