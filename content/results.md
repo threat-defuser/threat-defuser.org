@@ -24,6 +24,8 @@ template = "page.html"
   
 ### Op-ed pieces
 
+- Rogatchevski, Andrei. 14. 10. 2021. [Et dramatisk maktskifte?](https://klassekampen.no/utgave/2021-10-14/debatt-et-dramatisk-maktskifte). Op-ed in *Klassekampen*.
+
 - Janda, Laura A. 11.10.2021. [Lover uten grenser i Russland](https://www.nordnorskdebatt.no/lover-uten-grenser-i-russland/o/5-124-143781). Op-ed in *Nordnorsk debatt*.
 
 - Rogatchevski, Andrei. 8. 10. 2021. [Armageddon v českém stylu?](https://blisty.cz/art/105430-armageddon-v-ceskem-stylu.html). Op-ed in *Britské listy*.
