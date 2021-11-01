@@ -25,4 +25,7 @@ DEFUSER project under Prosjekter.
 TIL”
 
 7) In the window, paste in the Postnr. at the bottom where it says Cristin
-publikasjons-ID and click SØK and follow the directions from there.
+publikasjons-ID and click SØK and VELG and OK.
+
+8) After you close the window, you need to scroll down to the bottom of the page 
+and click on the big green LAGRE button.
