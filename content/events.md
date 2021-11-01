@@ -2,7 +2,7 @@
 template = "page.html"
 +++
 
-## October 27, 2021 [Identity Threat and Cyber Security: Czech Language and Identity in the Globalizing World](https://watson.brown.edu/events/2021/identity-threat-and-cyber-security-czech-language-and-identity-globalizing-world), by Václav Cvrček, Lida Cope, and Masako Fidler.
+## October 27, 2021 [Identity Threat and Cyber Security: Czech Language and Identity in the Globalizing World](https://watson.brown.edu/events/2021/identity-threat-and-cyber-security-czech-language-and-identity-globalizing-world), by Václav Cvrček, Lida Cope, and Masako Fidler. [video recording](https://www.youtube.com/watch?v=jnRE3I-CSzQ).
 
 ## November 11, 2020 at 8am Oslo time (GMT+1)
 ## [Webinar om desinformasjon: Hvordan styrke vår evne til å oppdage, varsle og motvirke?](https://www.prosjektutsyn.no/webinar-om-desinformasjon/)
