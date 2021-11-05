@@ -24,6 +24,8 @@ template = "page.html"
   
 ### Op-ed pieces
 
+- Janda, Laura A. 21.10.2021.[Slik ble Putins milliardærnettverk avslørt](https://www.nordnorskdebatt.no/slik-ble-putins-milliardarnettverk-avslort/o/5-124-145695). Op-ed in *Nordlys*.
+
 - Janda, Laura A. 18.10.2021. [Valgdeltagelse og vaksine: Tillit i Norge og Russland](https://www.transitmag.no/2021/10/18/valgdeltagelse-og-vaksine-tillit-i-norge-og-russland/). Op-ed in *Transit Magasin*.
 
 - Rogatchevski, Andrei. 14. 10. 2021. [Et dramatisk maktskifte?](https://klassekampen.no/utgave/2021-10-14/debatt-et-dramatisk-maktskifte). Op-ed in *Klassekampen*.
