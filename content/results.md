@@ -24,6 +24,9 @@ template = "page.html"
   
 ### Op-ed pieces
 
+- Obukhova, Anna. 09.11.2021. [Er RT virkelig et velsmurt propagandaverktøy?](https://www.nordnorskdebatt.no/er-rt-virkelig-et-velsmurt-propagandaverktoy/o/5-124-148790). Op-ed in *Nordlys: Nordnorsk debatt*.
+
+
 - Janda, Laura A. 18.10.2021. [Valgdeltagelse og vaksine: Tillit i Norge og Russland](https://www.transitmag.no/2021/10/18/valgdeltagelse-og-vaksine-tillit-i-norge-og-russland/). Op-ed in *Transit Magasin*.
 
 - Rogatchevski, Andrei. 14. 10. 2021. [Et dramatisk maktskifte?](https://klassekampen.no/utgave/2021-10-14/debatt-et-dramatisk-maktskifte). Op-ed in *Klassekampen*.
