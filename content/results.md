@@ -56,3 +56,4 @@ template = "page.html"
 
 - [Threat-Defuser Meeting, Tuesday September 21, 2021.docx](https://github.com/threat-defuser/threat-defuser.org/files/7208369/Threat-Defuser.Meeting.Tuesday.September.21.2021.docx)
 - [THREAT-DEFUSER meeting, Monday, October 11, 2021.docx](https://github.com/threat-defuser/threat-defuser.org/files/7324426/THREAT-DEFUSER.meeting.Monday.October.11.2021.docx)
+- [Threat-Defuser Meeting November 9 2021.docx](https://github.com/threat-defuser/threat-defuser.org/files/7510646/Threat-Defuser.Meeting.November.9.2021.docx)
