@@ -24,7 +24,9 @@ template = "page.html"
   
 ### Op-ed pieces
 
-- Janda, Laura A. 21.10.2021.[Slik ble Putins milliardærnettverk avslørt](https://www.nordnorskdebatt.no/slik-ble-putins-milliardarnettverk-avslort/o/5-124-145695). Op-ed in *Nordlys*.
+- Janda, Laura A. 21.10.2021. [Slik ble Putins milliardærnettverk avslørt](https://www.nordnorskdebatt.no/slik-ble-putins-milliardarnettverk-avslort/o/5-124-145695). Op-ed in *Nordlys*.
+
+- Obukhova, Anna. 09.11.2021. [Er RT virkelig et velsmurt propagandaverktøy?](https://www.nordnorskdebatt.no/er-rt-virkelig-et-velsmurt-propagandaverktoy/o/5-124-148790). Op-ed in *Nordlys: Nordnorsk debatt*.
 
 - Janda, Laura A. 18.10.2021. [Valgdeltagelse og vaksine: Tillit i Norge og Russland](https://www.transitmag.no/2021/10/18/valgdeltagelse-og-vaksine-tillit-i-norge-og-russland/). Op-ed in *Transit Magasin*.
 
