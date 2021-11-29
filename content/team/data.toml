@@ -50,6 +50,7 @@ homepage = "https://uit.no/ansatte/person?p_document_id=41533"
 [[team]]
 name = "Anna Obukhova"
 picture = "obukhova.jpg"
+homepage = "https://en.uit.no/ansatte/person?p_document_id=727362&p_dimension_id=210121"
 
 [[team]]
 name = "Holger Pötzsch"
@@ -84,3 +85,4 @@ homepage = "https://www.nupi.no/Om-NUPI/Medarbeidere/Forskere/Julie-Wilhelmsen"
 [[team]]
 name = "Valentina Zhukova"
 picture = "zhukova.jpg"
+homepage = "https://en.uit.no/ansatte/person?p_document_id=750196&p_dimension_id=210121"
