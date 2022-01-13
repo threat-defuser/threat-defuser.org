@@ -24,6 +24,8 @@ template = "page.html"
   
 ### Op-ed pieces
 
+- Janda, Laura A. 18.12.2021. [Putin trenger vind i seilene. Kan et vindkast fra Ukraina hjelpe?](https://www.nordnorskdebatt.no/putin-trenger-vind-i-seilene-kan-et-vindkast-fra-ukraina-hjelpe/o/5-124-156203). Op-ed in *Nordlys*.
+
 - Janda, Laura A. 21.10.2021. [Slik ble Putins milliardærnettverk avslørt](https://www.nordnorskdebatt.no/slik-ble-putins-milliardarnettverk-avslort/o/5-124-145695). Op-ed in *Nordlys*.
 
 - Obukhova, Anna. 09.11.2021. [Er RT virkelig et velsmurt propagandaverktøy?](https://www.nordnorskdebatt.no/er-rt-virkelig-et-velsmurt-propagandaverktoy/o/5-124-148790). Op-ed in *Nordlys: Nordnorsk debatt*.
