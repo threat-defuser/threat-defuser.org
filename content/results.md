@@ -60,3 +60,4 @@ template = "page.html"
 - [THREAT-DEFUSER meeting, Monday, October 11, 2021.docx](https://github.com/threat-defuser/threat-defuser.org/files/7324426/THREAT-DEFUSER.meeting.Monday.October.11.2021.docx)
 - [Threat-Defuser Meeting November 9 2021.docx](https://github.com/threat-defuser/threat-defuser.org/files/7510646/Threat-Defuser.Meeting.November.9.2021.docx)
 - [Threat-Defuser.Meeting.Monday.December.6.2021.docx](https://github.com/threat-defuser/threat-defuser.org/files/7661752/Threat-Defuser.Meeting.Monday.December.6.2021.docx)
+- [THREAT-defuser meeting 27.01.2022.docx](https://github.com/threat-defuser/threat-defuser.org/files/7952443/THREAT-defuser.meeting.27.01.2022.docx)
