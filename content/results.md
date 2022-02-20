@@ -21,10 +21,17 @@ template = "page.html"
 
 - Cvrček, Václav and Masako Fidler. 2021(preprint)/2022(forthcoming).
   [No Keyword is an Island: In search of covert associations](/articles/CvrcekFidler2021.pdf). *Corpora*.
-  
+
+
 ### Op-ed pieces
 
 - Wilhelmsen, Julie. 28.01.2022. [NATO bør fortsatt vurdere å ta et lite skritt tilbake i Ukraina](https://www.morgenbladet.no/ideer/kronikk/2022/01/28/handling-og-samhandling-pa-stormaktenes-sjakkbrett/). Op-ed in *Morgenbladet*.
+
+- Zhukova, Valentina. 18.02.2022. [Verdens lengste vits](https://klassekampen.no/utgave/2022-02-18/verdens-lengste-vits). Op-ed in *Klassekampen*.
+
+- Hoogensen Gjørv, Gunhild. 18.02.2022. [Mens vi venter på Putin. Sammensatte trusler og krig i Ukraina](https://www.nordnorskdebatt.no/mens-vi-venter-pa-putin-sammensatte-trusler-og-krig-i-ukraina/o/5-124-167076). Op-ed in *Nordlys*.
+
+- Nesset, Tore. Navalnyj - regel og ikkje unnatak i russisk historie. *Dag og Tid* 2022 (0803-334X) Vol. 7, s. 35-35-
 
 - Janda, Laura A. 18.12.2021. [Putin trenger vind i seilene. Kan et vindkast fra Ukraina hjelpe?](https://www.nordnorskdebatt.no/putin-trenger-vind-i-seilene-kan-et-vindkast-fra-ukraina-hjelpe/o/5-124-156203). Op-ed in *Nordlys*.
 
