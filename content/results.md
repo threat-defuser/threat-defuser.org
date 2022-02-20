@@ -21,8 +21,11 @@ template = "page.html"
 
 - Cvrček, Václav and Masako Fidler. 2021(preprint)/2022(forthcoming).
   [No Keyword is an Island: In search of covert associations](/articles/CvrcekFidler2021.pdf). *Corpora*.
-  
+
+
 ### Op-ed pieces
+
+- Wilhelmsen, Julie. 28.01.2022. [NATO bør fortsatt vurdere å ta et lite skritt tilbake i Ukraina](https://www.morgenbladet.no/ideer/kronikk/2022/01/28/handling-og-samhandling-pa-stormaktenes-sjakkbrett/). Op-ed in *Morgenbladet*.
 
 - Zhukova, Valentina. 18.02.2022. [Verdens lengste vits](https://klassekampen.no/utgave/2022-02-18/verdens-lengste-vits). Op-ed in *Klassekampen*.
 
