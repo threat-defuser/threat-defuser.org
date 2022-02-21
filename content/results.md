@@ -25,6 +25,8 @@ template = "page.html"
 
 ### Op-ed pieces
 
+- Janda, Laura A. 21.02.2022. [Språket Putin forstår](https://www.nordnorskdebatt.no/spraket-putin-forstar/o/5-124-167426). Op-ed in *Nordlys*.
+
 - Wilhelmsen, Julie. 28.01.2022. [NATO bør fortsatt vurdere å ta et lite skritt tilbake i Ukraina](https://www.morgenbladet.no/ideer/kronikk/2022/01/28/handling-og-samhandling-pa-stormaktenes-sjakkbrett/). Op-ed in *Morgenbladet*.
 
 - Zhukova, Valentina. 18.02.2022. [Verdens lengste vits](https://klassekampen.no/utgave/2022-02-18/verdens-lengste-vits). Op-ed in *Klassekampen*.
