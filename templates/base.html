@@ -16,7 +16,8 @@
     </style>
 
     <meta name="theme-color" content="{{ config.extra.accent }}" />
-    <link rel="icon" href="{{ resize_image(path=config.extra.profile_logo, width=48, height=48, op="fill") | safe }}" />
+    {% set image = resize_image(path=config.extra.profile_logo, width=48, height=48, op="fill") %}
+    <link rel="icon" href="{{ image.url }}" />
 
     <meta property="og:type" content="website" />
 
@@ -59,7 +60,8 @@
       <div bp="grid">
         <div bp="12@sm 2@md 2@lg">
           <a class="profile-icon" href="/">
-            <img src="{{ resize_image(path=config.extra.profile_logo, width=150, height=150, op="fill") | safe }}" alt="profile picture">
+            {% set image = resize_image(path=config.extra.profile_logo, width=150, height=150, op="fill") %}
+            <img src="{{ image.url }}" alt="profile picture">
           </a>
         </div>
         <div bp="12@sm 10@md 10@lg">
