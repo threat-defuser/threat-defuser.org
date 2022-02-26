@@ -4,6 +4,11 @@ picture = "janda.jpg"
 homepage = "http://ansatte.uit.no/laura.janda/"
 
 [[team]]
+name = "Marte Aasen"
+picture = "aasen.jpg"
+homepage = "https://www.prosjektutsyn.no/om-utsyn/"
+
+[[team]]
 name = "Radovan Bast"
 picture = "bast.jpg"
 homepage = "https://bast.fr"
