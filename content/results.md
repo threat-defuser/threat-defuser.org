@@ -25,6 +25,10 @@ template = "page.html"
 
 ### Op-ed pieces
 
+- Wilhelmsen, Julie. 28.02.2022. [Det er forstemmende når noen uttaler seg som om de har visst at krig var Putins plan A](https://www.aftenposten.no/meninger/kronikk/i/OrBrrV/det-er-forstemmende-naar-noen-uttaler-seg-som-om-de-har-visst-at-krig-v). Op-ed in *Aftenposten*.
+
+- Hoogensen Gjørv, Gunhild. 28.02.2022. [Utenlandske forskere mistenkeliggjøres. Det kan bidra til å drepe samarbeid.](https://www.aftenposten.no/meninger/debatt/i/AL9A35/utenlandske-forskere-mistenkeliggjoeres-det-kan-bidra-til-aa-drepe-sama). Op-ed in *Aftenposten*.
+
 - Janda, Laura A. 21.02.2022. [Språket Putin forstår](https://www.nordnorskdebatt.no/spraket-putin-forstar/o/5-124-167426). Op-ed in *Nordlys*.
 
 - Wilhelmsen, Julie. 28.01.2022. [NATO bør fortsatt vurdere å ta et lite skritt tilbake i Ukraina](https://www.morgenbladet.no/ideer/kronikk/2022/01/28/handling-og-samhandling-pa-stormaktenes-sjakkbrett/). Op-ed in *Morgenbladet*.
