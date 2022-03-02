@@ -6,6 +6,7 @@ template = "page.html"
 
 ### Interviews
 
+- Janda, Laura A., Tore Nesset, and Bjarge Schwencke Fors. 02.03.2022. [https://khrono.no/pa-det-kaldeste-var-det-samarbeid-med-russland-under-den-kalde-krigen/666245](https://khrono.no/pa-det-kaldeste-var-det-samarbeid-med-russland-under-den-kalde-krigen/666245) *Khrono*.
 - Cvrček, Václav. 22.11.2020. [TŘETÍ PÁD: UBLIŽUJEME KOMU, ČEMU? VŠICHNI UBLIŽUJEME RUSKU](https://finmag.penize.cz/dezinformace-a-koronavirus/422169-treti-pad-ublizujeme-komu-cemu-vsichni-ublizujeme-rusku). *Finmag*.
 - Cvrček, Václav. 21.11.2020. [DRUHÁ VLNA PANDEMIE DO MÉDIÍ JEŠTĚ NEDORAZILA](https://finmag.penize.cz/dezinformace-a-koronavirus/422164-druha-vlna-pandemie-do-medii-jeste-nedorazila). *Finmag*.
 - Šlerka, Josef. 14.11.2020. [VĚDA A MÉDIA NA SEBE BRUTÁLNĚ NARÁŽEJÍ](https://finmag.penize.cz/dezinformace-a-koronavirus/421945-veda-a-media-na-sebe-brutalne-narazeji). *Finmag*.
