@@ -27,6 +27,8 @@ template = "page.html"
 
 ### Op-ed pieces
 
+- Janda, Laura A. 09.03.2022. [Russland er farlig også for russere](https://www.nordnorskdebatt.no/russland-er-farlig-ogsa-for-russere/o/5-124-170840). Op-ed in *Nordlys*.
+
 - Wilhelmsen, Julie. 28.02.2022. [Det er forstemmende når noen uttaler seg som om de har visst at krig var Putins plan A](https://www.aftenposten.no/meninger/kronikk/i/OrBrrV/det-er-forstemmende-naar-noen-uttaler-seg-som-om-de-har-visst-at-krig-v). Op-ed in *Aftenposten*.
 
 - Hoogensen Gjørv, Gunhild. 28.02.2022. [Utenlandske forskere mistenkeliggjøres. Det kan bidra til å drepe samarbeid.](https://www.aftenposten.no/meninger/debatt/i/AL9A35/utenlandske-forskere-mistenkeliggjoeres-det-kan-bidra-til-aa-drepe-sama). Op-ed in *Aftenposten*.
