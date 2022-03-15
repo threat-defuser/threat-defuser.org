@@ -6,8 +6,11 @@ template = "page.html"
 
 ### Interviews
 
+- Janda, Laura A. 13.03.2022. [Slik bruker russiske borgere emojier for å lure Putin](https://www.tv2.no/a/14638828/). *TV2*.
+- Zhukova, Valentina. 09.03.2022. [Sanksjoner mot russisk akademia vil bare tjene Putin](https://www.aftenposten.no/kultur/i/KzRqnM/sanksjoner-mot-russisk-akademia-vil-bare-tjene-putin). *Aftenposten*.
+- Zhukova, Valentina. 04.03.2022. [Russisk forsker mot krigen: — Dere må skille mellom forskere og myndighetene](https://khrono.no/russisk-forsker-mot-krigen-dere-ma-skille-mellom-forskere-og-myndighetene/667402). *Khrono*.
 - Zhukova, Valentina, Artem Spirin, Elena Tkachenko, Kari Aga Myklebost. 09.03.2022. [Sanksjoner mot russisk akademia vil bare tjene Putin](https://www.aftenposten.no/kultur/i/KzRqnM/sanksjoner-mot-russisk-akademia-vil-bare-tjene-putin). *Aftenposten*.
-- NRK Distriktsnyheter Nordnytt. Interview with Laura Janda and Tore Nesset. 02.03.2022. https://tv.nrk.no/serie/distriktsnyheter-nordnytt/202203/DKTR98030222/avspiller. ![image](https://user-images.githubusercontent.com/26918586/156443752-050615a4-a307-4fa9-ad20-a5e60f9a5f8c.png).
+- Janda, Laura A. and Tore Nesset. 02.03.2022. [NRK Distriktsnyheter Nordnytt. Interview with Laura Janda and Tore Nesset.](https://tv.nrk.no/serie/distriktsnyheter-nordnytt/202203/DKTR98030222/avspiller).
 - Janda, Laura A., Tore Nesset, and Bjarge Schwencke Fors. 02.03.2022. [https://khrono.no/pa-det-kaldeste-var-det-samarbeid-med-russland-under-den-kalde-krigen/666245](https://khrono.no/pa-det-kaldeste-var-det-samarbeid-med-russland-under-den-kalde-krigen/666245) *Khrono*.
 - Cvrček, Václav. 22.11.2020. [TŘETÍ PÁD: UBLIŽUJEME KOMU, ČEMU? VŠICHNI UBLIŽUJEME RUSKU](https://finmag.penize.cz/dezinformace-a-koronavirus/422169-treti-pad-ublizujeme-komu-cemu-vsichni-ublizujeme-rusku). *Finmag*.
 - Cvrček, Václav. 21.11.2020. [DRUHÁ VLNA PANDEMIE DO MÉDIÍ JEŠTĚ NEDORAZILA](https://finmag.penize.cz/dezinformace-a-koronavirus/422164-druha-vlna-pandemie-do-medii-jeste-nedorazila). *Finmag*.
