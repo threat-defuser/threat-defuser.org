@@ -31,6 +31,14 @@ template = "page.html"
 
 ### Op-ed pieces
 
+- Janda, Laura A. 02.04.2022. [Sanksjoner mot Russland gjelder mer enn mat og medisin](https://www.nordnorskdebatt.no/sanksjoner-mot-russland-gjelder-mer-enn-mat-og-medisin/o/5-124-174678). Op-ed in *Nordlys*.
+
+- Cvrček, Václav, Masako Fidler, Laura A. Janda, Anna Levine. 31.03.2022. [Språket som avslører Putins agenda](https://www.nordnorskdebatt.no/spraket-som-avslorer-putins-agenda/o/5-124-174366). Op-ed in *Nordlys*.
+
+- Nesset, Tore. Vi må halde kontakten med russiske intellektuelle. *Dag og Tid* 2022 (0803-334X) Vol. 11, s. 35-35.
+
+- Nesset, Tore. 19.03.2022. [Vi må halde kontakten med russiske akademikarar og intellektuelle](https://www.nordnorskdebatt.no/vi-ma-halde-kontakten-med-russiske-akademikarar-og-intellektuelle/o/5-124-172846). Op-ed in *Nordlys*.
+
 - Janda, Laura A. 09.03.2022. [Russland er farlig også for russere](https://www.nordnorskdebatt.no/russland-er-farlig-ogsa-for-russere/o/5-124-170840). Op-ed in *Nordlys*.
 
 - Wilhelmsen, Julie. 28.02.2022. [Det er forstemmende når noen uttaler seg som om de har visst at krig var Putins plan A](https://www.aftenposten.no/meninger/kronikk/i/OrBrrV/det-er-forstemmende-naar-noen-uttaler-seg-som-om-de-har-visst-at-krig-v). Op-ed in *Aftenposten*.
