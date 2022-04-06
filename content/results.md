@@ -74,6 +74,8 @@ template = "page.html"
 
 ### Scholarly presentations
 
+- Šlerka, Josef. 04.04.2022. "Social network data research: How to do it and why". Guest lecture at UiT The Arctic University of Norway.
+
 - Godzimirski, Jakub M. 12.05.2021. "What are Russia’s strategic ambitions towards Europe and how Russia uses information measures to achieve its goals". Presentation for Threat-Defuser group.[2021 05 12 Threat defuser Russian information warfare towards Europe  goals means and measures.pptx](https://github.com/threat-defuser/threat-defuser.org/files/6721292/2021.05.12.Threat.defuser.Russian.information.warfare.towards.Europe.goals.means.and.measures.pptx)
 
 - Hoogensen Gjørv, Gunhild. 22.10.2020. [“Nasjonal sikkerhet i en ekstremsituasjon med pandemi som eksempel”](https://www.dnva.no/detskjer/2020/05/nasjonal-sikkerhet-i-en-ekstremsituasjon-med-pandemi-som-eksempel). Det Norske Videnskaps-Akademi, Oslo.
