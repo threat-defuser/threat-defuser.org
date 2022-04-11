@@ -31,6 +31,8 @@ template = "page.html"
 
 ### Op-ed pieces
 
+- Nesset, Tore. 11.04.2022. [Krigen i Ukraina: det språklege bakteppet](https://www.nynorsk.no/krigen-i-ukraina-det-spraklege-bakteppe/). Op-ed in *Nynorsk kultursentrum*.
+
 - Janda, Laura A. 02.04.2022. [Sanksjoner mot Russland gjelder mer enn mat og medisin](https://www.nordnorskdebatt.no/sanksjoner-mot-russland-gjelder-mer-enn-mat-og-medisin/o/5-124-174678). Op-ed in *Nordlys*.
 
 - Cvrček, Václav, Masako Fidler, Laura A. Janda, Anna Levine. 31.03.2022. [Språket som avslører Putins agenda](https://www.nordnorskdebatt.no/spraket-som-avslorer-putins-agenda/o/5-124-174366). Op-ed in *Nordlys*.
