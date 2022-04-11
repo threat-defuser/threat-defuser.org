@@ -71,6 +71,10 @@ template = "page.html"
   
 - Janda, Laura A. 13.11.2020. [Sannheten trenger hjelp når feilinformasjon spres i sosiale medier](https://www.transitmag.no/2020/11/13/sannheten-trenger-hjelp-nar-feilinformasjon-spres-i-sosiale-medier/). Op-ed in *Transit Magasin*.
 
+### Podcasts
+
+- Janda, Laura A. and Amund Trellevik. 11.04.2022. [Lytt til #PolyPod: Hva er konsekvensene av sanksjonene mot Russland?”. A podcast with Laura Janda and Amund Trellevik, produced by Polyteknisk Forening.](https://www.polyteknisk.no/lytt-til-polypod-hva-er-konsekvensene-av-sanksjonene-mot-russland).
+
 
 ### Scholarly presentations
 
