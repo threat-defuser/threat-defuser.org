@@ -6,6 +6,7 @@ template = "page.html"
 
 ### Interviews
 
+- Nesset, Tore. 23.04.2022. [Helgemorgen (språk og konflikt i Ukraina)](https://tv.nrk.no/serie/helgemorgen-tv/202204/DNRR62003522/avspiller). *NRK*.
 - Janda, Laura A. 13.03.2022. [Slik bruker russiske borgere emojier for å lure Putin](https://www.tv2.no/a/14638828/). *TV2*.
 - Zhukova, Valentina. 09.03.2022. [Sanksjoner mot russisk akademia vil bare tjene Putin](https://www.aftenposten.no/kultur/i/KzRqnM/sanksjoner-mot-russisk-akademia-vil-bare-tjene-putin). *Aftenposten*.
 - Zhukova, Valentina. 04.03.2022. [Russisk forsker mot krigen: — Dere må skille mellom forskere og myndighetene](https://khrono.no/russisk-forsker-mot-krigen-dere-ma-skille-mellom-forskere-og-myndighetene/667402). *Khrono*.
