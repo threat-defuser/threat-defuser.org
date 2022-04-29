@@ -6,6 +6,7 @@ template = "page.html"
 
 ### Interviews
 
+- Nesset, Tore. 29.04.2022. [Kva er eit minorisert språk, og er eigentleg ukrainsk ei russisk dialekt?](https://radio.nrk.no/podkast/spraakteigen/l_a02566a7-3e32-4e01-a566-a73e326e01d5). *Språksnakk, NRK*.
 - Nesset, Tore. 23.04.2022. [Helgemorgen (språk og konflikt i Ukraina)](https://tv.nrk.no/serie/helgemorgen-tv/202204/DNRR62003522/avspiller). *NRK*.
 - Janda, Laura A. 13.03.2022. [Slik bruker russiske borgere emojier for å lure Putin](https://www.tv2.no/a/14638828/). *TV2*.
 - Zhukova, Valentina. 09.03.2022. [Sanksjoner mot russisk akademia vil bare tjene Putin](https://www.aftenposten.no/kultur/i/KzRqnM/sanksjoner-mot-russisk-akademia-vil-bare-tjene-putin). *Aftenposten*.
