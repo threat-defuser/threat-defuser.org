@@ -33,6 +33,8 @@ template = "page.html"
 
 ### Op-ed pieces
 
+- Janda, Laura A. 28.04.2022. [Russisk hjerneflukt er en ressurs for Norge](https://www.dn.no/innlegg/ukraina/russland/arbeidsmarkedet/innlegg-russisk-hjerneflukt-er-en-ressurs-for-norge/2-1-1207955). Op-ed in *Dagens næringsliv*. 
+
 - Nesset, Tore. 11.04.2022. [Krigen i Ukraina: det språklege bakteppet](https://www.nynorsk.no/krigen-i-ukraina-det-spraklege-bakteppe/). Op-ed in *Nynorsk kultursentrum*.
 
 - Janda, Laura A. 02.04.2022. [Sanksjoner mot Russland gjelder mer enn mat og medisin](https://www.nordnorskdebatt.no/sanksjoner-mot-russland-gjelder-mer-enn-mat-og-medisin/o/5-124-174678). Op-ed in *Nordlys*.
