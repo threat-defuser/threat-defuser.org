@@ -33,6 +33,8 @@ template = "page.html"
 
 ### Op-ed pieces
 
+- Dineen, Isabel and Anna Levine. 24.05.2022. [Humor som våpen](https://www.dagsavisen.no/debatt/2022/05/24/humor-som-vapen/). Op-ed in *Dagsavisen*.
+
 - Janda, Laura A. 13.05.2022. [Russisk hjerneflukt -- en enorm ressurs for oss](https://www.innomag.no/russisk-hjerneflukt-en-enorm-ressurs-for-oss/). Op-ed in *Innomag*. (Republication with slight revisions of op-ed in *Dagens næringsliv*).
 
 - Janda, Laura A. 28.04.2022. [Russisk hjerneflukt er en ressurs for Norge](https://www.dn.no/innlegg/ukraina/russland/arbeidsmarkedet/innlegg-russisk-hjerneflukt-er-en-ressurs-for-norge/2-1-1207955). Op-ed in *Dagens næringsliv*. 
