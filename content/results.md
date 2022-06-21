@@ -37,6 +37,8 @@ template = "page.html"
 
 - Janda, Laura A. 13.05.2022. [Russisk hjerneflukt -- en enorm ressurs for oss](https://www.innomag.no/russisk-hjerneflukt-en-enorm-ressurs-for-oss/). Op-ed in *Innomag*. (Republication with slight revisions of op-ed in *Dagens næringsliv*).
 
+- Rogatchevski, Andrei. 01.05.2022. [Hvorfor mener noen russere at Ukraina og Russland er én nasjon?](https://www.nettavisen.no/norsk-debatt/hvorfor-mener-noen-russere-at-ukraina-og-russland-er-n-nasjon/o/5-95-466335). Op-ed in *Nettavisen*. 
+
 - Janda, Laura A. 28.04.2022. [Russisk hjerneflukt er en ressurs for Norge](https://www.dn.no/innlegg/ukraina/russland/arbeidsmarkedet/innlegg-russisk-hjerneflukt-er-en-ressurs-for-norge/2-1-1207955). Op-ed in *Dagens næringsliv*. 
 
 - Nesset, Tore. 11.04.2022. [Krigen i Ukraina: det språklege bakteppet](https://www.nynorsk.no/krigen-i-ukraina-det-spraklege-bakteppe/). Op-ed in *Nynorsk kultursentrum*.
@@ -87,6 +89,8 @@ template = "page.html"
 
 
 ### Scholarly presentations
+
+- Janda, Laura A. 13.06.2022. "Threat-Defuser: A project for the global Arctic today". Invited lecture at conference entitled Nordic perspectives on security policy in the Arctic at The Fram Centre (FRAM - High North Research Centre for Climate and the Environment). Tromsø, Norway.
 
 - Šlerka, Josef. 04.04.2022. "Social network data research: How to do it and why". Guest lecture at UiT The Arctic University of Norway.
 
