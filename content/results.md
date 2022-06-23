@@ -10,12 +10,17 @@ template = "page.html"
 
 - Nesset, Tore. 29.04.2022. [Kva er eit minorisert språk, og er eigentleg ukrainsk ei russisk dialekt?](https://radio.nrk.no/podkast/spraakteigen/l_a02566a7-3e32-4e01-a566-a73e326e01d5). *Språksnakk, NRK*.
 - Nesset, Tore. 23.04.2022. [Helgemorgen (språk og konflikt i Ukraina)](https://tv.nrk.no/serie/helgemorgen-tv/202204/DNRR62003522/avspiller). *NRK*.
+
+- Godzimirski, Jakub, Ingerid Maria Opdahl, Una Hakvåg, Halvor Mehlum. 15.03.2022. [Russlands krigsfinansiering: - Tror Putin lever veldig farlig hjemme nå](https://e24.no/internasjonal-oekonomi/i/KzR53E/russlands-krigsfinansiering-tror-putin-lever-veldig-farlig-hjemme-naa). Aftenposten.
+
 - Janda, Laura A. 13.03.2022. [Slik bruker russiske borgere emojier for å lure Putin](https://www.tv2.no/a/14638828/). *TV2*.
 - Zhukova, Valentina. 09.03.2022. [Sanksjoner mot russisk akademia vil bare tjene Putin](https://www.aftenposten.no/kultur/i/KzRqnM/sanksjoner-mot-russisk-akademia-vil-bare-tjene-putin). *Aftenposten*.
 - Zhukova, Valentina. 04.03.2022. [Russisk forsker mot krigen: — Dere må skille mellom forskere og myndighetene](https://khrono.no/russisk-forsker-mot-krigen-dere-ma-skille-mellom-forskere-og-myndighetene/667402). *Khrono*.
 - Zhukova, Valentina, Artem Spirin, Elena Tkachenko, Kari Aga Myklebost. 09.03.2022. [Sanksjoner mot russisk akademia vil bare tjene Putin](https://www.aftenposten.no/kultur/i/KzRqnM/sanksjoner-mot-russisk-akademia-vil-bare-tjene-putin). *Aftenposten*.
 - Janda, Laura A. and Tore Nesset. 02.03.2022. [NRK Distriktsnyheter Nordnytt. Interview with Laura Janda and Tore Nesset.](https://tv.nrk.no/serie/distriktsnyheter-nordnytt/202203/DKTR98030222/avspiller).
 - Janda, Laura A., Tore Nesset, and Bjarge Schwencke Fors. 02.03.2022. [https://khrono.no/pa-det-kaldeste-var-det-samarbeid-med-russland-under-den-kalde-krigen/666245](https://khrono.no/pa-det-kaldeste-var-det-samarbeid-med-russland-under-den-kalde-krigen/666245) *Khrono*.
+
+- Godzimirski, Jakub. 25.02.2022. [Krig i Ukraina og russiske oligarker](https://radio.nrk.no/serie/dagsnytt-atten/sesong/202202/NMAG03004022#_=_). 
 - Cvrček, Václav. 22.11.2020. [TŘETÍ PÁD: UBLIŽUJEME KOMU, ČEMU? VŠICHNI UBLIŽUJEME RUSKU](https://finmag.penize.cz/dezinformace-a-koronavirus/422169-treti-pad-ublizujeme-komu-cemu-vsichni-ublizujeme-rusku). *Finmag*.
 - Cvrček, Václav. 21.11.2020. [DRUHÁ VLNA PANDEMIE DO MÉDIÍ JEŠTĚ NEDORAZILA](https://finmag.penize.cz/dezinformace-a-koronavirus/422164-druha-vlna-pandemie-do-medii-jeste-nedorazila). *Finmag*.
 - Šlerka, Josef. 14.11.2020. [VĚDA A MÉDIA NA SEBE BRUTÁLNĚ NARÁŽEJÍ](https://finmag.penize.cz/dezinformace-a-koronavirus/421945-veda-a-media-na-sebe-brutalne-narazeji). *Finmag*.
@@ -40,6 +45,8 @@ template = "page.html"
 - Janda, Laura A. 13.05.2022. [Russisk hjerneflukt -- en enorm ressurs for oss](https://www.innomag.no/russisk-hjerneflukt-en-enorm-ressurs-for-oss/). Op-ed in *Innomag*. (Republication with slight revisions of op-ed in *Dagens næringsliv*).
 
 - Rogatchevski, Andrei. 01.05.2022. [Hvorfor mener noen russere at Ukraina og Russland er én nasjon?](https://www.nettavisen.no/norsk-debatt/hvorfor-mener-noen-russere-at-ukraina-og-russland-er-n-nasjon/o/5-95-466335). Op-ed in *Nettavisen*. 
+
+- Godzimirski, Jakub. 29.04.2022. [Dette kan være en dyrekjøpt seier eller slutten på Putins regime](https://www.tv2.no/mening-og-analyse/14739811/). Op-ed in *TV2*.
 
 - Janda, Laura A. 28.04.2022. [Russisk hjerneflukt er en ressurs for Norge](https://www.dn.no/innlegg/ukraina/russland/arbeidsmarkedet/innlegg-russisk-hjerneflukt-er-en-ressurs-for-norge/2-1-1207955). Op-ed in *Dagens næringsliv*. 
 
@@ -87,12 +94,19 @@ template = "page.html"
 
 ### Podcasts
 
+- Godzimirski, Jakub. 02.05.2022. [#PolyPod: Energi og sikkerhetspolitikk - Hvor avhengige er vi egentlig av russisk gass?](https://shows.acast.com/polypod/episodes/polypod-energi-og-sikkerhetspolitikk-hvor-avhengige-er-vi-eg).
+
 - Janda, Laura A. and Amund Trellevik. 11.04.2022. [Lytt til #PolyPod: Hva er konsekvensene av sanksjonene mot Russland?”, produced by Polyteknisk Forening](https://www.polyteknisk.no/lytt-til-polypod-hva-er-konsekvensene-av-sanksjonene-mot-russland).
 
+- Godzimirski, Jakub, Jarand Rystad and Ulf Sverdrup. 31.03.2022. [PODCAST: Can Europe get out of Russian gas?](https://www.nupi.no/en/News/PODCAST-Can-Europe-get-out-of-Russian-gas).
 
 ### Scholarly presentations
 
 - Janda, Laura A. 13.06.2022. "Threat-Defuser: A project for the global Arctic today". Invited lecture at conference entitled Nordic perspectives on security policy in the Arctic at The Fram Centre (FRAM - High North Research Centre for Climate and the Environment). Tromsø, Norway.
+
+- Godzimirski, Jakub. 05.05.2022. War in Ukraine: scenarios and energy implications. Ministry of Petroleum and Energy.
+
+- Godzimirski, Jakub. 01.05.2022. "Ukraine war, Russia and energy crisis in Europe", SIFA (Students' Initiative on Foreign Affairs).
 
 - Šlerka, Josef. 04.04.2022. "Social network data research: How to do it and why". Guest lecture at UiT The Arctic University of Norway.
 
