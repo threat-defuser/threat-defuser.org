@@ -6,6 +6,8 @@ template = "page.html"
 
 ### Interviews
 
+- Rogatchevski, Andrei and Julie Wilhelmsen. 26.04.2022. ["Putin i tidsnød for å nå egen «deadline»: - Jeg er redd for reaksjonen"](https://www.nettavisen.no/nyheter/putin-i-tidsnod-for-a-na-egen-deadline-jeg-er-redd-for-reaksjonen/s/5-95-456315). *Nettavisen*.
+
 - Nesset, Tore. 29.04.2022. [Kva er eit minorisert språk, og er eigentleg ukrainsk ei russisk dialekt?](https://radio.nrk.no/podkast/spraakteigen/l_a02566a7-3e32-4e01-a566-a73e326e01d5). *Språksnakk, NRK*.
 - Nesset, Tore. 23.04.2022. [Helgemorgen (språk og konflikt i Ukraina)](https://tv.nrk.no/serie/helgemorgen-tv/202204/DNRR62003522/avspiller). *NRK*.
 - Janda, Laura A. 13.03.2022. [Slik bruker russiske borgere emojier for å lure Putin](https://www.tv2.no/a/14638828/). *TV2*.
@@ -93,6 +95,8 @@ template = "page.html"
 - Janda, Laura A. 13.06.2022. "Threat-Defuser: A project for the global Arctic today". Invited lecture at conference entitled Nordic perspectives on security policy in the Arctic at The Fram Centre (FRAM - High North Research Centre for Climate and the Environment). Tromsø, Norway.
 
 - Šlerka, Josef. 04.04.2022. "Social network data research: How to do it and why". Guest lecture at UiT The Arctic University of Norway.
+
+- Fidler, Masako. 26.02.2022. ["Impoverished morphemes"](https://www.youtube.com/watch?v=96bMCM3PKfo), at Political Concepts Conference, Cogut Institute, Brown University. 
 
 - Godzimirski, Jakub M. 12.05.2021. "What are Russia’s strategic ambitions towards Europe and how Russia uses information measures to achieve its goals". Presentation for Threat-Defuser group.[2021 05 12 Threat defuser Russian information warfare towards Europe  goals means and measures.pptx](https://github.com/threat-defuser/threat-defuser.org/files/6721292/2021.05.12.Threat.defuser.Russian.information.warfare.towards.Europe.goals.means.and.measures.pptx)
 
