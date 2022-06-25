@@ -23,12 +23,13 @@ template = "page.html"
 
 - Hoogensen Gjørv, Gunhild. 13.05.2022. [Erdogan kan sette ein stoppar for finsk og svensk Nato-medlemskap](https://www.nrk.no/urix/erdogan-gar-mot-nato-medlemskap-for-sverige-og-finland-1.15966433) *NRK*.
 
-
+- Hoogensen Gjørv, Gunhild. 12.05.2022. P4 nyhetene (Finland medlemskap i Nato) *P4*.
 
 - Hoogensen Gjørv, Gunhild. 12.05.2022. [Finland vil inn i Nato](https://www.nrk.no/urix/finland-vil-inn-i-nato-1.1596418) *NRK*.
 
 - Hoogensen Gjørv, Gunhild. 12.05.2022. NRK Svarer: Spør oss om krigen mellom Russland og Ukraina *NRK*.
 
+- Hoogensen Gjørv, Gunhild. 10.05.2022. Risks for Human Security in the Arctic. *BASIC NGO*.
 
 - Hoogensen Gjørv, Gunhild. 05.05.2022. NRK Svarer: Spør oss om krigen mellom Russland og Ukraina *NRK*.
 
@@ -56,6 +57,9 @@ template = "page.html"
 
 - Janda, Laura A. 13.03.2022. [Slik bruker russiske borgere emojier for å lure Putin](https://www.tv2.no/a/14638828/). *TV2*.
 - Zhukova, Valentina. 09.03.2022. [Sanksjoner mot russisk akademia vil bare tjene Putin](https://www.aftenposten.no/kultur/i/KzRqnM/sanksjoner-mot-russisk-akademia-vil-bare-tjene-putin). *Aftenposten*.
+
+-Hoogensen Gjørv, Gunhild. 04.03.2022. [Slik driver russiske myndigheter informasjonskrig mot Vesten og sitt eget folk](https://forskning.no/krig-og-fred-media-russland/slik-driver-russiske-myndigheter-informasjonskrig-mot-vesten-og-sitt-eget-folk/1989827) *forskning.no*.
+
 - Zhukova, Valentina. 04.03.2022. [Russisk forsker mot krigen: — Dere må skille mellom forskere og myndighetene](https://khrono.no/russisk-forsker-mot-krigen-dere-ma-skille-mellom-forskere-og-myndighetene/667402). *Khrono*.
 - Zhukova, Valentina, Artem Spirin, Elena Tkachenko, Kari Aga Myklebost. 09.03.2022. [Sanksjoner mot russisk akademia vil bare tjene Putin](https://www.aftenposten.no/kultur/i/KzRqnM/sanksjoner-mot-russisk-akademia-vil-bare-tjene-putin). *Aftenposten*.
 
@@ -67,6 +71,8 @@ template = "page.html"
 - Janda, Laura A., Tore Nesset, and Bjarge Schwencke Fors. 02.03.2022. [https://khrono.no/pa-det-kaldeste-var-det-samarbeid-med-russland-under-den-kalde-krigen/666245](https://khrono.no/pa-det-kaldeste-var-det-samarbeid-med-russland-under-den-kalde-krigen/666245) *Khrono*.
 
 - Godzimirski, Jakub. 25.02.2022. [Krig i Ukraina og russiske oligarker](https://radio.nrk.no/serie/dagsnytt-atten/sesong/202202/NMAG03004022#_=_) *NRK*. 
+
+- Hoogensen Gjørv, Gunhild. 24.03.2022. [Professor om Russlands angrep: – Dette kan vare lenge](https://www.abcnyheter.no/nyheter/politikk/2022/02/24/195827978/professor-om-russlands-angrep-dette-kan-vare-lenge) *abc nyheter*.
 
 - Hoogensen Gjørv, Gunhild. 24.02.2022. [Forskere er svært bekymret for situasjonen i Ukraina. — I verste fall kan det bli en storkrig](https://khrono.no/forskere-er-svaert-bekymret-for-situasjonen-i-ukraina-i-verste-fall-kan-det-bli-en-storkrig/663668) *Khrono*.
 
@@ -98,6 +104,8 @@ template = "page.html"
 - Dineen, Isabel and Anna Levine. 24.05.2022. [Humor som våpen](https://www.dagsavisen.no/debatt/2022/05/24/humor-som-vapen/). Op-ed in *Dagsavisen*.
 
 - Janda, Laura A. 13.05.2022. [Russisk hjerneflukt -- en enorm ressurs for oss](https://www.innomag.no/russisk-hjerneflukt-en-enorm-ressurs-for-oss/). Op-ed in *Innomag*. (Republication with slight revisions of op-ed in *Dagens næringsliv*).
+
+-Hoogensen Gjørv, Gunhild. 12.05.2022. [Når internasjonalt samarbeid blir et sikkerhetsproblem](https://www.itromso.no/meninger/i/eEBEEM/naar-internasjonalt-samarbeid-blir-et-sikkerhetsproblem) *iTromsø*.
 
 - Rogatchevski, Andrei. 01.05.2022. [Hvorfor mener noen russere at Ukraina og Russland er én nasjon?](https://www.nettavisen.no/norsk-debatt/hvorfor-mener-noen-russere-at-ukraina-og-russland-er-n-nasjon/o/5-95-466335). Op-ed in *Nettavisen*. 
 
@@ -167,7 +175,15 @@ template = "page.html"
 
 - Hoogensen Gjørv, Gunhild. 29.04.2022. "Hvordan reagerer mennesker på feil- og desinformasjon i kriser og konflikter?", Medietilsynet nettverksmøte.
 
+- Hoogensen Gjørv, Gunhild. 21.04.2022. "Sikkerhet i nord". Innspill til UDs midler framover til forskning på utenrikspolitikk/sikkerhetspolitikk i nord, Norges Forskningsrådet.
+
+- Hoogensen Gjørv, Gunhild. 11.04.2022. "Populism, migration and disinformation", Refugees from Ukraine – implications for the European Union, College of Europe, Warsaw.
+
 - Šlerka, Josef. 04.04.2022. "Social network data research: How to do it and why". Guest lecture at UiT The Arctic University of Norway.
+
+- Hoogensen Gjørv, Gunhild. 24.03.2022. "Sivilt-militært samarbeid og beredskap". Program for Forsvarskommisjonens møte i Tromsø 24. mars 2022.
+
+- Hoogensen Gjørv, Gunhild. 16.03.2022. "Sikkerhet, beredskap og desinformasjon". Statsforvalterenes Kommunikasjonsforum.
 
 - Fidler, Masako. 26.02.2022. ["Impoverished morphemes"](https://www.youtube.com/watch?v=96bMCM3PKfo), at Political Concepts Conference, Cogut Institute, Brown University. 
 
