@@ -8,7 +8,11 @@ template = "page.html"
 
 - Hoogensen Gjørv, Gunhild. 16.05.2022. [Erdogan vil ikkje godta Sverige og Finland i Nato](https://www.nrk.no/urix/erdogan-vil-ikkje-godta-sverige-og-finland-i-nato-1.15969580) *NRK*.
 
+- Hoogensen Gjørv, Gunhild. 16.05.2022. Helgemorgen - Atomvåpenrapport *NRK*.
+
 - Hoogensen Gjørv, Gunhild. 13.05.2022. [Erdogan kan sette ein stoppar for finsk og svensk Nato-medlemskap](https://www.nrk.no/urix/erdogan-gar-mot-nato-medlemskap-for-sverige-og-finland-1.15966433) *NRK*.
+
+- Hoogensen Gjørv, Gunhild. 12.05.2022. [Finland vil inn i Nato](https://www.nrk.no/urix/finland-vil-inn-i-nato-1.1596418) *NRK*.
 
 - Rogatchevski, Andrei and Julie Wilhelmsen. 26.04.2022. ["Putin i tidsnød for å nå egen «deadline»: - Jeg er redd for reaksjonen"](https://www.nettavisen.no/nyheter/putin-i-tidsnod-for-a-na-egen-deadline-jeg-er-redd-for-reaksjonen/s/5-95-456315). *Nettavisen*.
 
@@ -31,7 +35,11 @@ Hoogensen Gjørv, Gunhild. 13.03.2022. [Eksperter om Russlands mest populære jo
 
 - Godzimirski, Jakub. 25.02.2022. [Krig i Ukraina og russiske oligarker](https://radio.nrk.no/serie/dagsnytt-atten/sesong/202202/NMAG03004022#_=_) *NRK*. 
 
+- Hoogensen Gjørv, Gunhild. 24.02.2022. [Forskere er svært bekymret for situasjonen i Ukraina. — I verste fall kan det bli en storkrig](https://khrono.no/forskere-er-svaert-bekymret-for-situasjonen-i-ukraina-i-verste-fall-kan-det-bli-en-storkrig/663668) *Khrono*.
+
 - Hoogensen Gjørv, Gunhild. 24.02.2022. [Er Ukraina-invasjonen farlig for Norge?](https://www.aftenposten.no/verden/i/v5poqp/er-ukraina-invasjonen-farlig-for-norge) *Aftenposten*. 
+
+- Hoogensen Gjørv, Gunhild. 24.02.2022. [Falske nyheter dreper folk](https://www.nordlys.no/falske-nyheter-dreper-folk/v/5-34-1579549) *Nordlys*.
 
 - Hoogensen Gjørv, Gunhild. 26.01.2022. [Et nordiske Nato vil skape økt spenning i nord](https://agendamagasin.no/artikler/nordisk-nato-skape-okt-spenning-nord/) *Agenda magasin*.
 
@@ -116,11 +124,15 @@ Hoogensen Gjørv, Gunhild. 13.03.2022. [Eksperter om Russlands mest populære jo
 
 ### Scholarly presentations
 
+- Hoogensen Gjørv, Gunhild. 15.06.2022. "Hybrid threats and civil resilience in the context of Russia's war against Ukraine and the West". Transatlantic Democracy Dialogue, "Defending Democracy" and US Mission to the EU, Brussels.
+
 - Janda, Laura A. 13.06.2022. "Threat-Defuser: A project for the global Arctic today". Invited lecture at conference entitled Nordic perspectives on security policy in the Arctic at The Fram Centre (FRAM - High North Research Centre for Climate and the Environment). Tromsø, Norway.
 
 - Godzimirski, Jakub. 05.05.2022. War in Ukraine: scenarios and energy implications. Ministry of Petroleum and Energy.
 
 - Godzimirski, Jakub. 01.05.2022. "Ukraine war, Russia and energy crisis in Europe", SIFA (Students' Initiative on Foreign Affairs).
+
+- Hoogensen Gjørv, Gunhild. 29.04.2022. "Hvordan reagerer mennesker på feil- og desinformasjon i kriser og konflikter?", Medietilsynet nettverksmøte.
 
 - Šlerka, Josef. 04.04.2022. "Social network data research: How to do it and why". Guest lecture at UiT The Arctic University of Norway.
 
