@@ -6,22 +6,53 @@ template = "page.html"
 
 ### Interviews
 
+- Hoogensen Gjørv, Gunhild. 21.06.2022. [Internt brev vekker oppsikt: − Ikke akkurat noe Moskva jubler for](https://www.vg.no/nyheter/utenriks/i/bGVQ6q/internt-brev-vekker-oppsikt-ikke-akkurat-noe-moskva-jubler-for) *VG*.
+
+- Hoogensen Gjørv, Gunhild. 18.06.2022. NRK Svarer: Spør oss om krigen mellom Russland og Ukraina *NRK*.
+
+
+- Hoogensen Gjørv, Gunhild. 08.06.2022. [Krigsrapporten: Så påverkas klimatet av att allt fler rustar upp](https://tv.aftonbladet.se/video/343759/krigsrapporten-saa-paaverkas-klimatet-av-att-allt-fler-rustar-upp) *Aftonbladet*.
+
+- Hoogensen Gjørv, Gunhild. 19.05.2022. NRK Svarer: Spør oss om krigen mellom Russland og Ukraina *NRK*.
+- Hoogensen Gjørv, Gunhild. 18.05.2022. NRK Svarer: Spør oss om krigen mellom Russland og Ukraina *NRK*.
+
+
 - Hoogensen Gjørv, Gunhild. 16.05.2022. [Erdogan vil ikkje godta Sverige og Finland i Nato](https://www.nrk.no/urix/erdogan-vil-ikkje-godta-sverige-og-finland-i-nato-1.15969580) *NRK*.
 
 - Hoogensen Gjørv, Gunhild. 16.05.2022. Helgemorgen - Atomvåpenrapport *NRK*.
 
 - Hoogensen Gjørv, Gunhild. 13.05.2022. [Erdogan kan sette ein stoppar for finsk og svensk Nato-medlemskap](https://www.nrk.no/urix/erdogan-gar-mot-nato-medlemskap-for-sverige-og-finland-1.15966433) *NRK*.
 
+
+
 - Hoogensen Gjørv, Gunhild. 12.05.2022. [Finland vil inn i Nato](https://www.nrk.no/urix/finland-vil-inn-i-nato-1.1596418) *NRK*.
+
+- Hoogensen Gjørv, Gunhild. 12.05.2022. NRK Svarer: Spør oss om krigen mellom Russland og Ukraina *NRK*.
+
+
+- Hoogensen Gjørv, Gunhild. 05.05.2022. NRK Svarer: Spør oss om krigen mellom Russland og Ukraina *NRK*.
+
+- Hoogensen Gjørv, Gunhild. 04.05.2022. NRK Svarer: Spør oss om krigen mellom Russland og Ukraina *NRK*.
+
+- Hoogensen Gjørv, Gunhild. 02.05.2022. NRK Svarer: Spør oss om krigen mellom Russland og Ukraina *NRK*.
+
 
 - Rogatchevski, Andrei and Julie Wilhelmsen. 26.04.2022. ["Putin i tidsnød for å nå egen «deadline»: - Jeg er redd for reaksjonen"](https://www.nettavisen.no/nyheter/putin-i-tidsnod-for-a-na-egen-deadline-jeg-er-redd-for-reaksjonen/s/5-95-456315). *Nettavisen*.
 
 - Nesset, Tore. 29.04.2022. [Kva er eit minorisert språk, og er eigentleg ukrainsk ei russisk dialekt?](https://radio.nrk.no/podkast/spraakteigen/l_a02566a7-3e32-4e01-a566-a73e326e01d5). *Språksnakk, NRK*.
 - Nesset, Tore. 23.04.2022. [Helgemorgen (språk og konflikt i Ukraina)](https://tv.nrk.no/serie/helgemorgen-tv/202204/DNRR62003522/avspiller). *NRK*.
 
+- Hoogensen Gjørv, Gunhild. 08.04.2022. NRK Svarer: Spør oss om krigen mellom Russland og Ukraina *NRK*.
+
+- Hoogensen Gjørv, Gunhild. 01.04.2022. NRK Svarer: Spør oss om krigen mellom Russland og Ukraina *NRK*.
+
+- Hoogensen Gjørv, Gunhild. 23.03.2022. NRK Svarer: Spør oss om krigen mellom Russland og Ukraina *NRK*.
+
+- Hoogensen Gjørv, Gunhild. 24.03.2022. NRK Svarer: Spør oss om krigen mellom Russland og Ukraina *NRK*.
+
 - Godzimirski, Jakub, Ingerid Maria Opdahl, Una Hakvåg, Halvor Mehlum. 15.03.2022. [Russlands krigsfinansiering: - Tror Putin lever veldig farlig hjemme nå](https://e24.no/internasjonal-oekonomi/i/KzR53E/russlands-krigsfinansiering-tror-putin-lever-veldig-farlig-hjemme-naa). Aftenposten.
 
-Hoogensen Gjørv, Gunhild. 13.03.2022. [Eksperter om Russlands mest populære journalist: – Viktig og farlig](https://www.abcnyheter.no/nyheter/verden/2022/03/13/195831700/eksperter-om-russlands-mest-populaere-journalist-viktig-og-farlig). *abc nyheter*.
+- Hoogensen Gjørv, Gunhild. 13.03.2022. [Eksperter om Russlands mest populære journalist: – Viktig og farlig](https://www.abcnyheter.no/nyheter/verden/2022/03/13/195831700/eksperter-om-russlands-mest-populaere-journalist-viktig-og-farlig). *abc nyheter*.
 
 - Janda, Laura A. 13.03.2022. [Slik bruker russiske borgere emojier for å lure Putin](https://www.tv2.no/a/14638828/). *TV2*.
 - Zhukova, Valentina. 09.03.2022. [Sanksjoner mot russisk akademia vil bare tjene Putin](https://www.aftenposten.no/kultur/i/KzRqnM/sanksjoner-mot-russisk-akademia-vil-bare-tjene-putin). *Aftenposten*.
@@ -29,6 +60,8 @@ Hoogensen Gjørv, Gunhild. 13.03.2022. [Eksperter om Russlands mest populære jo
 - Zhukova, Valentina, Artem Spirin, Elena Tkachenko, Kari Aga Myklebost. 09.03.2022. [Sanksjoner mot russisk akademia vil bare tjene Putin](https://www.aftenposten.no/kultur/i/KzRqnM/sanksjoner-mot-russisk-akademia-vil-bare-tjene-putin). *Aftenposten*.
 
 - Hoogensen Gjørv, Gunhild. 03.03.2022. [Ekspertane svarar: Er det fare for atomkrig no?](https://framtida.no/2022/02/28/blir-det-atomkrig-no-ekspertane-svarar). *Framtida.no*.
+
+- Hoogensen Gjørv, Gunhild. 02.03.2022. [Krigen kan bli langvarig](https://dagensperspektiv.no/ledelse/2022/krigen-kan-bli-langvarig-men-losningen-ma-bli-et-slags-kompromiss?ref=red) *Dagens Perspektiv*.
 
 - Janda, Laura A. and Tore Nesset. 02.03.2022. [NRK Distriktsnyheter Nordnytt. Interview with Laura Janda and Tore Nesset.](https://tv.nrk.no/serie/distriktsnyheter-nordnytt/202203/DKTR98030222/avspiller).
 - Janda, Laura A., Tore Nesset, and Bjarge Schwencke Fors. 02.03.2022. [https://khrono.no/pa-det-kaldeste-var-det-samarbeid-med-russland-under-den-kalde-krigen/666245](https://khrono.no/pa-det-kaldeste-var-det-samarbeid-med-russland-under-den-kalde-krigen/666245) *Khrono*.
