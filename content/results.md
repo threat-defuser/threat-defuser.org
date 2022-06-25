@@ -6,6 +6,10 @@ template = "page.html"
 
 ### Interviews
 
+- Hoogensen Gjørv, Gunhild. 16.05.2022. [Erdogan vil ikkje godta Sverige og Finland i Nato](https://www.nrk.no/urix/erdogan-vil-ikkje-godta-sverige-og-finland-i-nato-1.15969580) *NRK*.
+
+- Hoogensen Gjørv, Gunhild. 13.05.2022. [Erdogan kan sette ein stoppar for finsk og svensk Nato-medlemskap](https://www.nrk.no/urix/erdogan-gar-mot-nato-medlemskap-for-sverige-og-finland-1.15966433) *NRK*.
+
 - Rogatchevski, Andrei and Julie Wilhelmsen. 26.04.2022. ["Putin i tidsnød for å nå egen «deadline»: - Jeg er redd for reaksjonen"](https://www.nettavisen.no/nyheter/putin-i-tidsnod-for-a-na-egen-deadline-jeg-er-redd-for-reaksjonen/s/5-95-456315). *Nettavisen*.
 
 - Nesset, Tore. 29.04.2022. [Kva er eit minorisert språk, og er eigentleg ukrainsk ei russisk dialekt?](https://radio.nrk.no/podkast/spraakteigen/l_a02566a7-3e32-4e01-a566-a73e326e01d5). *Språksnakk, NRK*.
@@ -13,14 +17,24 @@ template = "page.html"
 
 - Godzimirski, Jakub, Ingerid Maria Opdahl, Una Hakvåg, Halvor Mehlum. 15.03.2022. [Russlands krigsfinansiering: - Tror Putin lever veldig farlig hjemme nå](https://e24.no/internasjonal-oekonomi/i/KzR53E/russlands-krigsfinansiering-tror-putin-lever-veldig-farlig-hjemme-naa). Aftenposten.
 
+Hoogensen Gjørv, Gunhild. 13.03.2022. [Eksperter om Russlands mest populære journalist: – Viktig og farlig](https://www.abcnyheter.no/nyheter/verden/2022/03/13/195831700/eksperter-om-russlands-mest-populaere-journalist-viktig-og-farlig). *abc nyheter*.
+
 - Janda, Laura A. 13.03.2022. [Slik bruker russiske borgere emojier for å lure Putin](https://www.tv2.no/a/14638828/). *TV2*.
 - Zhukova, Valentina. 09.03.2022. [Sanksjoner mot russisk akademia vil bare tjene Putin](https://www.aftenposten.no/kultur/i/KzRqnM/sanksjoner-mot-russisk-akademia-vil-bare-tjene-putin). *Aftenposten*.
 - Zhukova, Valentina. 04.03.2022. [Russisk forsker mot krigen: — Dere må skille mellom forskere og myndighetene](https://khrono.no/russisk-forsker-mot-krigen-dere-ma-skille-mellom-forskere-og-myndighetene/667402). *Khrono*.
 - Zhukova, Valentina, Artem Spirin, Elena Tkachenko, Kari Aga Myklebost. 09.03.2022. [Sanksjoner mot russisk akademia vil bare tjene Putin](https://www.aftenposten.no/kultur/i/KzRqnM/sanksjoner-mot-russisk-akademia-vil-bare-tjene-putin). *Aftenposten*.
+
+- Hoogensen Gjørv, Gunhild. 03.03.2022. [Ekspertane svarar: Er det fare for atomkrig no?](https://framtida.no/2022/02/28/blir-det-atomkrig-no-ekspertane-svarar). *Framtida.no*.
+
 - Janda, Laura A. and Tore Nesset. 02.03.2022. [NRK Distriktsnyheter Nordnytt. Interview with Laura Janda and Tore Nesset.](https://tv.nrk.no/serie/distriktsnyheter-nordnytt/202203/DKTR98030222/avspiller).
 - Janda, Laura A., Tore Nesset, and Bjarge Schwencke Fors. 02.03.2022. [https://khrono.no/pa-det-kaldeste-var-det-samarbeid-med-russland-under-den-kalde-krigen/666245](https://khrono.no/pa-det-kaldeste-var-det-samarbeid-med-russland-under-den-kalde-krigen/666245) *Khrono*.
 
-- Godzimirski, Jakub. 25.02.2022. [Krig i Ukraina og russiske oligarker](https://radio.nrk.no/serie/dagsnytt-atten/sesong/202202/NMAG03004022#_=_). 
+- Godzimirski, Jakub. 25.02.2022. [Krig i Ukraina og russiske oligarker](https://radio.nrk.no/serie/dagsnytt-atten/sesong/202202/NMAG03004022#_=_) *NRK*. 
+
+- Hoogensen Gjørv, Gunhild. 24.02.2022. [Er Ukraina-invasjonen farlig for Norge?](https://www.aftenposten.no/verden/i/v5poqp/er-ukraina-invasjonen-farlig-for-norge) *Aftenposten*. 
+
+- Hoogensen Gjørv, Gunhild. 26.01.2022. [Et nordiske Nato vil skape økt spenning i nord](https://agendamagasin.no/artikler/nordisk-nato-skape-okt-spenning-nord/) *Agenda magasin*.
+
 - Cvrček, Václav. 22.11.2020. [TŘETÍ PÁD: UBLIŽUJEME KOMU, ČEMU? VŠICHNI UBLIŽUJEME RUSKU](https://finmag.penize.cz/dezinformace-a-koronavirus/422169-treti-pad-ublizujeme-komu-cemu-vsichni-ublizujeme-rusku). *Finmag*.
 - Cvrček, Václav. 21.11.2020. [DRUHÁ VLNA PANDEMIE DO MÉDIÍ JEŠTĚ NEDORAZILA](https://finmag.penize.cz/dezinformace-a-koronavirus/422164-druha-vlna-pandemie-do-medii-jeste-nedorazila). *Finmag*.
 - Šlerka, Josef. 14.11.2020. [VĚDA A MÉDIA NA SEBE BRUTÁLNĚ NARÁŽEJÍ](https://finmag.penize.cz/dezinformace-a-koronavirus/421945-veda-a-media-na-sebe-brutalne-narazeji). *Finmag*.
