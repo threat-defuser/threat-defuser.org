@@ -37,11 +37,14 @@ template = "page.html"
 
 - Hoogensen Gjørv, Gunhild. 02.05.2022. NRK Svarer: Spør oss om krigen mellom Russland og Ukraina *NRK*.
 
+- Hoogensen Gjørv, Gunhild. 30.04.2022. [Vi vil vise hvor langt de kan gå](https://www.dagbladet.no/nyheter/vil-vise-hvor-langt-de-kan-ga/75962192?fbclid=IwAR28gfTyBXF1f_-C1twQsuc3g_p9nfAgyHfcIUSYdsvDrBen-PPu-Oj5Jn0) *Dagbladet*.
 
 - Rogatchevski, Andrei and Julie Wilhelmsen. 26.04.2022. ["Putin i tidsnød for å nå egen «deadline»: - Jeg er redd for reaksjonen"](https://www.nettavisen.no/nyheter/putin-i-tidsnod-for-a-na-egen-deadline-jeg-er-redd-for-reaksjonen/s/5-95-456315). *Nettavisen*.
 
 - Nesset, Tore. 29.04.2022. [Kva er eit minorisert språk, og er eigentleg ukrainsk ei russisk dialekt?](https://radio.nrk.no/podkast/spraakteigen/l_a02566a7-3e32-4e01-a566-a73e326e01d5). *Språksnakk, NRK*.
 - Nesset, Tore. 23.04.2022. [Helgemorgen (språk og konflikt i Ukraina)](https://tv.nrk.no/serie/helgemorgen-tv/202204/DNRR62003522/avspiller). *NRK*.
+
+- Hoogensen Gjørv, Gunhild. 24.03.2022. [Verdens største arsenal av atomvåpen](https://www.dagbladet.no/nyheter/verdens-storste-arsenal-av-atomvapen/75237952) *Dagbladet*.
 
 - Hoogensen Gjørv, Gunhild. 08.04.2022. NRK Svarer: Spør oss om krigen mellom Russland og Ukraina *NRK*.
 
@@ -70,15 +73,23 @@ template = "page.html"
 - Janda, Laura A. and Tore Nesset. 02.03.2022. [NRK Distriktsnyheter Nordnytt. Interview with Laura Janda and Tore Nesset.](https://tv.nrk.no/serie/distriktsnyheter-nordnytt/202203/DKTR98030222/avspiller).
 - Janda, Laura A., Tore Nesset, and Bjarge Schwencke Fors. 02.03.2022. [https://khrono.no/pa-det-kaldeste-var-det-samarbeid-med-russland-under-den-kalde-krigen/666245](https://khrono.no/pa-det-kaldeste-var-det-samarbeid-med-russland-under-den-kalde-krigen/666245) *Khrono*.
 
+-Hoogensen Gjørv, Gunhild. 01.03.2022. [Svarer unge om krigen](https://www.vg.no/nyheter/utenriks/i/34g1Qe/svarer-unge-om-krigen) *VG*.
+
+- Hoogensen Gjørv, Gunhild. 01.03.2022. [Vil ikke at døra stenges helt for russiske forskere](https://www.universitetsavisa.no/gunhild-hoogensen-gjorv-helge-holden-ole-petter-ottersen/vil-ikke-at-dora-stenges-helt-for-russiske-forskere/208628) *universitetsavisa.no*.
+
 - Godzimirski, Jakub. 25.02.2022. [Krig i Ukraina og russiske oligarker](https://radio.nrk.no/serie/dagsnytt-atten/sesong/202202/NMAG03004022#_=_) *NRK*. 
 
-- Hoogensen Gjørv, Gunhild. 24.03.2022. [Professor om Russlands angrep: – Dette kan vare lenge](https://www.abcnyheter.no/nyheter/politikk/2022/02/24/195827978/professor-om-russlands-angrep-dette-kan-vare-lenge) *abc nyheter*.
+- Hoogensen Gjørv, Gunhild. 24.02.2022. [Professor om Russlands angrep: – Dette kan vare lenge](https://www.abcnyheter.no/nyheter/politikk/2022/02/24/195827978/professor-om-russlands-angrep-dette-kan-vare-lenge) *abc nyheter*.
+
+- Hoogensen Gjørv, Gunhild, Sergii Glebov. 24.02.2022. [Ukrainske Glebov befinner seg i Tromsø: – Jeg vil hjem til familien min. De er OK, men redde](https://www.itromso.no/nyheter/i/Bj2Qqv/ukrainske-glebov-befinner-seg-i-tromsoe-jeg-vil-hjem-til-familien-min-de-er-ok-men-redde) *iTromsø*.
 
 - Hoogensen Gjørv, Gunhild. 24.02.2022. [Forskere er svært bekymret for situasjonen i Ukraina. — I verste fall kan det bli en storkrig](https://khrono.no/forskere-er-svaert-bekymret-for-situasjonen-i-ukraina-i-verste-fall-kan-det-bli-en-storkrig/663668) *Khrono*.
 
 - Hoogensen Gjørv, Gunhild. 24.02.2022. [Er Ukraina-invasjonen farlig for Norge?](https://www.aftenposten.no/verden/i/v5poqp/er-ukraina-invasjonen-farlig-for-norge) *Aftenposten*. 
 
 - Hoogensen Gjørv, Gunhild. 24.02.2022. [Falske nyheter dreper folk](https://www.nordlys.no/falske-nyheter-dreper-folk/v/5-34-1579549) *Nordlys*.
+
+-Hoogensen Gjørv, Gunhild. 21.02.2022. Slik skal UiT-forskerne motarbeide "fake news". *iTromsø*.
 
 - Hoogensen Gjørv, Gunhild. 26.01.2022. [Et nordiske Nato vil skape økt spenning i nord](https://agendamagasin.no/artikler/nordisk-nato-skape-okt-spenning-nord/) *Agenda magasin*.
 
@@ -157,6 +168,8 @@ template = "page.html"
 
 ### Podcasts
 
+- Hoogensen Gjørv, Gunhild. 23.05.2022. [Et sikkerhetspolitisk hamskifte: Norden i NATO, #PolyPod: Podkast av Polyteknisk Forening](https://www.polyteknisk.no/lytt-til-polypod-et-sikkerhetspolitisk-hamskifte-norden-i-nato).
+
 - Godzimirski, Jakub. 02.05.2022. [#PolyPod: Energi og sikkerhetspolitikk - Hvor avhengige er vi egentlig av russisk gass?](https://shows.acast.com/polypod/episodes/polypod-energi-og-sikkerhetspolitikk-hvor-avhengige-er-vi-eg).
 
 - Janda, Laura A. and Amund Trellevik. 11.04.2022. [Lytt til #PolyPod: Hva er konsekvensene av sanksjonene mot Russland?”, produced by Polyteknisk Forening](https://www.polyteknisk.no/lytt-til-polypod-hva-er-konsekvensene-av-sanksjonene-mot-russland).
@@ -168,6 +181,8 @@ template = "page.html"
 - Hoogensen Gjørv, Gunhild. 15.06.2022. "Hybrid threats and civil resilience in the context of Russia's war against Ukraine and the West". Transatlantic Democracy Dialogue, "Defending Democracy" and US Mission to the EU, Brussels.
 
 - Janda, Laura A. 13.06.2022. "Threat-Defuser: A project for the global Arctic today". Invited lecture at conference entitled Nordic perspectives on security policy in the Arctic at The Fram Centre (FRAM - High North Research Centre for Climate and the Environment). Tromsø, Norway.
+
+- Hoogensen Gjørv, Gunhild. 07.06.2022. "The narratives of the conflict between Ukraine and Russia", International Seminar on "Importance of Diplomacy in Conflict Resolution in the Context of Current War between Russia and Ukraine", Centre for Peace Studies (CPS) of SIPG, North South Univ.
 
 - Godzimirski, Jakub. 05.05.2022. War in Ukraine: scenarios and energy implications. Ministry of Petroleum and Energy.
 
@@ -185,7 +200,11 @@ template = "page.html"
 
 - Hoogensen Gjørv, Gunhild. 16.03.2022. "Sikkerhet, beredskap og desinformasjon". Statsforvalterenes Kommunikasjonsforum.
 
+- Hoogensen Gjørv, Gunhild, Rasmus Betelsen Gjedssø, Arve Hansen. 10.03.2022. "Hva skjer i Ukraina?" YATA Tromsø seminar.
+
 - Fidler, Masako. 26.02.2022. ["Impoverished morphemes"](https://www.youtube.com/watch?v=96bMCM3PKfo), at Political Concepts Conference, Cogut Institute, Brown University. 
+
+- Hoogensen Gjørv, Gunhild. 25.10.2021. "Hva nå, Russland", Barents Press Norge, Tromsø.
 
 - Godzimirski, Jakub M. 12.05.2021. "What are Russia’s strategic ambitions towards Europe and how Russia uses information measures to achieve its goals". Presentation for Threat-Defuser group.[2021 05 12 Threat defuser Russian information warfare towards Europe  goals means and measures.pptx](https://github.com/threat-defuser/threat-defuser.org/files/6721292/2021.05.12.Threat.defuser.Russian.information.warfare.towards.Europe.goals.means.and.measures.pptx)
 
