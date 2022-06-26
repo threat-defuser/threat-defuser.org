@@ -61,7 +61,7 @@ template = "page.html"
 - Janda, Laura A. 13.03.2022. [Slik bruker russiske borgere emojier for å lure Putin](https://www.tv2.no/a/14638828/). *TV2*.
 - Zhukova, Valentina. 09.03.2022. [Sanksjoner mot russisk akademia vil bare tjene Putin](https://www.aftenposten.no/kultur/i/KzRqnM/sanksjoner-mot-russisk-akademia-vil-bare-tjene-putin). *Aftenposten*.
 
--Hoogensen Gjørv, Gunhild. 04.03.2022. [Slik driver russiske myndigheter informasjonskrig mot Vesten og sitt eget folk](https://forskning.no/krig-og-fred-media-russland/slik-driver-russiske-myndigheter-informasjonskrig-mot-vesten-og-sitt-eget-folk/1989827) *forskning.no*.
+- Hoogensen Gjørv, Gunhild. 04.03.2022. [Slik driver russiske myndigheter informasjonskrig mot Vesten og sitt eget folk](https://forskning.no/krig-og-fred-media-russland/slik-driver-russiske-myndigheter-informasjonskrig-mot-vesten-og-sitt-eget-folk/1989827) *forskning.no*.
 
 - Zhukova, Valentina. 04.03.2022. [Russisk forsker mot krigen: — Dere må skille mellom forskere og myndighetene](https://khrono.no/russisk-forsker-mot-krigen-dere-ma-skille-mellom-forskere-og-myndighetene/667402). *Khrono*.
 - Zhukova, Valentina, Artem Spirin, Elena Tkachenko, Kari Aga Myklebost. 09.03.2022. [Sanksjoner mot russisk akademia vil bare tjene Putin](https://www.aftenposten.no/kultur/i/KzRqnM/sanksjoner-mot-russisk-akademia-vil-bare-tjene-putin). *Aftenposten*.
@@ -73,7 +73,7 @@ template = "page.html"
 - Janda, Laura A. and Tore Nesset. 02.03.2022. [NRK Distriktsnyheter Nordnytt. Interview with Laura Janda and Tore Nesset.](https://tv.nrk.no/serie/distriktsnyheter-nordnytt/202203/DKTR98030222/avspiller).
 - Janda, Laura A., Tore Nesset, and Bjarge Schwencke Fors. 02.03.2022. [https://khrono.no/pa-det-kaldeste-var-det-samarbeid-med-russland-under-den-kalde-krigen/666245](https://khrono.no/pa-det-kaldeste-var-det-samarbeid-med-russland-under-den-kalde-krigen/666245) *Khrono*.
 
--Hoogensen Gjørv, Gunhild. 01.03.2022. [Svarer unge om krigen](https://www.vg.no/nyheter/utenriks/i/34g1Qe/svarer-unge-om-krigen) *VG*.
+- Hoogensen Gjørv, Gunhild. 01.03.2022. [Svarer unge om krigen](https://www.vg.no/nyheter/utenriks/i/34g1Qe/svarer-unge-om-krigen) *VG*.
 
 - Hoogensen Gjørv, Gunhild. 01.03.2022. [Vil ikke at døra stenges helt for russiske forskere](https://www.universitetsavisa.no/gunhild-hoogensen-gjorv-helge-holden-ole-petter-ottersen/vil-ikke-at-dora-stenges-helt-for-russiske-forskere/208628) *universitetsavisa.no*.
 
@@ -89,7 +89,7 @@ template = "page.html"
 
 - Hoogensen Gjørv, Gunhild. 24.02.2022. [Falske nyheter dreper folk](https://www.nordlys.no/falske-nyheter-dreper-folk/v/5-34-1579549) *Nordlys*.
 
--Hoogensen Gjørv, Gunhild. 21.02.2022. Slik skal UiT-forskerne motarbeide "fake news". *iTromsø*.
+- Hoogensen Gjørv, Gunhild. 21.02.2022. Slik skal UiT-forskerne motarbeide "fake news". *iTromsø*.
 
 - Hoogensen Gjørv, Gunhild. 26.01.2022. [Et nordiske Nato vil skape økt spenning i nord](https://agendamagasin.no/artikler/nordisk-nato-skape-okt-spenning-nord/) *Agenda magasin*.
 
@@ -101,7 +101,7 @@ template = "page.html"
 
 ### Videos
 
-[Webinar om desinformasjon: Hvordan styrke vår evne til å oppdage, varsle og motvirke?](https://www.youtube.com/watch?v=_R-4_oqVavA). 11.11.2020.
+- [Webinar om desinformasjon: Hvordan styrke vår evne til å oppdage, varsle og motvirke?](https://www.youtube.com/watch?v=_R-4_oqVavA). 11.11.2020.
 
 
 ### Articles
@@ -116,7 +116,7 @@ template = "page.html"
 
 - Janda, Laura A. 13.05.2022. [Russisk hjerneflukt -- en enorm ressurs for oss](https://www.innomag.no/russisk-hjerneflukt-en-enorm-ressurs-for-oss/). Op-ed in *Innomag*. (Republication with slight revisions of op-ed in *Dagens næringsliv*).
 
--Hoogensen Gjørv, Gunhild. 12.05.2022. [Når internasjonalt samarbeid blir et sikkerhetsproblem](https://www.itromso.no/meninger/i/eEBEEM/naar-internasjonalt-samarbeid-blir-et-sikkerhetsproblem) *iTromsø*.
+- Hoogensen Gjørv, Gunhild. 12.05.2022. [Når internasjonalt samarbeid blir et sikkerhetsproblem](https://www.itromso.no/meninger/i/eEBEEM/naar-internasjonalt-samarbeid-blir-et-sikkerhetsproblem) *iTromsø*.
 
 - Rogatchevski, Andrei. 01.05.2022. [Hvorfor mener noen russere at Ukraina og Russland er én nasjon?](https://www.nettavisen.no/norsk-debatt/hvorfor-mener-noen-russere-at-ukraina-og-russland-er-n-nasjon/o/5-95-466335). Op-ed in *Nettavisen*. 
 
