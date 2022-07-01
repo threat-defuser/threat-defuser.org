@@ -112,6 +112,8 @@ template = "page.html"
 
 ### Op-ed pieces
 
+- Nesset, Tore. 01.07.2022. Språklege presisjonsvåpen rammar Kreml. Op-ed in *Dag og tid*.
+
 - Dineen, Isabel and Anna Levine. 24.05.2022. [Humor som våpen](https://www.dagsavisen.no/debatt/2022/05/24/humor-som-vapen/). Op-ed in *Dagsavisen*.
 
 - Janda, Laura A. 13.05.2022. [Russisk hjerneflukt -- en enorm ressurs for oss](https://www.innomag.no/russisk-hjerneflukt-en-enorm-ressurs-for-oss/). Op-ed in *Innomag*. (Republication with slight revisions of op-ed in *Dagens næringsliv*).
