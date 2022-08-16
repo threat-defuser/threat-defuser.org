@@ -180,6 +180,10 @@ template = "page.html"
 
 ### Scholarly presentations
 
+- Cvrček, Václav. 12.08.2022. "Parasitization on current topics as a strategy of the anti- establishment Czech media". 22. Nordiske Slavistmøte 2022, Oslo, Norge.
+
+- Nesset, Tore, and Makarova, Anastasia. 12.08.2022. "Refleksive trusler: Om grozit’, grozit’sja og -sja i russiske verb". 22. Nordiske Slavistmøte 2022, Oslo, Norge.
+
 - Hoogensen Gjørv, Gunhild. 15.06.2022. "Hybrid threats and civil resilience in the context of Russia's war against Ukraine and the West". Transatlantic Democracy Dialogue, "Defending Democracy" and US Mission to the EU, Brussels.
 
 - Janda, Laura A. 13.06.2022. "Threat-Defuser: A project for the global Arctic today". Invited lecture at conference entitled Nordic perspectives on security policy in the Arctic at The Fram Centre (FRAM - High North Research Centre for Climate and the Environment). Tromsø, Norway.
