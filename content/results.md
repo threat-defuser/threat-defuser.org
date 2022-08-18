@@ -180,6 +180,8 @@ template = "page.html"
 
 ### Scholarly presentations
 
+- Zhukova, Valentina. 12.08.2022. "Expressing Threats in Russian: a constructional perspective". 22. Nordiske Slavistmøte 2022, Oslo, Norge.
+
 - Cvrček, Václav. 12.08.2022. "Parasitization on current topics as a strategy of the anti- establishment Czech media". 22. Nordiske Slavistmøte 2022, Oslo, Norge.
 
 - Nesset, Tore, and Makarova, Anastasia. 12.08.2022. "Refleksive trusler: Om grozit’, grozit’sja og -sja i russiske verb". 22. Nordiske Slavistmøte 2022, Oslo, Norge.
