@@ -170,6 +170,8 @@ template = "page.html"
 
 ### Podcasts
 
+- Šlerka, Josef. 18.05.2022. [#80 Jak stát (ne)zvládá boj s dezinformacemi - rozhovor](https://podcasts.apple.com/us/podcast/80-jak-st%C3%A1t-ne-zvl%C3%A1d%C3%A1-boj-s-dezinformacemi-rozhovor/id1513576374?i=1000562218696). ODPOSLECH podcast.
+
 - Hoogensen Gjørv, Gunhild. 23.05.2022. [Et sikkerhetspolitisk hamskifte: Norden i NATO, #PolyPod: Podkast av Polyteknisk Forening](https://www.polyteknisk.no/lytt-til-polypod-et-sikkerhetspolitisk-hamskifte-norden-i-nato).
 
 - Godzimirski, Jakub. 02.05.2022. [#PolyPod: Energi og sikkerhetspolitikk - Hvor avhengige er vi egentlig av russisk gass?](https://shows.acast.com/polypod/episodes/polypod-energi-og-sikkerhetspolitikk-hvor-avhengige-er-vi-eg).
