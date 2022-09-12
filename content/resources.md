@@ -108,6 +108,11 @@ presents a multidisciplinary and multifaceted perspective on how the â€˜digitalâ
   - Jankowicz, Nina. 2020. *How to Lose the Information War: Russia, Fake News, and the Future of Conflict.*
     I. B. Tauris & Company, Limited.
 
+### Corpus of Putin's speeches in XML format and with Universal Dependencies
+
+- Levshina, Natalia. (2022). [A corpus of Vladimir Putin's speeches 2012-2022 (v1.0). Zenodo.](https://doi.org/10.5281/zenodo.7057103).
+
+
 
 ### How-to documents for the THREAT-DEFUSER team
 
