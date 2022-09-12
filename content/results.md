@@ -182,6 +182,8 @@ template = "page.html"
 
 ### Scholarly presentations
 
+- Levshina, Natalia. (2022).  Putin’s world through a corpus of his speeches. Poster presented at the 2nd Workshop on Computational Linguistics for Political Text Analysis, 12 September, Potsdam, Germany. 
+
 - Obukhova, Anna. 12.08.2022. Application of Market Basket Analysis to Russian Language Data: A Case Study of News Media Coverage of Svalbard (Spitsbergen). Det 22. nordiske slavistmøte 2022, Oslo, Norge.
 
 - Zhukova, Valentina. 12.08.2022. "Expressing Threats in Russian: a constructional perspective". 22. Nordiske Slavistmøte 2022, Oslo, Norge.
