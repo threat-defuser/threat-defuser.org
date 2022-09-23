@@ -112,6 +112,8 @@ template = "page.html"
 
 ### Op-ed pieces
 
+- Nesset, Tore. 23.09.2022. Det Kreml seier, og det dei gjer. *Dag og Tid* 2022 (38) s. 35-35
+
 - Nesset, Tore. 01.07.2022. Språklege presisjonsvåpen rammar Kreml. Op-ed in *Dag og tid*.
 
 - Dineen, Isabel and Anna Levine. 24.05.2022. [Humor som våpen](https://www.dagsavisen.no/debatt/2022/05/24/humor-som-vapen/). Op-ed in *Dagsavisen*.
