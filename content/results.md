@@ -106,6 +106,9 @@ template = "page.html"
 
 ### Articles
 
+- Cvrček, Václav and Masako Fidler. 2022. [Jazyk a politika: jak nám textová analýza může pomoci v boji s hybridními hrozbami a dezinformacemi](https://www.iir.cz/mezinarodni-vztahy-promena-identity-v-mezinarodnich-vztazich). *Mezinárodní politika*, pp. 16–18.
+
+
 - Cvrček, Václav and Masako Fidler. 2021(preprint)/2022(forthcoming).
   [No Keyword is an Island: In search of covert associations](/articles/CvrcekFidler2021.pdf). *Corpora*.
 
