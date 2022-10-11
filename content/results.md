@@ -187,6 +187,8 @@ template = "page.html"
 
 ### Scholarly presentations
 
+- Obukhova, Anna. 11.10.2022. Corpus Assisted Discourse Analysis: Svalbard (Spitsbergen) through the Prism of Russian News Media. A hybrid Svalbard Studies seminar; UiT, Tromsø, Norge.
+
 - Janda, Laura, Masako Fidler, Václav Cvrček, Anna Obukhova. 29.09.2022. Keymorph Analysis og Kasus: Putins taler. Nettverkssamiling til Russlandsnettverk, Oslo, Norge.
 
 - Levshina, Natalia. (2022).  Putin’s world through a corpus of his speeches. Poster presented at the 2nd Workshop on Computational Linguistics for Political Text Analysis, 12 September, Potsdam, Germany. 
