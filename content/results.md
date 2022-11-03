@@ -187,6 +187,8 @@ template = "page.html"
 
 ### Scholarly presentations
 
+- Obukhova, Anna. 02.11.2022. How the Russian Media Are Approaching Svalbard (Spitsbergen). Guest lecture for LinLangLunch at Brown University, Providence, RI, USA.
+
 - Janda, Laura,  Masako Fidler, Václav Cvrček, Anna Obukhova. 12.10.2022. Putin Makes His (Grammatical) Case. Guest Lecture for Psychology Dept. at Princeton University, Princeton, NJ, USA.
 
 - Obukhova, Anna. 11.10.2022. Corpus Assisted Discourse Analysis: Svalbard (Spitsbergen) through the Prism of Russian News Media. A hybrid Svalbard Studies seminar; UiT, Tromsø, Norge.
