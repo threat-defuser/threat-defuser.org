@@ -106,6 +106,9 @@ template = "page.html"
 
 ### Articles
 
+- Janda, L.A., Fidler, M., Cvrček, V. et al. (2022). [The case for case in Putin’s speeches](https://doi.org/10.1007/s11185-022-09269-2) *Russian Linguistics*  
+
+
 - Cvrček, Václav and Masako Fidler. 2022. [Jazyk a politika: jak nám textová analýza může pomoci v boji s hybridními hrozbami a dezinformacemi](https://www.iir.cz/mezinarodni-vztahy-promena-identity-v-mezinarodnich-vztazich). *Mezinárodní politika*, pp. 16–18.
 
 
