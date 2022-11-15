@@ -59,7 +59,6 @@ template = "page.html"
 - Hoogensen Gjørv, Gunhild. 13.03.2022. [Eksperter om Russlands mest populære journalist: – Viktig og farlig](https://www.abcnyheter.no/nyheter/verden/2022/03/13/195831700/eksperter-om-russlands-mest-populaere-journalist-viktig-og-farlig). *abc nyheter*.
 
 - Janda, Laura A. 13.03.2022. [Slik bruker russiske borgere emojier for å lure Putin](https://www.tv2.no/a/14638828/). *TV2*.
-- Zhukova, Valentina. 09.03.2022. [Sanksjoner mot russisk akademia vil bare tjene Putin](https://www.aftenposten.no/kultur/i/KzRqnM/sanksjoner-mot-russisk-akademia-vil-bare-tjene-putin). *Aftenposten*.
 
 - Hoogensen Gjørv, Gunhild. 04.03.2022. [Slik driver russiske myndigheter informasjonskrig mot Vesten og sitt eget folk](https://forskning.no/krig-og-fred-media-russland/slik-driver-russiske-myndigheter-informasjonskrig-mot-vesten-og-sitt-eget-folk/1989827) *forskning.no*.
 
