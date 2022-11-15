@@ -112,7 +112,7 @@ template = "page.html"
 
 
 - Cvrček, Václav and Masako Fidler. 2021(preprint)/2022(forthcoming).
-  [No Keyword is an Island: In search of covert associations](/articles/CvrcekFidler2021.pdf). *Corpora*.
+  [No Keyword is an Island: In search of covert associations](/articles/CvrcekFidler2021.pdf). *Corpora*. Available online [here](https://www.euppublishing.com/doi/10.3366/cor.2022.0256).
 
 
 ### Op-ed pieces
