@@ -189,6 +189,8 @@ template = "page.html"
 
 ### Scholarly presentations
 
+- Janda, Laura A. and Anna Obukhova. 15.11.2022. New linguistic methods applied to Russian political discourse. Guest presentation at UiO FAKESPEAK Workshop (online).
+
 - Obukhova, Anna. 02.11.2022. How the Russian Media Are Approaching Svalbard (Spitsbergen). Guest lecture for LinLangLunch at Brown University, Providence, RI, USA.
 
 - Janda, Laura,  Masako Fidler, Václav Cvrček, Anna Obukhova. 12.10.2022. Putin Makes His (Grammatical) Case. Guest Lecture for Psychology Dept. at Princeton University, Princeton, NJ, USA.
