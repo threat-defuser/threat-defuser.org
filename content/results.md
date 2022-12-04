@@ -105,14 +105,17 @@ template = "page.html"
 
 ### Articles
 
+- Levshina, Natalia. 2022. [A “special grammatical operation”: what Putin’s use of cases reveals](https://text-grinder.com/2022/11/13/a-special-grammatical-operation-what-putins-use-of-cases-reveals). November 13, 2022.
+
+
 - Janda, L.A., Fidler, M., Cvrček, V. et al. (2022). [The case for case in Putin’s speeches](https://doi.org/10.1007/s11185-022-09269-2) *Russian Linguistics*  
 
 
 - Cvrček, Václav and Masako Fidler. 2022. [Jazyk a politika: jak nám textová analýza může pomoci v boji s hybridními hrozbami a dezinformacemi](https://www.iir.cz/mezinarodni-vztahy-promena-identity-v-mezinarodnich-vztazich). *Mezinárodní politika*, pp. 16–18.
 
 
-- Cvrček, Václav and Masako Fidler. 2021(preprint)/2022(forthcoming).
-  [No Keyword is an Island: In search of covert associations](/articles/CvrcekFidler2021.pdf). *Corpora*. Available online [here](https://www.euppublishing.com/doi/10.3366/cor.2022.0256).
+- Cvrček, Václav and Masako Fidler. 2022.
+  [No Keyword is an Island: In search of covert associations](/articles/CvrcekFidler2021.pdf). *Corpora* 17(2). pp. 259-290. Available online [here](https://www.euppublishing.com/doi/10.3366/cor.2022.0256).
 
 
 ### Op-ed pieces
@@ -198,6 +201,8 @@ template = "page.html"
 - Obukhova, Anna. 11.10.2022. Corpus Assisted Discourse Analysis: Svalbard (Spitsbergen) through the Prism of Russian News Media. A hybrid Svalbard Studies seminar; UiT, Tromsø, Norge.
 
 - Janda, Laura, Masako Fidler, Václav Cvrček, Anna Obukhova. 29.09.2022. Keymorph Analysis og Kasus: Putins taler. Nettverkssamiling til Russlandsnettverk, Oslo, Norge.
+
+- Fidler, M. and V. Cvrček. 2022. Ideological preparation for war in Ukraine? Observations from the Czech antisystem discourse? Slavic Linguistics Society Conference (SLS-17). September 20, 2022. 
 
 - Levshina, Natalia. (2022).  Putin’s world through a corpus of his speeches. Poster presented at the 2nd Workshop on Computational Linguistics for Political Text Analysis, 12 September, Potsdam, Germany. 
 
