@@ -120,6 +120,8 @@ template = "page.html"
 
 ### Op-ed pieces
 
+- Nesset, Tore. 23.12.2022. Framleis postsovjetisk? *Dag og Tid* 2022 (0803-334X) Vol. 51-52, s. 34-34
+
 - Nesset, Tore. 23.09.2022. Det Kreml seier, og det dei gjer. *Dag og Tid* 2022 (38) s. 35-35
 
 - Nesset, Tore. 01.07.2022. Språklege presisjonsvåpen rammar Kreml. Op-ed in *Dag og tid*.
