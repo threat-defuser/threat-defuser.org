@@ -120,6 +120,8 @@ template = "page.html"
 
 ### Op-ed pieces
 
+- Nesset, Tore. Russland handlar rasjonelt. *Dag og Tid 2023* ;Volum 7. s. 34-34.
+
 - Janda, Laura. 04.01.2023. [Hvor skal vi ha unge russere, i klasserommet eller på slagmarken?](https://khrono.no/hvor-skal-vi-ha-unge-russere-i-klasserommet-eller-pa-slagmarken/747440?utm_campaign=2023-01-04%3A+45+professorer+sitert+p%C3%A5+Stortinget+%2F%2F+97+prosent+engelsk+%2F%2F+Forventer+slakkere+universitetskrav&utm_source=Khrono+daglig&utm_medium=email) *Khrono*.
 
 - Nesset, Tore. 23.12.2022. Framleis postsovjetisk? *Dag og Tid* 2022 (0803-334X) Vol. 51-52, s. 34-34
