@@ -6,6 +6,8 @@ template = "page.html"
 
 ### Links
 
+- [Threatologist](https://threatologist.com/): Threatologist Eurasia is a free weekly newsletter covering security threats — to the state and from the state — across Russia and Eurasia.
+
 - [Russia’s Propaganda & Disinformation Ecosystem - 2022 Update & New Disclosures](https://miburo.substack.com/p/russias-propaganda-and-disinformation?utm_source=url)
 - [Czech media map](https://www.nfnz.cz/studie-a-analyzy/typologie-domacich-zpravodajskych-webu/)
 - [Aranea Web Corpora](http://ucts.uniba.sk/aranea_about/)
