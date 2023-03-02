@@ -120,6 +120,8 @@ template = "page.html"
 
 ### Op-ed pieces
 
+- [Grammatikk avslører Putins syn på Ukraina](https://www.dagsavisen.no/debatt/2023/03/02/grammatikk-avslorer-putins-syn-pa-ukraina/) by Laura A. Janda, Tore Nesset, Anna Levine, Masako Fidler, Václav Cvrček. Op-ed in Dagsavisen. 02.03.2023.  
+
 - Nesset, Tore. Russland handlar rasjonelt. *Dag og Tid 2023* ;Volum 7. s. 34-34.
 
 - Janda, Laura. 04.01.2023. [Hvor skal vi ha unge russere, i klasserommet eller på slagmarken?](https://khrono.no/hvor-skal-vi-ha-unge-russere-i-klasserommet-eller-pa-slagmarken/747440?utm_campaign=2023-01-04%3A+45+professorer+sitert+p%C3%A5+Stortinget+%2F%2F+97+prosent+engelsk+%2F%2F+Forventer+slakkere+universitetskrav&utm_source=Khrono+daglig&utm_medium=email) *Khrono*.
