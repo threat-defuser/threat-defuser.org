@@ -200,6 +200,8 @@ template = "page.html"
 
 ### Scholarly presentations
 
+- Janda, Laura A. 28.02.2023. Grammatical messaging: Putin’s use of case. Invited guest lecture at Princeton University.
+
 - Janda, Laura A. and Anna Obukhova. 15.11.2022. New linguistic methods applied to Russian political discourse. Guest presentation at UiO FAKESPEAK Workshop (online).
 
 - Obukhova, Anna. 02.11.2022. How the Russian Media Are Approaching Svalbard (Spitsbergen). Guest lecture for LinLangLunch at Brown University, Providence, RI, USA.
