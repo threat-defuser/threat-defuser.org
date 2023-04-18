@@ -122,6 +122,8 @@ template = "page.html"
 
 ### Op-ed pieces
 
+- Laura Janda. 18.04.2023. [Russland på vei mot et digitalt Gulag](https://www.nordnorskdebatt.no/russland-pa-vei-mot-et-digitalt-gulag/o/5-124-239844). *Nordlys*.
+
 - Tore Nesset og Laura Janda. 20.03.2023. [Kremls språkkrig](https://www.nordnorskdebatt.no/kremls-sprakkrig/o/5-124-235945). *Nordlys*.
 
 - [Grammatikk avslører Putins syn på Ukraina](https://www.dagsavisen.no/debatt/2023/03/02/grammatikk-avslorer-putins-syn-pa-ukraina/) by Laura A. Janda, Tore Nesset, Anna Levine, Masako Fidler, Václav Cvrček. Op-ed in Dagsavisen. 02.03.2023.  
