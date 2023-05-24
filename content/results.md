@@ -208,6 +208,8 @@ template = "page.html"
 
 ### Scholarly presentations
 
+- Janda, Laura A. 15.05.2023. “Skrytý výzam pádů v projevech Putina”, invited plenary at 24. mezinárodní setkání mladých lingvistů in Olomouc, Czech Republic (digital).
+
 - Janda, Laura A. 28.02.2023. Grammatical messaging: Putin’s use of case. Invited guest lecture at Princeton University.
 
 - Janda, Laura A. and Anna Obukhova. 15.11.2022. New linguistic methods applied to Russian political discourse. Guest presentation at UiO FAKESPEAK Workshop (online).
