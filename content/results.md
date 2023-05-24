@@ -105,7 +105,9 @@ template = "page.html"
 
 ### Articles
 
-- Pötzsch, Holger; Hansen, Therese Holt; Hammar, Emil Lundedal. [Teaching and learning about audio-visual media: A critical media literacy perspective on the use of games in the contemporary upper-secondary classroom.](https://hdl.handle.net/10037/26853) In: Deutsche und norwegische Schulmedien im Vergleich. Peter Lang Publishing Group 2023 ISBN 978-3-631-87231-4. pp. 163-188.
+- Zhukova, Valentina. [How to threaten in Russian: a constructionist approach](https://link.springer.com/article/10.1007/s11185-023-09274-z). 2023. *Russian Linguistics : International Journal for the Study of the Russian Language* ( ISSN 0304-3487).
+
+- Pötzsch, Holger; Hansen, Therese Holt; Hammar, Emil Lundedal. [Teaching and learning about audio-visual media: A critical media literacy perspective on the use of games in the contemporary upper-secondary classroom.](https://hdl.handle.net/10037/26853) In: *Deutsche und norwegische Schulmedien im Vergleich.* Peter Lang Publishing Group 2023 ISBN 978-3-631-87231-4. pp. 163-188.
 
 - Levshina, Natalia. 2022. [A “special grammatical operation”: what Putin’s use of cases reveals](https://text-grinder.com/2022/11/13/a-special-grammatical-operation-what-putins-use-of-cases-reveals). November 13, 2022.
 
