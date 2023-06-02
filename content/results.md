@@ -208,6 +208,8 @@ template = "page.html"
 
 ### Scholarly presentations
 
+- Nesset, Tore; Sokolova, Svetlana; Björklund, Martina Specprezentacija – A cognitive approach to the morphological construction spec-N in Russian . Slavic Cognitive Linguistics Conference 2023, 2023-06-01
+
 - Janda, Laura A. 15.05.2023. “Skrytý výzam pádů v projevech Putina”, invited plenary at 24. mezinárodní setkání mladých lingvistů in Olomouc, Czech Republic (digital).
 
 - Janda, Laura A. 28.02.2023. Grammatical messaging: Putin’s use of case. Invited guest lecture at Princeton University.
