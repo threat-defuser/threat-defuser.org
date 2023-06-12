@@ -208,6 +208,8 @@ template = "page.html"
 
 ### Scholarly presentations
 
+- Obukhova, Anna. Svalbard (Spitsbergen) in Russian media: identifying associations and narratives through Market Basket Analysis. The Eighteenth Conference of the Slavic Cognitive Linguistics Association (SCLC-2023)  2023-06-03
+
 - Nesset, Tore; Sokolova, Svetlana; Björklund, Martina Specprezentacija – A cognitive approach to the morphological construction spec-N in Russian . Slavic Cognitive Linguistics Conference 2023, 2023-06-01
 
 - Zhukova, Valentina. Empty negation? Two competing contrastive constructions in Russian. The Eighteenth Conference of the Slavic Cognitive Linguistics Association (SCLC-2023); 2023-06-01 - 2023-06-03
