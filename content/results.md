@@ -124,7 +124,9 @@ template = "page.html"
 
 ### Op-ed pieces
 
-- Laura Janda. 18.04.2023. [Russland på vei mot et digitalt Gulag](https://www.nordnorskdebatt.no/russland-pa-vei-mot-et-digitalt-gulag/o/5-124-239844). *Nordlys*.
+- Janda, Laura. 23.06.2023. [Hva betyr forsoning for Norges totalforsvar og totalberedskap?](https://www.nordnorskdebatt.no/hva-betyr-forsoning-for-norges-totalforsvar-og-totalberedskap/o/5-124-252008). *Nordlys*.   
+
+- Janda, Laura. 18.04.2023. [Russland på vei mot et digitalt Gulag](https://www.nordnorskdebatt.no/russland-pa-vei-mot-et-digitalt-gulag/o/5-124-239844). *Nordlys*.
 
 - Tore Nesset og Laura Janda. 20.03.2023. [Kremls språkkrig](https://www.nordnorskdebatt.no/kremls-sprakkrig/o/5-124-235945). *Nordlys*.
 
