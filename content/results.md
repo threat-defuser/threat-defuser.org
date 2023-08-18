@@ -4,6 +4,11 @@ template = "page.html"
 
 ## Results of the Threat-Defuser project
 
+### Conferences
+
+- PUSHING EVERYONE'S BUTTONS: COGNITIVE METHODS IN POLITICAL DISCOURSE - Grammatical and multimodal patterns of compression in political discourse. A Theme Session organized by the Threat-Defuser project as part of the [International Cognitive Linguistics Conference](https://iclc16.phil.hhu.de/) at Heinrich Heine University, Düsseldorf, Germany. August 7-11, 2023.
+
+
 ### Interviews
 
 - Hoogensen Gjørv, Gunhild. 21.06.2022. [Internt brev vekker oppsikt: − Ikke akkurat noe Moskva jubler for](https://www.vg.no/nyheter/utenriks/i/bGVQ6q/internt-brev-vekker-oppsikt-ikke-akkurat-noe-moskva-jubler-for) *VG*.
@@ -212,6 +217,22 @@ template = "page.html"
 
 ### Scholarly presentations
 
+- Nesset, Tore and Svetlana Sokolova. Special operations: Russian rivalry in cognitive linguistics. [International Cognitive Linguistics Conference](https://iclc16.phil.hhu.de/) at Heinrich Heine University, Düsseldorf, Germany. August 7-11, 2023.
+
+- Nesset, Tore, Valentina Zhukova and Anastasia Makarova. The linguistics of threats: a cognitive approach to political discourse. PUSHING EVERYONE'S BUTTONS: COGNITIVE METHODS IN POLITICAL DISCOURSE - Grammatical and multimodal patterns of compression in political discourse. A Theme Session organized by the Threat-Defuser project as part of the [International Cognitive Linguistics Conference](https://iclc16.phil.hhu.de/) at Heinrich Heine University, Düsseldorf, Germany. August 7-11, 2023.
+
+- Janda, Laura, Václav Cvrček, Masako Ueda Fidler, and Anna Obukhova. Putin Makes His Case. PUSHING EVERYONE'S BUTTONS: COGNITIVE METHODS IN POLITICAL DISCOURSE - Grammatical and multimodal patterns of compression in political discourse. A Theme Session organized by the Threat-Defuser project as part of the [International Cognitive Linguistics Conference](https://iclc16.phil.hhu.de/) at Heinrich Heine University, Düsseldorf, Germany. August 7-11, 2023.
+
+- Turner, Mark. Grammatical and multimodal patterns of compression in political discourse. PUSHING EVERYONE'S BUTTONS: COGNITIVE METHODS IN POLITICAL DISCOURSE - Grammatical and multimodal patterns of compression in political discourse. A Theme Session organized by the Threat-Defuser project as part of the [International Cognitive Linguistics Conference](https://iclc16.phil.hhu.de/) at Heinrich Heine University, Düsseldorf, Germany. August 7-11, 2023.
+
+- Cvrček, Václav and Masako Ueda Fidler. Different ways to push the political button: Identifying political orientation among Czech media classes using Market Basket Analysis. PUSHING EVERYONE'S BUTTONS: COGNITIVE METHODS IN POLITICAL DISCOURSE - Grammatical and multimodal patterns of compression in political discourse. A Theme Session organized by the Threat-Defuser project as part of the [International Cognitive Linguistics Conference](https://iclc16.phil.hhu.de/) at Heinrich Heine University, Düsseldorf, Germany. August 7-11, 2023.
+
+- Knoblock, Natalia L. A Politician’s Speech Echoed in Computer-Mediated Communication of his Supporters. PUSHING EVERYONE'S BUTTONS: COGNITIVE METHODS IN POLITICAL DISCOURSE - Grammatical and multimodal patterns of compression in political discourse. A Theme Session organized by the Threat-Defuser project as part of the [International Cognitive Linguistics Conference](https://iclc16.phil.hhu.de/) at Heinrich Heine University, Düsseldorf, Germany. August 7-11, 2023.
+
+- Thornburg, Linda L. and Klaus-Uwe Panther. Modeling figuration in climate change cartoons. PUSHING EVERYONE'S BUTTONS: COGNITIVE METHODS IN POLITICAL DISCOURSE - Grammatical and multimodal patterns of compression in political discourse. A Theme Session organized by the Threat-Defuser project as part of the [International Cognitive Linguistics Conference](https://iclc16.phil.hhu.de/) at Heinrich Heine University, Düsseldorf, Germany. August 7-11, 2023.
+
+- Obukhova, Anna. Market Basket Analysis: What do Russian media say about Svalbard? PUSHING EVERYONE'S BUTTONS: COGNITIVE METHODS IN POLITICAL DISCOURSE - Grammatical and multimodal patterns of compression in political discourse. A Theme Session organized by the Threat-Defuser project as part of the [International Cognitive Linguistics Conference](https://iclc16.phil.hhu.de/) at Heinrich Heine University, Düsseldorf, Germany. August 7-11, 2023.
+ 
 - Obukhova, Anna. Svalbard (Spitsbergen) in Russian media: identifying associations and narratives through Market Basket Analysis. The Eighteenth Conference of the Slavic Cognitive Linguistics Association (SCLC-2023)  2023-06-03
 
 - Nesset, Tore; Sokolova, Svetlana; Björklund, Martina Specprezentacija – A cognitive approach to the morphological construction spec-N in Russian . Slavic Cognitive Linguistics Conference 2023, 2023-06-01
