@@ -217,6 +217,8 @@ template = "page.html"
 
 ### Scholarly presentations
 
+- Janda, Laura A. “What goes around, comes around: Cases that keep me going”, invited plenary lecture for the [Slavic Linguistics Society Conference (SLS-18)](https://www.juls.savba.sk/sls_2023.html) in Bratislava, Slovakia, August 2023.
+
 - Nesset, Tore and Svetlana Sokolova. Special operations: Russian rivalry in cognitive linguistics. [International Cognitive Linguistics Conference](https://iclc16.phil.hhu.de/) at Heinrich Heine University, Düsseldorf, Germany. August 7-11, 2023.
 
 - Nesset, Tore, Valentina Zhukova and Anastasia Makarova. The linguistics of threats: a cognitive approach to political discourse. PUSHING EVERYONE'S BUTTONS: COGNITIVE METHODS IN POLITICAL DISCOURSE - Grammatical and multimodal patterns of compression in political discourse. A Theme Session organized by the Threat-Defuser project as part of the [International Cognitive Linguistics Conference](https://iclc16.phil.hhu.de/) at Heinrich Heine University, Düsseldorf, Germany. August 7-11, 2023.
