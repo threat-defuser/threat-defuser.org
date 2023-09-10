@@ -318,3 +318,4 @@ template = "page.html"
 - [Threat-Defuser meeting 17.03.2022_.docx](https://github.com/threat-defuser/threat-defuser.org/files/8288644/Threat-Defuser.meeting.17.03.2022_.docx)
 - [Threat-Defuser_meeting_28.06.2022.docx](https://github.com/threat-defuser/threat-defuser.org/files/9008835/Threat-Defuser_meeting_28.06.2022.docx)
 - [Threat-Defuser_meeting_15.11.2022.docx](https://github.com/threat-defuser/threat-defuser.org/files/10014954/Threat-Defuser_meeting_15.11.2022.docx)
+- [Threat-Defuser_meeting_7.09.2023.docx](https://github.com/threat-defuser/threat-defuser.org/files/12569422/Threat-Defuser_meeting_7.09.2023.docx)
