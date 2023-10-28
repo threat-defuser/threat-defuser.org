@@ -11,6 +11,16 @@ template = "page.html"
 
 ### Interviews
 
+- Hoogensen Gjørv, Gunhild. Finnmarkssendinga. NRK [Radio] 2022-09-29
+
+- Hoogensen Gjørv, Gunhild. Sikkerhetsekspert om trusselbildet. Morrasendinga fra NRK Tromsø [Radio] 2022-10-17
+
+- Hoogensen Gjørv, Gunhild. Fredsprisen. NRK Helgemorgen [TV] 2022-10-08
+
+- Hoogensen Gjørv, Gunhild. [Professor mener russerdroner i Tromsø kan være taktisk spill: – Målet kan være å skape usikkerhet og uro. Nordlys 2022-10-15](https://www.nordlys.no/professor-mener-russerdroner-i-tromso-kan-vare-taktisk-spill-malet-kan-vare-a-skape-usikkerhet-og-uro/s/5-34-1684879)
+
+- Hoogensen Gjørv, Gunhild. Siviles rolle i totalforsvar. NRK Helgemorgen [TV] 2022-10-01
+
 - Hoogensen Gjørv, Gunhild. 21.06.2022. [Internt brev vekker oppsikt: − Ikke akkurat noe Moskva jubler for](https://www.vg.no/nyheter/utenriks/i/bGVQ6q/internt-brev-vekker-oppsikt-ikke-akkurat-noe-moskva-jubler-for) *VG*.
 
 - Hoogensen Gjørv, Gunhild. 18.06.2022. NRK Svarer: Spør oss om krigen mellom Russland og Ukraina *NRK*.
@@ -217,6 +227,8 @@ template = "page.html"
 
 ### Scholarly presentations
 
+- Myklebost, Kari Aga; Hoogensen Gjørv, Gunhild. Ukraina-krigens konsekvenser for Norge og nordområdene. Frokostmøte Samfunnsviterne Tromsø; 2023-06-06 - 2023-06-06
+
 - Janda, Laura A. “What goes around, comes around: Cases that keep me going”, invited plenary lecture for the [Slavic Linguistics Society Conference (SLS-18)](https://www.juls.savba.sk/sls_2023.html) in Bratislava, Slovakia, August 2023.
 
 - Nesset, Tore and Svetlana Sokolova. Special operations: Russian rivalry in cognitive linguistics. [International Cognitive Linguistics Conference](https://iclc16.phil.hhu.de/) at Heinrich Heine University, Düsseldorf, Germany. August 7-11, 2023.
@@ -272,6 +284,9 @@ template = "page.html"
 - Hoogensen Gjørv, Gunhild. 15.06.2022. "Hybrid threats and civil resilience in the context of Russia's war against Ukraine and the West". Transatlantic Democracy Dialogue, "Defending Democracy" and US Mission to the EU, Brussels.
 
 - Janda, Laura A. 13.06.2022. "Threat-Defuser: A project for the global Arctic today". Invited lecture at conference entitled Nordic perspectives on security policy in the Arctic at The Fram Centre (FRAM - High North Research Centre for Climate and the Environment). Tromsø, Norway.
+
+- Trellevik, Amund; Furuly, Jan Gunnar; Hoogensen Gjørv, Gunhild.
+Putins krig mot det frie ord: Hvordan skille propaganda og sannhet. Internasjonalt Seminar; 2022-10-06 - 2022-10-06.
 
 - Hoogensen Gjørv, Gunhild. 07.06.2022. "The narratives of the conflict between Ukraine and Russia", International Seminar on "Importance of Diplomacy in Conflict Resolution in the Context of Current War between Russia and Ukraine", Centre for Peace Studies (CPS) of SIPG, North South Univ.
 
