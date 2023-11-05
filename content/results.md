@@ -139,6 +139,8 @@ template = "page.html"
 
 ### Op-ed pieces
 
+- Janda, Laura A. 05.11.2023. [Defenseless Behind Bars](https://thebarentsobserver.com/en/2023/11/defenseless-behind-bars). *The Barents Observer*.
+
 - Nessset, Tore. 04.08.2023. [Frå Prigozjin til Pugatsjov: kupp og oppstand i Russland før og no](Frå Prigozjin til Pugatsjov kupp og oppstand i Russland før og no - fulltekst.pdf). *Dag og Tid*.
 
 - Janda, Laura. 23.06.2023. [Hva betyr forsoning for Norges totalforsvar og totalberedskap?](https://www.nordnorskdebatt.no/hva-betyr-forsoning-for-norges-totalforsvar-og-totalberedskap/o/5-124-252008). *Nordlys*.   
