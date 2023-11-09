@@ -8,6 +8,15 @@ template = "page.html"
 
 - PUSHING EVERYONE'S BUTTONS: COGNITIVE METHODS IN POLITICAL DISCOURSE - Grammatical and multimodal patterns of compression in political discourse. A Theme Session organized by the Threat-Defuser project as part of the [International Cognitive Linguistics Conference](https://iclc16.phil.hhu.de/) at Heinrich Heine University, Düsseldorf, Germany. August 7-11, 2023.
 
+- The language of threats: Discourse and constructional analysis. A panel at Det 22. nordiske slavistmøte 10.–14. August 2022.
+
+### Workshops
+
+- Workshop in Malangen, Norway, 07.-09.10.2021.
+
+- Workshop in Lyngen, Norway, 11.-12.02.2022.
+
+- Workshop in Prague, Czech Republic, 19.-22.04.2022.
 
 ### Interviews
 
