@@ -248,6 +248,8 @@ template = "page.html"
 - Thornburg, Linda L. and Klaus-Uwe Panther. Modeling figuration in climate change cartoons. PUSHING EVERYONE'S BUTTONS: COGNITIVE METHODS IN POLITICAL DISCOURSE - Grammatical and multimodal patterns of compression in political discourse. A Theme Session organized by the Threat-Defuser project as part of the [International Cognitive Linguistics Conference](https://iclc16.phil.hhu.de/) at Heinrich Heine University, Düsseldorf, Germany. August 7-11, 2023.
 
 - Obukhova, Anna. Market Basket Analysis: What do Russian media say about Svalbard? PUSHING EVERYONE'S BUTTONS: COGNITIVE METHODS IN POLITICAL DISCOURSE - Grammatical and multimodal patterns of compression in political discourse. A Theme Session organized by the Threat-Defuser project as part of the [International Cognitive Linguistics Conference](https://iclc16.phil.hhu.de/) at Heinrich Heine University, Düsseldorf, Germany. August 7-11, 2023.
+
+- Nesset, Tore and Laura Janda. June 16-19, 2023. Kremls språkkrig. Committee for Foreign Affairs Seminar. Barents Sea, UiT.
  
 - Obukhova, Anna. Svalbard (Spitsbergen) in Russian media: identifying associations and narratives through Market Basket Analysis. The Eighteenth Conference of the Slavic Cognitive Linguistics Association (SCLC-2023)  2023-06-03
 
