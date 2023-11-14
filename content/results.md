@@ -4,6 +4,20 @@ template = "page.html"
 
 ## Results of the Threat-Defuser project
 
+### Resources created by the Threat-Defuser team
+
+## [KWords](https://kwords.korpus.cz/)
+The KWords application is used for the analysis of texts based on comparison with general usage (reference corpus). The aim is to identify so-called keywords, which are word forms or lemmas appearing in the inspected text with a significantly higher frequency than in the reference corpus which should reflect the common usage. These key words serve as a basis for textual analysis and interpretation.
+
+KWords is an online application (the only thing needed to use it is a web browser) and it is accessible without registration to all users at kwords.korpus.cz.
+
+The first version of KWords was developed for the purpose of analyzing political speeches in collaboration with Brown University. The second version was developed as part of the Threat-defuser project. This version supports more than 30 languages and allows keyword analysis as well as keymorph analysis.
+
+## Media search
+
+- This is experimental and under development: [media search](/media-search/)
+
+
 ### Conferences
 
 - PUSHING EVERYONE'S BUTTONS: COGNITIVE METHODS IN POLITICAL DISCOURSE - Grammatical and multimodal patterns of compression in political discourse. A Theme Session organized by the Threat-Defuser project as part of the [International Cognitive Linguistics Conference](https://iclc16.phil.hhu.de/) at Heinrich Heine University, Düsseldorf, Germany. August 7-11, 2023.
