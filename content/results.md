@@ -143,6 +143,8 @@ The first version of KWords was developed for the purpose of analyzing political
 
 ### Articles
 
+- Nesset, Tore; Makarova, Anastasia [“Threat” in Russian – A Linguistic Perspective.](https://www.tandfonline.com/doi/full/10.1080/00806765.2023.2271872) Scando-Slavica 2023 (0080-6765) Vol. 69 (2)
+
 - Zhukova, Valentina. [How to threaten in Russian: a constructionist approach](https://link.springer.com/article/10.1007/s11185-023-09274-z). 2023. *Russian Linguistics : International Journal for the Study of the Russian Language* ( ISSN 0304-3487).
 
 - Pötzsch, Holger; Hansen, Therese Holt; Hammar, Emil Lundedal. [Teaching and learning about audio-visual media: A critical media literacy perspective on the use of games in the contemporary upper-secondary classroom.](https://hdl.handle.net/10037/26853) In: *Deutsche und norwegische Schulmedien im Vergleich.* Peter Lang Publishing Group 2023 ISBN 978-3-631-87231-4. pp. 163-188.
