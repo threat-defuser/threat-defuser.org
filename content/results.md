@@ -254,6 +254,8 @@ The first version of KWords was developed for the purpose of analyzing political
 
 ### Scholarly presentations
 
+- Janda, Laura Alexis Finding the “Fun” in External Funding. Grantwriting Workshop 2023, 2023-11-29, University of Tartu, Estonia.
+
 - Myklebost, Kari Aga; Hoogensen Gjørv, Gunhild. Ukraina-krigens konsekvenser for Norge og nordområdene. Frokostmøte Samfunnsviterne Tromsø; 2023-06-06 - 2023-06-06
 
 - Janda, Laura A. “What goes around, comes around: Cases that keep me going”, invited plenary lecture for the [Slavic Linguistics Society Conference (SLS-18)](https://www.juls.savba.sk/sls_2023.html) in Bratislava, Slovakia, August 2023.
