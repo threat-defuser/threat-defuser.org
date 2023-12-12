@@ -19,6 +19,11 @@ picture = "benko.jpg"
 homepage = "http://www.juls.savba.sk/~vladob"
 
 [[team]]
+name = "Joan Chevalier"
+picture = "chevalier.jpg"
+homepage = "https://www.usna.edu/LanguagesAndCultures/faculty/Russian.php"
+
+[[team]]
 name = "Václav Cvrček"
 picture = "cvrcek.jpg"
 homepage = "https://ucnk.ff.cuni.cz/cs/ustav/lide/vaclav-cvrcek/"
