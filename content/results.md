@@ -164,6 +164,8 @@ The first version of KWords was developed for the purpose of analyzing political
 
 ### Op-ed pieces
 
+- Janda, Laura A. 21.12.2023. [Elves, toy ponies, and supermarket price tags in supposed plots to undermine Putin’s regime](https://thebarentsobserver.com/en/democracy-and-media/2023/12/elves-toy-ponies-and-supermarket-price-tags-supposed-plots-undermine). *The Barents Observer*.
+
 - Janda, Laura A. 05.11.2023. [Defenseless Behind Bars](https://thebarentsobserver.com/en/2023/11/defenseless-behind-bars). *The Barents Observer*.
 
 - Nessset, Tore. 04.08.2023. [Frå Prigozjin til Pugatsjov: kupp og oppstand i Russland før og no](Frå Prigozjin til Pugatsjov kupp og oppstand i Russland før og no - fulltekst.pdf). *Dag og Tid*.
