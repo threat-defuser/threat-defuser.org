@@ -164,6 +164,8 @@ The first version of KWords was developed for the purpose of analyzing political
 
 ### Op-ed pieces
 
+- Janda, Laura A. 02.01.2024. [Кого боится режим Путина: эльфы, персонажи мультфильмов и магазинные ценники](https://thebarentsobserver.com/ru/demokraticheskoe-obshchestvo/2024/01/kogo-boitsya-rezhim-putina-elfy-personazhi-multfilmov-i). *The Barents Observer*.
+
 - Janda, Laura A. 21.12.2023. [Elves, toy ponies, and supermarket price tags in supposed plots to undermine Putin’s regime](https://thebarentsobserver.com/en/democracy-and-media/2023/12/elves-toy-ponies-and-supermarket-price-tags-supposed-plots-undermine). *The Barents Observer*.
 
 - Janda, Laura A. 05.11.2023. [Defenseless Behind Bars](https://thebarentsobserver.com/en/2023/11/defenseless-behind-bars). *The Barents Observer*.
@@ -243,6 +245,8 @@ The first version of KWords was developed for the purpose of analyzing political
 - Janda, Laura A. 13.11.2020. [Sannheten trenger hjelp når feilinformasjon spres i sosiale medier](https://www.transitmag.no/2020/11/13/sannheten-trenger-hjelp-nar-feilinformasjon-spres-i-sosiale-medier/). Op-ed in *Transit Magasin*.
 
 ### Podcasts
+
+- Janda, Laura A. 02.01.2024. [“Кого боится режим Путина: эльфы, персонажи мультфильмов и магазинные ценники”](https://soundcloud.com/user-763968049/kogo-boitsya-rezhim-putina-elfy-personazhi-multfilmov-i-magazinnye-tsenniki) *The Barents Observer.*
 
 - Šlerka, Josef. 18.05.2022. [#80 Jak stát (ne)zvládá boj s dezinformacemi - rozhovor](https://podcasts.apple.com/us/podcast/80-jak-st%C3%A1t-ne-zvl%C3%A1d%C3%A1-boj-s-dezinformacemi-rozhovor/id1513576374?i=1000562218696). ODPOSLECH podcast.
 
