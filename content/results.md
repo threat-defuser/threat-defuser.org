@@ -260,6 +260,8 @@ The first version of KWords was developed for the purpose of analyzing political
 
 ### Scholarly presentations
 
+- Obukhova, Anna. 'Stumbling archipelago’: exploring Russian media coverage of Svalbard (Spitsbergen) using Market Basket Analysis. 55th ASEEES Annual Convention; 2023-11-30 - 2023-12-03.
+
 - Janda, Laura Alexis Finding the “Fun” in External Funding. Grantwriting Workshop 2023, 2023-11-29, University of Tartu, Estonia.
 
 - Myklebost, Kari Aga; Hoogensen Gjørv, Gunhild. Ukraina-krigens konsekvenser for Norge og nordområdene. Frokostmøte Samfunnsviterne Tromsø; 2023-06-06 - 2023-06-06
