@@ -374,3 +374,4 @@ Putins krig mot det frie ord: Hvordan skille propaganda og sannhet. Internasjona
 - [Threat-Defuser_meeting_15.11.2022.docx](https://github.com/threat-defuser/threat-defuser.org/files/10014954/Threat-Defuser_meeting_15.11.2022.docx)
 - [Threat-Defuser_meeting_7.09.2023.docx](https://github.com/threat-defuser/threat-defuser.org/files/12569422/Threat-Defuser_meeting_7.09.2023.docx)
 - [Threat-Defuser_Meeting_121023.docx](https://github.com/threat-defuser/threat-defuser.org/files/13112865/Threat-Defuser_Meeting_121023.docx)
+- [Threat-Defuser_meeting_30.01.2024.docx](https://github.com/threat-defuser/threat-defuser.org/files/14108534/Threat-Defuser_meeting_30.01.2024.docx)
