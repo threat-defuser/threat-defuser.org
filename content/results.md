@@ -246,7 +246,7 @@ The first version of KWords was developed for the purpose of analyzing political
 
 ### Podcasts
 
-- Janda Laura A. 23.02.2024. [“Lytt til #PolyPod: Slik er livet i et russisk fengsel”](https://www.polyteknisk.no/lytt-til-polypod-slik-er-livet-i-et-russisk-fengsel?fbclid=IwAR0xoklglaJWTAs0K84fL26SbMLDg17POoBBBQx-j0HKqkKO2TvAGtHt_Ds). A podcast with Laura Janda and Amund Trellevik, produced by Polyteknisk Forening. 
+- Janda Laura A. 23.02.2024. [Lytt til #PolyPod: Slik er livet i et russisk fengsel](https://www.polyteknisk.no/lytt-til-polypod-slik-er-livet-i-et-russisk-fengsel?fbclid=IwAR0xoklglaJWTAs0K84fL26SbMLDg17POoBBBQx-j0HKqkKO2TvAGtHt_Ds). A podcast with Laura Janda and Amund Trellevik, produced by Polyteknisk Forening. 
 
 - Janda, Laura A. 02.01.2024. [“Кого боится режим Путина: эльфы, персонажи мультфильмов и магазинные ценники”](https://soundcloud.com/user-763968049/kogo-boitsya-rezhim-putina-elfy-personazhi-multfilmov-i-magazinnye-tsenniki) *The Barents Observer.*
 
