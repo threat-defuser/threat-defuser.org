@@ -34,6 +34,8 @@ The first version of KWords was developed for the purpose of analyzing political
 
 ### Interviews
 
+- Nesset, Tore, Kari Aga Myklebost, Elisabet Aaraas. 28.02.2024. [Hvorfor arrangerer Putin presidentvalg?](https://uit.no/nyheter/artikkel?p_document_id=840581). UiT.no nyheter.
+
 - Hoogensen Gjørv, Gunhild. Finnmarkssendinga. NRK [Radio] 2022-09-29
 
 - Hoogensen Gjørv, Gunhild. Sikkerhetsekspert om trusselbildet. Morrasendinga fra NRK Tromsø [Radio] 2022-10-17
@@ -164,6 +166,8 @@ The first version of KWords was developed for the purpose of analyzing political
 
 ### Op-ed pieces
 
+- Nesset, Tore and Kari Aga Myklebost. 23.02.2024. [Hvorfor gjennomfører Putin presidentvalg?](https://www.nordnorskdebatt.no/hvorfor-gjennomforer-putin-presidentvalg/o/5-124-295234). *Nordnorsk debatt - Nordlys*.
+
 - Janda, Laura A. 02.01.2024. [Кого боится режим Путина: эльфы, персонажи мультфильмов и магазинные ценники](https://thebarentsobserver.com/ru/demokraticheskoe-obshchestvo/2024/01/kogo-boitsya-rezhim-putina-elfy-personazhi-multfilmov-i). *The Barents Observer*.
 
 - Janda, Laura A. 21.12.2023. [Elves, toy ponies, and supermarket price tags in supposed plots to undermine Putin’s regime](https://thebarentsobserver.com/en/democracy-and-media/2023/12/elves-toy-ponies-and-supermarket-price-tags-supposed-plots-undermine). *The Barents Observer*.
@@ -261,6 +265,8 @@ The first version of KWords was developed for the purpose of analyzing political
 - Godzimirski, Jakub, Jarand Rystad and Ulf Sverdrup. 31.03.2022. [PODCAST: Can Europe get out of Russian gas?](https://www.nupi.no/en/News/PODCAST-Can-Europe-get-out-of-Russian-gas).
 
 ### Scholarly presentations
+
+- Nesset, Tore. 29.02.2024. Før valget i Russland. Valget i Russland -- hva handler det om? UiT Norges Arktiske Universitet og Skarven Vertshus.
 
 - Obukhova, Anna. 'Stumbling archipelago’: exploring Russian media coverage of Svalbard (Spitsbergen) using Market Basket Analysis. 55th ASEEES Annual Convention; 2023-11-30 - 2023-12-03.
 
