@@ -166,6 +166,8 @@ The first version of KWords was developed for the purpose of analyzing political
 
 ### Op-ed pieces
 
+- Nesset, Tore and Kari Aga Myklebost. 04.03.2024. Hvorfor holder han valg i det hele tatt?. *Dagsavisen*.
+
 - Nesset, Tore and Kari Aga Myklebost. 23.02.2024. [Hvorfor gjennomfører Putin presidentvalg?](https://www.nordnorskdebatt.no/hvorfor-gjennomforer-putin-presidentvalg/o/5-124-295234). *Nordnorsk debatt - Nordlys*.
 
 - Janda, Laura A. 02.01.2024. [Кого боится режим Путина: эльфы, персонажи мультфильмов и магазинные ценники](https://thebarentsobserver.com/ru/demokraticheskoe-obshchestvo/2024/01/kogo-boitsya-rezhim-putina-elfy-personazhi-multfilmov-i). *The Barents Observer*.
