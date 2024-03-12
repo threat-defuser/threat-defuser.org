@@ -166,6 +166,8 @@ The first version of KWords was developed for the purpose of analyzing political
 
 ### Op-ed pieces
 
+- Nesset, Tore. 08.03. Kremls to forteljingar. *Dag og Tid*.
+
 - Nesset, Tore and Kari Aga Myklebost. 04.03.2024. Hvorfor holder han valg i det hele tatt?. *Dagsavisen*.
 
 - Nesset, Tore and Kari Aga Myklebost. 23.02.2024. [Hvorfor gjennomfører Putin presidentvalg?](https://www.nordnorskdebatt.no/hvorfor-gjennomforer-putin-presidentvalg/o/5-124-295234). *Nordnorsk debatt - Nordlys*.
