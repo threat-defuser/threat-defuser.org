@@ -34,6 +34,8 @@ The first version of KWords was developed for the purpose of analyzing political
 
 ### Interviews
 
+- Nesset, Tore. 17.03.2024. [Presidentvalg i Russland. Innslag på "Helgemorgen" i NRK.](https://tv.nrk.no/serie/helgemorgen-tv/202403/DNRR62010724/avspiller).
+
 - Nesset, Tore, Kari Aga Myklebost, Elisabet Aaraas. 28.02.2024. [Hvorfor arrangerer Putin presidentvalg?](https://uit.no/nyheter/artikkel?p_document_id=840581). UiT.no nyheter.
 
 - Hoogensen Gjørv, Gunhild. Finnmarkssendinga. NRK [Radio] 2022-09-29
