@@ -18,6 +18,11 @@ The first version of KWords was developed for the purpose of analyzing political
 - This is experimental and under development: [media search](/media-search/)
 
 
+### Dissertations
+
+- Obukhova, Anna. 2024. *Svalbard through the prism of Russian media: A discourse and cognitive perspective.* PhD Dissertation, UiT, The Arctic University of Norway.
+
+
 ### Conferences
 
 - PUSHING EVERYONE'S BUTTONS: COGNITIVE METHODS IN POLITICAL DISCOURSE - Grammatical and multimodal patterns of compression in political discourse. A Theme Session organized by the Threat-Defuser project as part of the [International Cognitive Linguistics Conference](https://iclc16.phil.hhu.de/) at Heinrich Heine University, Düsseldorf, Germany. August 7-11, 2023.
