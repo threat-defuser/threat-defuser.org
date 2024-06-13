@@ -173,7 +173,9 @@ The first version of KWords was developed for the purpose of analyzing political
 
 ### Op-ed pieces
 
-- Nesset, Tore. 08.03. Kremls to forteljingar. *Dag og Tid*.
+- Janda, Laura A. 30.04.2024. [Studenter kan brukes til å redusere konflikter](https://www.khrono.no/studenter-kan-brukes-til-a-redusere-konflikter/869679). *Khrono*.
+
+- Nesset, Tore. 08.03.2024. Kremls to forteljingar. *Dag og Tid*.
 
 - Nesset, Tore and Kari Aga Myklebost. 04.03.2024. Hvorfor holder han valg i det hele tatt?. *Dagsavisen*.
 
