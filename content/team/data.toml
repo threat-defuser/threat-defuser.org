@@ -64,11 +64,6 @@ picture = "nesset.jpg"
 homepage = "https://uit.no/ansatte/person?p_document_id=41533"
 
 [[team]]
-name = "Anna Obukhova"
-picture = "obukhova.jpg"
-homepage = "https://en.uit.no/ansatte/person?p_document_id=727362&p_dimension_id=210121"
-
-[[team]]
 name = "Holger Pötzsch"
 picture = "poetzsch.jpg"
 homepage = "https://uit.no/ansatte/person?p_document_id=43820"
