@@ -152,7 +152,10 @@ The first version of KWords was developed for the purpose of analyzing political
 
 ### Articles
 
-- Nesset, Tore; Makarova, Anastasia [“Threat” in Russian – A Linguistic Perspective.](https://www.tandfonline.com/doi/full/10.1080/00806765.2023.2271872) Scando-Slavica 2023 (0080-6765) Vol. 69 (2)
+- Cvrček, Václav; Fidler, Masako. [From News to Disinformation: Unpacking a Parasitic Discursive Practice of Czech Pro-Kremlin Media](https://www.tandfonline.com/doi/full/10.1080/00806765.2024.2317374). *Scando-Slavica* 70:1, 32–54.
+
+
+- Nesset, Tore; Makarova, Anastasia [“Threat” in Russian – A Linguistic Perspective.](https://www.tandfonline.com/doi/full/10.1080/00806765.2023.2271872) *Scando-Slavica* 2023 (0080-6765) Vol. 69 (2)
 
 - Zhukova, Valentina. [How to threaten in Russian: a constructionist approach](https://link.springer.com/article/10.1007/s11185-023-09274-z). 2023. *Russian Linguistics : International Journal for the Study of the Russian Language* ( ISSN 0304-3487).
 
@@ -161,7 +164,7 @@ The first version of KWords was developed for the purpose of analyzing political
 - Levshina, Natalia. 2022. [A “special grammatical operation”: what Putin’s use of cases reveals](https://text-grinder.com/2022/11/13/a-special-grammatical-operation-what-putins-use-of-cases-reveals). November 13, 2022.
 
 
-- Janda, L.A., Fidler, M., Cvrček, V. et al. (2022). [The case for case in Putin’s speeches](https://doi.org/10.1007/s11185-022-09269-2) *Russian Linguistics*  
+- Janda, L.A., Fidler, M., Cvrček, V. et al. 2023. [The case for case in Putin’s speeches](https://doi.org/10.1007/s11185-022-09269-2) *Russian Linguistics* 47, 15–40. 
 
 
 - Cvrček, Václav and Masako Fidler. 2022. [Jazyk a politika: jak nám textová analýza může pomoci v boji s hybridními hrozbami a dezinformacemi](https://www.iir.cz/mezinarodni-vztahy-promena-identity-v-mezinarodnich-vztazich). *Mezinárodní politika*, pp. 16–18.
