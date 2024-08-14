@@ -152,6 +152,9 @@ The first version of KWords was developed for the purpose of analyzing political
 
 ### Articles
 
+- Cvrček, Václav; Fidler, Masako. 2024. Zone-Flooding as a Discursive Strategy of Czech Anti-System News Portals *Journal of Slavic Linguistics* 31:1–2, 61-98.
+
+
 - Nesset, Tore; Makarova, Anastasia. 2024. 	Threatening in Russian with or without sja: Grozit′ vs. grozit′sja. *Journal of Slavic Linguistics* 31:1–2, 215-244.
 
 - Cvrček, Václav; Fidler, Masako. 2024. [From News to Disinformation: Unpacking a Parasitic Discursive Practice of Czech Pro-Kremlin Media](https://www.tandfonline.com/doi/full/10.1080/00806765.2024.2317374). *Scando-Slavica* 70:1, 32–54.
