@@ -152,6 +152,10 @@ The first version of KWords was developed for the purpose of analyzing political
 
 ### Articles
 
+- Nesset, Tore; Sokolova, Svetlana; Björklund, Martina. 2024. 
+[Shortening mechanisms in construction morphology: the Russian spec-N construction](https://doi.org/10.1007/s11525-024-09431-0). *Morphology* 2024
+https://doi.org/10.1007/s11525-024-09431-0.
+
 - Cvrček, Václav; Fidler, Masako. 2024. Zone-Flooding as a Discursive Strategy of Czech Anti-System News Portals *Journal of Slavic Linguistics* 31:1–2, 61-98.
 
 
