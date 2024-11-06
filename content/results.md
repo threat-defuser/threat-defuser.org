@@ -293,6 +293,8 @@ https://doi.org/10.1007/s11525-024-09431-0.
 
 ### Scholarly presentations
 
+- Nesset, Tore. 05.11.2024. Betyr "sikkerhet" det samme på alle språk?. Barentsinstituttets grenseseminaret 2024.
+
 - Nesset, Tore. 29.02.2024. Før valget i Russland. Valget i Russland -- hva handler det om? UiT Norges Arktiske Universitet og Skarven Vertshus.
 
 - Obukhova, Anna. 'Stumbling archipelago’: exploring Russian media coverage of Svalbard (Spitsbergen) using Market Basket Analysis. 55th ASEEES Annual Convention; 2023-11-30 - 2023-12-03.
