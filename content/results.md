@@ -185,6 +185,8 @@ https://doi.org/10.1007/s11525-024-09431-0.
 
 ### Op-ed pieces
 
+- Nesset, Tore. 12.11.2024. Ein ekte russisk patriot. *Dag og Tid*.
+
 - Janda, Laura A. 28.10.2024. [“Childfree propaganda” is now illegal in Russia: But what is it and who will it affect?](https://www.thebarentsobserver.com/opinion/childfree-propaganda-is-now-illegal-in-russia-but-what-is-it-and-who-will-it-affect/419488). *The Barents Observer*.
 
 - Janda, Laura A. 30.04.2024. [Studenter kan brukes til å redusere konflikter](https://www.khrono.no/studenter-kan-brukes-til-a-redusere-konflikter/869679). *Khrono*.
