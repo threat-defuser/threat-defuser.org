@@ -295,6 +295,10 @@ https://doi.org/10.1007/s11525-024-09431-0.
 
 ### Scholarly presentations
 
+- Václav Cvrček & Masako Fidler: Methodological challenges of corpus-assisted discourse analysis of anti-system news portals. Biennial of Czech Linguistics, Prague. September 18, 2024.
+  
+- Václav Cvrček & Masako Fidler: Methodological challenges of CADS. Brown Charles Lecture Series. Brown University, Providence RI, October 15, 2024.
+
 - Nesset, Tore. 05.11.2024. Betyr "sikkerhet" det samme på alle språk?. Barentsinstituttets grenseseminaret 2024.
 
 - Nesset, Tore. 29.02.2024. Før valget i Russland. Valget i Russland -- hva handler det om? UiT Norges Arktiske Universitet og Skarven Vertshus.
