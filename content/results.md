@@ -185,6 +185,8 @@ https://doi.org/10.1007/s11525-024-09431-0.
 
 ### Op-ed pieces
 
+- Nesset, Tore. 01.12.2024. [Russisk i Tromsø i femti år – hva nå?](https://www.nordnorskdebatt.no/russisk-i-femti-ar-i-tromso-hva-na/o/5-124-337555). *Nordlys*. 
+
 - Nesset, Tore. 12.11.2024. Ein ekte russisk patriot. *Dag og Tid*.
 
 - Janda, Laura A. 28.10.2024. [“Childfree propaganda” is now illegal in Russia: But what is it and who will it affect?](https://www.thebarentsobserver.com/opinion/childfree-propaganda-is-now-illegal-in-russia-but-what-is-it-and-who-will-it-affect/419488). *The Barents Observer*.
