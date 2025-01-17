@@ -299,6 +299,8 @@ https://doi.org/10.1007/s11525-024-09431-0.
 
 ### Scholarly presentations
 
+- Rogatchevski, Andrei. Can Songs about President Lukashenka Help Measure His True Popularity?. Conference on Cross-Disciplinarity in Political Science: Research Insights and Perspectives, UiT, January 16, 2025.
+
 - Václav Cvrček & Masako Fidler: Methodological challenges of corpus-assisted discourse analysis of anti-system news portals. Biennial of Czech Linguistics, Prague. September 18, 2024.
   
 - Václav Cvrček & Masako Fidler: Methodological challenges of CADS. Brown Charles Lecture Series. Brown University, Providence RI, October 15, 2024.
