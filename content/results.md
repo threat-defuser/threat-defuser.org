@@ -154,6 +154,9 @@ The first version of KWords was developed for the purpose of analyzing political
 
 ### Articles
 
+- Janda, Laura A. 2024. What goes around, comes around: Cases that keep me going. *Jazykovedný časopis* No. 3.
+
+
 - Nesset, Tore; Sokolova, Svetlana; Björklund, Martina. 2024. 
 [Shortening mechanisms in construction morphology: the Russian spec-N construction](https://doi.org/10.1007/s11525-024-09431-0). *Morphology* 2024
 https://doi.org/10.1007/s11525-024-09431-0.
