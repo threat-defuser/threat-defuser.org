@@ -304,6 +304,8 @@ https://doi.org/10.1007/s11525-024-09431-0.
 
 ### Scholarly presentations
 
+- Hoogensen Gjørv, Gunhild. Samfunnets sårbarhet i møte med sammensatte trusler. Øvelse Hybrid Rogaland 2024. 23.04.2024.
+
 - Hoogensen Gjørv, Gunhild. Samarbeid i nord - militært og sivilt. Responskonferansen. 13.05.2024.
 
 - Hoogensen Gjørv, Gunhild. Panel Debate - Security. Open Session Arctic Frontiers 2024 - The Arctic Five Extended. 30.01.2024.
