@@ -304,6 +304,8 @@ https://doi.org/10.1007/s11525-024-09431-0.
 
 ### Scholarly presentations
 
+- Hoogensen Gjørv, Gunhild. Sammensatte trusler, samfunnet og energisektoren. Equinor, Gassco, Offshore Norge sikringsseminar. 16.04.2024.
+
 - Hoogensen Gjørv, Gunhild. Sammensatte trusler og totalforsvaret. Militærmakt og sikkerhetsoperasjoner. 15.04.2024.
 
 - Hoogensen Gjørv, Gunhild. Sammensatte trusler og desinformation: forholdet mellom media og sivile sikkerhetsperspektiver. Nordisk Journalistkursus. 19.10.2024.
