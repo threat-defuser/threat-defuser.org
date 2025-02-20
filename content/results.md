@@ -39,6 +39,8 @@ The first version of KWords was developed for the purpose of analyzing political
 
 ### Interviews
 
+- Hoogensen Gjørv, Gunhild. UiT-spionen tatt i mot av Putin:- Dette bekrefter at han var en viktig agent. iTromsø. 02.08.2024.
+
 - Hoogensen Gjørv, Gunhild. Stor fangeutveksling - Gjest utveksling. Nordnytt, NRK. 01.08.2024.
 
 - Hoogensen Gjørv, Gunhild. Stor beredskapsøvelse i Kirkenes. Nordnytt, NRK. 04.09.2024.
