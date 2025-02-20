@@ -39,6 +39,8 @@ The first version of KWords was developed for the purpose of analyzing political
 
 ### Interviews
 
+- Hoogensen Gjørv, Gunhild. Stor fangeutveksling - Gjest utveksling. Nordnytt, NRK. 01.08.2024.
+
 - Hoogensen Gjørv, Gunhild. Stor beredskapsøvelse i Kirkenes. Nordnytt, NRK. 04.09.2024.
 
 - Nesset, Tore, Kjetil Rydland. 29.11.2024. [Eit arktisk universitet må kunne russisk.](https://uit.no/nyheter/artikkel/kortnytt?p_document_id=866381). *Khrono*.
