@@ -304,6 +304,8 @@ https://doi.org/10.1007/s11525-024-09431-0.
 
 ### Scholarly presentations
 
+- Hoogensen Gjørv, Gunhild. Sammensatte trusler og desinformation: forholdet mellom media og sivile sikkerhetsperspektiver. Nordisk Journalistkursus. 19.10.2024.
+
 - Hoogensen Gjørv, Gunhild. Samfunnets sårbarhet i møte med sammensatte trusler. Øvelse Hybrid Rogaland 2024. 23.04.2024.
 
 - Hoogensen Gjørv, Gunhild. Samarbeid i nord - militært og sivilt. Responskonferansen. 13.05.2024.
