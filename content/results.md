@@ -304,6 +304,8 @@ https://doi.org/10.1007/s11525-024-09431-0.
 
 ### Scholarly presentations
 
+- Hoogensen Gjørv, Gunhild. Samarbeid i nord - militært og sivilt. Responskonferansen. 13.05.2024.
+
 - Hoogensen Gjørv, Gunhild. Panel Debate - Security. Open Session Arctic Frontiers 2024 - The Arctic Five Extended. 30.01.2024.
 
 - Hoogensen Gjørv, Gunhild. Når geopolitikk begrenser forskningen. Arctic Pride. 12.11.2024.
