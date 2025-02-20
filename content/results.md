@@ -154,6 +154,8 @@ The first version of KWords was developed for the purpose of analyzing political
 
 ### Articles
 
+- Hoogensen Gjørv, Gunhild. 2024. Rupturing the illusion of Nordic peace - and where to go from here. *Critical Studies on Security* 2024 (2162-4887) Vol. 12 (3).
+
 - Janda, Laura A. 2024. What goes around, comes around: Cases that keep me going. *Jazykovedný časopis* No. 3.
 
 
