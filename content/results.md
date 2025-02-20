@@ -302,6 +302,8 @@ https://doi.org/10.1007/s11525-024-09431-0.
 
 ### Scholarly presentations
 
+- Hoogensen Gjørv, Gunhild. Når geopolitikk begrenser forskningen. Arctic Pride. 12.11.2024.
+
 - Hoogensen Gjørv, Gunhild. Hvordan Russisk aggresjon setter Norge på prøve. Bokbad - Hybridkrig av Trine Hamran. 12.11.2024.
 
 - Janda, Laura A., with Václav Cvrček, Masako Fidler, Gunhild Hoogensen Gjørv, Anna Obukhova. Beyond Words: Engaging Grammar for Insights into Political Discourse. Conference on Cross-Disciplinarity in Political Science: Research Insights and Perspectives, UiT, January 16, 2025.
