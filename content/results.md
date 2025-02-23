@@ -41,6 +41,9 @@ The first version of KWords was developed for the purpose of analyzing political
 
 ### Interviews
 
+- Godzimirski, Jakub M. [Eksperter: Kan bli dragkamp om kroppen. Intervju med VG om russiske myndigheters håndtering av Aleksej Navalnyjs død](https://www.vg.no/nyheter/utenriks/i/kE2daj/russland-eksperter-spaar-kamp-om-navalnyjs-kropp). VG Oslo
+ Dato:	2024-02-19.
+
 - Godzimirski, Jakub M. [Ekspert om Putin-intervju: –⁠ Som å intervjue Adolf Hitler i 1939](https://www.vg.no/nyheter/utenriks/i/15Kb9l/ekspert-om-putin-intervju-som-aa-intervjue-adolf-hitler-i-1939). VG Oslo
  Dato:	2024-02-09.
 
