@@ -315,6 +315,8 @@ https://doi.org/10.1007/s11525-024-09431-0.
 
 ### Scholarly presentations
 
+- Hoogensen Gjørv, Gunhild. Spion-saken ved Universitetet i Tromsø. Internationalt samarbeid innen UH sektoren; 2023-09-11.
+
 - Hoogensen Gjørv, Gunhild and Mykleboost, Kari Aga. Russia and the Use of Hybrid Threats. YATA - Northern Security Dialogues. 26.10.2024.
 
 - Hoogensen Gjørv, Gunhild. Sammensatte trusler, samfunnet og energisektoren. Equinor, Gassco, Offshore Norge sikringsseminar. 16.04.2024.
