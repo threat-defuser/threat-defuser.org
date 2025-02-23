@@ -41,6 +41,9 @@ The first version of KWords was developed for the purpose of analyzing political
 
 ### Interviews
 
+- Godzimirski, Jakub M. [Dette er veldig ubehagelig for Russland](https://www.nettavisen.no/nyheter/bekrefter-til-nettavisen-ukrainske-soldater-dreper-russere-i-afrika/s/5-95-1652706). Nettavisen Oslo 
+Dato:	2024-02-24.
+
 - Godzimirski, Jakub M. [Desperate men. Intervju med NRK om Putins fremtid som Russland leder i lys av utviklingen i Ukraina-krigen](https://www.nrk.no/norge/desperate-menn-1.16817668). NRK Oslo
  Dato:	2024-03-27.
 
