@@ -41,6 +41,9 @@ The first version of KWords was developed for the purpose of analyzing political
 
 ### Interviews
 
+- Godzimirski, Jakub M. [Ren russisk propaganda. Intervju med TV2 om Tucker Carlsons intervju med Vladimir Putin](https://www.tv2.no/nyheter/utenriks/ren-russisk-propaganda/16447089/). 2024-02-09.
+
+
 - Hoogensen Gjørv, Gunhild; Smieszek-Rice, Malgorzata Dominika.
 Vi bør identifisere sårbarheter og usikkerhet. UiT nyheter 2024-10-24.
 
