@@ -41,6 +41,8 @@ The first version of KWords was developed for the purpose of analyzing political
 
 ### Interviews
 
+- Godzimirski, Jakub M. [Bekrefter til Nettavisen: Ukrainske soldater dreper russere i Afrika](https://www.nettavisen.no/nyheter/bekrefter-til-nettavisen-ukrainske-soldater-dreper-russere-i-afrika/s/5-95-1652706). Oslo Nettavisen Dato:	2024-02-20.
+
 - Godzimirski, Jakub M. [Ren russisk propaganda. Intervju med TV2 om Tucker Carlsons intervju med Vladimir Putin](https://www.tv2.no/nyheter/utenriks/ren-russisk-propaganda/16447089/). 2024-02-09.
 
 
