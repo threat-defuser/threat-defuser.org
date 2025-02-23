@@ -41,6 +41,9 @@ The first version of KWords was developed for the purpose of analyzing political
 
 ### Interviews
 
+- Godzimirski, Jakub M. [Britisk etterretning: – Høy sannsynlighet for at Putin vil fortsette å bruke dette «våpenet»](https://wo.cristin.no/as/WebObjects/cristin.woa/wo/Britisk%20etterretning:%20%E2%80%93%20H%C3%B8y%20sannsynlighet%20for%20at%20Putin%20vil%20fortsette%20%C3%A5%20bruke%20dette%20%C2%ABv%C3%A5penet%C2%BB). Oslo
+ Dato:	2024-02-28.
+
 - Godzimirski, Jakub M. [Blodrøde tall avslører den reelle kostnaden på Putins krig](https://www.nettavisen.no/okonomi/blodrode-tall-avslorer-den-reelle-kostnaden-pa-putins-krig/s/5-95-1797524). Nettavisen
  Dato:	2024-05-04.
 
