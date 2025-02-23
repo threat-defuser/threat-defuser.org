@@ -41,6 +41,9 @@ The first version of KWords was developed for the purpose of analyzing political
 
 ### Interviews
 
+- Godzimirski, Jakub M. [Ekspert om Putin-intervju: –⁠ Som å intervjue Adolf Hitler i 1939](https://www.vg.no/nyheter/utenriks/i/15Kb9l/ekspert-om-putin-intervju-som-aa-intervjue-adolf-hitler-i-1939). VG Oslo
+ Dato:	2024-02-09.
+
 - Godzimirski, Jakub M. [Ekspert om Moskva-angrepet: – Flere mulige aktører](https://www.tv2.no/nyheter/utenriks/ekspert-om-moskva-angrepet-flere-mulige-aktorer/16560716/). TV2 Oslo
  Dato:	2024-03-22.
 
