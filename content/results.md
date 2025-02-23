@@ -41,6 +41,9 @@ The first version of KWords was developed for the purpose of analyzing political
 
 ### Interviews
 
+- Godzimirski, Jakub M. [Intens kamp: - Svekket](https://www.dagbladet.no/nyheter/intens-kamp-svekket/81372701). Dagbladet
+ Dato:	2024-05-09.
+
 - Godzimirski, Jakub M. [Hevder gud ønsker russisk atomangrep](https://www.dagbladet.no/nyheter/hevder-gud-onsker-russisk-atomangrep/81524776). Dagbladet
  Dato:	2024-06-11.
 
