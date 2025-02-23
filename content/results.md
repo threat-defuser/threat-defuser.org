@@ -440,6 +440,11 @@ Putins krig mot det frie ord: Hvordan skille propaganda og sannhet. Internasjona
 - Cvrček, Václav and Masako Fidler. 09.03.2021.
   [A pilot study: Application of Market Basket Analysis to Text Analysis](/presentations/2021-03-09-vc-muf.pdf).
 
+### Reports
+
+- Hoyle, Aiden; Gjørv, Gunhild Birgitta Hoogensen; Doosje, Bertjan; Wagnsson, Charlotte.
+(Do(n't) Shoot the Messenger: Psychological Responses to Kremlin Narratives in Nordic - Baltic Audiences)[https://stratcomcoe.org/publications/dont-shoot-the-messenger-psychological-responses-to-kremlin-narratives-in-nordic-baltic-audiences/315]. Riga: NATO Stratcom 2024 (ISBN 978-9934-619-21-2) 33 s.
+
 
 ### How to register results for the THREAT-DEFUSER team
 
