@@ -41,6 +41,9 @@ The first version of KWords was developed for the purpose of analyzing political
 
 ### Interviews
 
+- Godzimirski, Jakub M. [En gavepakke til Putin](https://www.dagbladet.no/nyheter/en-gavepakke-til-putin/81524130). Dagbladet
+ Dato:	2024-06-11.
+
 - Godzimirski, Jakub M. [Eksperter: Kan bli dragkamp om kroppen. Intervju med VG om russiske myndigheters håndtering av Aleksej Navalnyjs død](https://www.vg.no/nyheter/utenriks/i/kE2daj/russland-eksperter-spaar-kamp-om-navalnyjs-kropp). VG Oslo
  Dato:	2024-02-19.
 
