@@ -41,6 +41,9 @@ The first version of KWords was developed for the purpose of analyzing political
 
 ### Interviews
 
+- Godzimirski, Jakub M. [Forsker om Putin-utspill: –⁠ Langsiktig strategi for å spre uro og splittelse](https://www.vg.no/nyheter/utenriks/i/zArOw5/forsker-om-putin-utspill-langsiktig-strategi-for-aa-spre-uro-og-splittelse). VG
+ Dato:	2024-06-06. 
+
 - Godzimirski, Jakub M. [En gavepakke til Putin](https://www.dagbladet.no/nyheter/en-gavepakke-til-putin/81524130). Dagbladet
  Dato:	2024-06-11.
 
