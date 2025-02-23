@@ -39,6 +39,9 @@ The first version of KWords was developed for the purpose of analyzing political
 
 ### Interviews
 
+- Hoogensen Gjørv, Gunhild; Smieszek-Rice, Malgorzata Dominika.
+Vi bør identifisere sårbarheter og usikkerhet. UiT nyheter 2024-10-24.
+
 - Hoogensen Gjørv, Gunhild. UiT-spionen tatt i mot av Putin:- Dette bekrefter at han var en viktig agent. iTromsø. 02.08.2024.
 
 - Hoogensen Gjørv, Gunhild. Stor fangeutveksling - Gjest utveksling. Nordnytt, NRK. 01.08.2024.
