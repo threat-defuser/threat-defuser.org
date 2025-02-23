@@ -22,7 +22,7 @@ The first version of KWords was developed for the purpose of analyzing political
 
 - Obukhova, Anna. 2024. *Svalbard through the prism of Russian media: A discourse and cognitive perspective.* PhD Dissertation, UiT, The Arctic University of Norway. Laura A. Janda main supervisor, Tore Nesset secondary supervisor.
 
-- Kara Kathleen Hodgson. 2024. *Mastering the Arctic? Political Culture and colonialism in the Russian Far North.* PhD Dissertation, UiT, The Arctic University of Norway. Gunhild Hoogensen Gjørv supervisor.
+- Kara Kathleen Hodgson. 2023. *Mastering the Arctic? Political Culture and colonialism in the Russian Far North.* PhD Dissertation, UiT, The Arctic University of Norway. Gunhild Hoogensen Gjørv supervisor.
 
 
 ### Conferences
