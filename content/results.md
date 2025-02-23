@@ -41,6 +41,9 @@ The first version of KWords was developed for the purpose of analyzing political
 
 ### Interviews
 
+- Godzimirski, Jakub M. [Litauens utenriksminister: – Vi mangler politisk vilje for å støtte Ukraina](https://www.dagsavisen.no/nyheter/verden/2024/03/27/litauens-utenriksminister-vi-mangler-ikke-evne-men-politisk-vilje-for-a-stotte-ukraina/). Dagsavisen
+ Dato:	2024-03-27.
+
 - Godzimirski, Jakub M. [Intervju med NRK Nyhetsmorgen om møte i Paris som president Emmanuel Macron organiserte for å bedre koordinøre støtte til Ukraina](https://tv.nrk.no/serie/nyheter/202402/NNFA09022624/avspiller). Oslo NRK
  Dato:	2024-02-26.
 
