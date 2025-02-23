@@ -41,6 +41,9 @@ The first version of KWords was developed for the purpose of analyzing political
 
 ### Interviews
 
+- Godzimirski, Jakub M. [Intervju med NRK Nyhetsmorgen om møte i Paris som president Emmanuel Macron organiserte for å bedre koordinøre støtte til Ukraina](https://tv.nrk.no/serie/nyheter/202402/NNFA09022624/avspiller). Oslo NRK
+ Dato:	2024-02-26.
+
 - Godzimirski, Jakub M. [Intens kamp: - Svekket](https://www.dagbladet.no/nyheter/intens-kamp-svekket/81372701). Dagbladet
  Dato:	2024-05-09.
 
