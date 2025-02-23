@@ -200,6 +200,9 @@ Vi bør identifisere sårbarheter og usikkerhet. UiT nyheter 2024-10-24.
 
 ### Articles
 
+- Godzimirski, Jakub M. 2024. [Foreign Investments and National Security: The Case of Russia](http://dx.doi.org/https://doi.org/10.1007/978-3-031-71404-7_7). In: The Political Economy of National Security, Critical Infrastructure and Securitization of Foreign Investments. Palgrave Macmillan 2024 ISBN 978-3-031-71403-0. pp. 173-209.
+
+
 - Hoogensen Gjørv, Gunhild. 2024. Rupturing the illusion of Nordic peace - and where to go from here. *Critical Studies on Security* 2024 (2162-4887) Vol. 12 (3).
 
 - Janda, Laura A. 2024. What goes around, comes around: Cases that keep me going. *Jazykovedný časopis* No. 3.
