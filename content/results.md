@@ -359,6 +359,8 @@ https://doi.org/10.1007/s11525-024-09431-0.
 
 ### Scholarly presentations
 
+- Godzimirski, Jakub M. HVORFOR OG HVORDAN KAN RUSSLAND KOMME TIL Å UTFORDRE NORSK ENERGIPRODUKSJON? Det verste som kan skje og hvordan bør vi forberede oss til dette. Å Entelios Brytningstid konferense; 2024-04-18.
+
 - Hoogensen Gjørv, Gunhild. Spion-saken ved Universitetet i Tromsø. Internationalt samarbeid innen UH sektoren; 2023-09-11.
 
 - Hoogensen Gjørv, Gunhild and Mykleboost, Kari Aga. Russia and the Use of Hybrid Threats. YATA - Northern Security Dialogues. 26.10.2024.
