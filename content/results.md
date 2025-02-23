@@ -41,6 +41,9 @@ The first version of KWords was developed for the purpose of analyzing political
 
 ### Interviews
 
+- Godzimirski, Jakub M. [Desperate men. Intervju med NRK om Putins fremtid som Russland leder i lys av utviklingen i Ukraina-krigen](https://www.nrk.no/norge/desperate-menn-1.16817668). NRK Oslo
+ Dato:	2024-03-27.
+
 - Godzimirski, Jakub M. [Britisk etterretning: – Høy sannsynlighet for at Putin vil fortsette å bruke dette «våpenet»](https://wo.cristin.no/as/WebObjects/cristin.woa/wo/Britisk%20etterretning:%20%E2%80%93%20H%C3%B8y%20sannsynlighet%20for%20at%20Putin%20vil%20fortsette%20%C3%A5%20bruke%20dette%20%C2%ABv%C3%A5penet%C2%BB). Oslo
  Dato:	2024-02-28.
 
