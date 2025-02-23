@@ -41,6 +41,9 @@ The first version of KWords was developed for the purpose of analyzing political
 
 ### Interviews
 
+- Godzimirski, Jakub M. [Dmitrij Medvedev truer Norge med spesialvåpen: – Slutten på alt](https://www.nettavisen.no/nyheter/dmitrij-medvedev-truer-norge-med-spesialvapen-slutten-pa-alt/s/5-95-1627584). Nettavisen Oslo
+ Dato:	2024-02-09.
+
 - Godzimirski, Jakub M. [Dette vil være et monumentalt nederlag for Russland](https://www.nettavisen.no/nyheter/sverre-diesen-en-vapenhvile-vil-vare-et-monumentalt-nederlag-for-russland/s/5-95-1838982). Nettavisen
  Dato:	2024-05-27.
 
