@@ -41,6 +41,9 @@ The first version of KWords was developed for the purpose of analyzing political
 
 ### Interviews
 
+- Godzimirski, Jakub M. [Ekspert om Moskva-angrepet: – Flere mulige aktører](https://www.tv2.no/nyheter/utenriks/ekspert-om-moskva-angrepet-flere-mulige-aktorer/16560716/). TV2 Oslo
+ Dato:	2024-03-22.
+
 - Godzimirski, Jakub M. [Dmitrij Medvedev truer Norge med spesialvåpen: – Slutten på alt](https://www.nettavisen.no/nyheter/dmitrij-medvedev-truer-norge-med-spesialvapen-slutten-pa-alt/s/5-95-1627584). Nettavisen Oslo
  Dato:	2024-02-09.
 
