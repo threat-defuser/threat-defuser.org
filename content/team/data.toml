@@ -59,6 +59,11 @@ picture = "makarova.jpg"
 homepage = "https://katalog.uu.se/profile/?id=N20-1741"
 
 [[team]]
+name = "Natalia Moen-Larsen"
+picture = "natalia_moen_larsen.jpg"
+homepage = "https://www.nupi.no/om-nupi/medarbeidere/forskere/natalia-moen-larsen"
+
+[[team]]
 name = "Tore Nesset"
 picture = "nesset.jpg"
 homepage = "https://uit.no/ansatte/person?p_document_id=41533"
