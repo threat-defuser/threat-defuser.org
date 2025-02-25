@@ -41,6 +41,9 @@ The first version of KWords was developed for the purpose of analyzing political
 
 ### Interviews
 
+- Godzimirski, Jakub M. [Slik rammer de Putins økonomi](https://www.dagbladet.no/nyheter/ber-om-hjelp-usikkerhet/81234979). Dagbladet
+ Dato:	2024-04-11.
+
 - Godzimirski, Jakub M. [Sanksjonene Vesten har innført spinnes til noen positivt av Kreml, advarer ekspert](https://www.nettavisen.no/nyheter/mener-kreml-er-sarbar-akilleshal/s/5-95-1586799). Nettavisen Oslo
  Dato:	2024-01-23.
 
