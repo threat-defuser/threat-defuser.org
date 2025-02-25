@@ -41,6 +41,9 @@ The first version of KWords was developed for the purpose of analyzing political
 
 ### Interviews
 
+- Godzimirski, Jakub M. [Terrorangrep i Russland: Dette er dei sikta](https://www.nrk.no/urix/terrorangrep-i-russland_-sikta-skal-ha-fatt-oyret-kutta-av-1.16820113). NRK
+ Dato:	2024-03-25.
+
 - Godzimirski, Jakub M. [Største korrupsjonssak i Russland på lang tid](https://www.nrk.no/urix/russisk-viseforsvarsminister-anklaget-for-grov-korrupsjon-1.16857229). NRK
  Dato:	2024-04-24.
 
