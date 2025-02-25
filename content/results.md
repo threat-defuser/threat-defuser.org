@@ -41,6 +41,9 @@ The first version of KWords was developed for the purpose of analyzing political
 
 ### Interviews
 
+- Godzimirski, Jakub M. [Russiske fengselsmyndigheter: Aleksej Navalnyj er død](https://www.tv2.no/nyheter/russiske-fengselsmyndigheter-aleksej-navalnyj-er-dod/16467516/). TV 2
+ Dato:	2024-02-16.
+
 - Godzimirski, Jakub M. [Putin gjenvalgt: –⁠ Nå er Russland på sitt farligste](https://www.vg.no/nyheter/utenriks/i/AP4Wbj/krigen-i-ukraina-naa-er-russland-paa-sitt-farligste). VG Oslo
  Dato:	2024-03-22.
 
