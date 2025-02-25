@@ -41,6 +41,9 @@ The first version of KWords was developed for the purpose of analyzing political
 
 ### Interviews
 
+- Godzimirski, Jakub M. [Navalnyj-talsperson: – Dyttet ut av likhuset](https://www.nettavisen.no/nyheter/navalnyj-talsperson-dyttet-ut-av-likhuset/s/5-95-1652307). Nettavisen Oslo
+ Dato:	2024-02-19.
+
 - Godzimirski, Jakub M. [Mener Kreml er sårbar: – Akilleshæl](https://www.nettavisen.no/nyheter/mener-kreml-er-sarbar-akilleshal/s/5-95-1586799). Nettavisen Oslo Dato:	2024-01-23.
 
 - Godzimirski, Jakub M. [Litauens utenriksminister: – Vi mangler politisk vilje for å støtte Ukraina](https://www.dagsavisen.no/nyheter/verden/2024/03/27/litauens-utenriksminister-vi-mangler-ikke-evne-men-politisk-vilje-for-a-stotte-ukraina/). Dagsavisen
