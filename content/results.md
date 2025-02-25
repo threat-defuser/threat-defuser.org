@@ -41,6 +41,9 @@ The first version of KWords was developed for the purpose of analyzing political
 
 ### Interviews
 
+- Godzimirski, Jakub M. [Ukraina angriper langt inne i Russland fire dager før presidentvalget](https://www.nrk.no/urix/ukraina-gjor-narr-av-putin-_-nye-store-angrep-langt-inne-i-russland-fire-dager-for-presidentvalget-1.16802524). NRK Oslo
+ Dato:	2024-03-13. 
+
 - Godzimirski, Jakub M. TV2 intervjuet om Vladimir Putins tale i det russiske parlamentet. TV2
  Dato:	2024-02-29.
 
