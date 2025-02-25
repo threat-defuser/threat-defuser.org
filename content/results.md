@@ -41,6 +41,9 @@ The first version of KWords was developed for the purpose of analyzing political
 
 ### Interviews
 
+- Godzimirski, Jakub M. [Putin blir utfordret på hjemmebane, hva er Wildberries og hva ønsker Kadyrov å oppnå](https://open.spotify.com/episode/27ZQkAKL58vz6y6KtFlco3). Nettavisen
+ Dato:	2024-10-16.
+
 - Godzimirski, Jakub M. [PROPAGANDASEIER FOR PUTIN](https://www.vg.no/nyheter/innenriks/i/MoOGGB/ekspert-om-tucker-carlson-intervju-i-russland-en-propagandaseier-for-putin). VG Oslo
  Dato:	2024-02-09.
 
