@@ -223,6 +223,8 @@ Vi bør identifisere sårbarheter og usikkerhet. UiT nyheter 2024-10-24.
 
 ### Articles
 
+- Godzimirski, Jakub M. [Polen og krigen i Ukraina: Er stemningen i ferd med å snu?](https://tidsskriftet-ip.no/index.php/intpol/article/view/6730). Internasjonal Politikk 2024 ;Volum 82.(3-4) s. 351-370.
+
 - Godzimirski, Jakub M. 2024. [Foreign Investments and National Security: The Case of Russia](http://dx.doi.org/https://doi.org/10.1007/978-3-031-71404-7_7). In: The Political Economy of National Security, Critical Infrastructure and Securitization of Foreign Investments. Palgrave Macmillan 2024 ISBN 978-3-031-71403-0. pp. 173-209.
 
 
