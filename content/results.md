@@ -387,6 +387,8 @@ https://doi.org/10.1007/s11525-024-09431-0.
 
 ### Scholarly presentations
 
+- Godzimirski, Jakub M. Russian Hybrid Warfare and Threats from the High North to the Black Sea. 2024 Black Sea and Balkans Security Forum; 2024-05-23.
+
 - Godzimirski, Jakub M. Presentation of the NUPI report The Ukraine War, New Geopolitics of Energy, and Norway to Offshore Norge. On-line Offshore Norge Seminar; 2024-03-14.
 
 - Godzimirski, Jakub M. Norwegian perceptions of security 2024 and Norwegian-Polish perception gaps. Poland and Norway in a changing geopolitical landscape; 2024-06-07.
