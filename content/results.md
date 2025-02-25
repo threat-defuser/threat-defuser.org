@@ -373,6 +373,8 @@ https://doi.org/10.1007/s11525-024-09431-0.
 
 ### Scholarly presentations
 
+- Godzimirski, Jakub M. Norwegian perceptions of security 2024 and Norwegian-Polish perception gaps. Poland and Norway in a changing geopolitical landscape; 2024-06-07.
+
 - Godzimirski, Jakub M. Mapping Russian repertoires of power in the Global South: the case of MENA region in the context of the war in Ukraine. CEEISA-ISA Joint International Conference Knowing the global-local: Imagining pasts, debating futures; 2024-06-19.
 
 
