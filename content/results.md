@@ -41,6 +41,9 @@ The first version of KWords was developed for the purpose of analyzing political
 
 ### Interviews
 
+- Godzimirski, Jakub M. [PROPAGANDASEIER FOR PUTIN](https://www.vg.no/nyheter/innenriks/i/MoOGGB/ekspert-om-tucker-carlson-intervju-i-russland-en-propagandaseier-for-putin). VG Oslo
+ Dato:	2024-02-09.
+
 - Godzimirski, Jakub M. [Opposisjonen sultestreiker og anklages for å oppfordre til kupp. Polens nye regjering møter flere hindre](https://www.aftenposten.no/verden/i/JQzkv4/opposisjonen-sultestreiker-og-anklages-for-aa-oppfordre-til-kupp-polens-nye-regjering-moeter-flere-hindre). Aftenposten Oslo
  Dato:	2024-02-05.
 
