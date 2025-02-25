@@ -41,6 +41,9 @@ The first version of KWords was developed for the purpose of analyzing political
 
 ### Interviews
 
+- Godzimirski, Jakub M. [Putin gjenvalgt: –⁠ Nå er Russland på sitt farligste](https://www.vg.no/nyheter/utenriks/i/AP4Wbj/krigen-i-ukraina-naa-er-russland-paa-sitt-farligste). VG Oslo
+ Dato:	2024-03-22.
+
 - Godzimirski, Jakub M. [Putin blir utfordret på hjemmebane, hva er Wildberries og hva ønsker Kadyrov å oppnå](https://open.spotify.com/episode/27ZQkAKL58vz6y6KtFlco3). Nettavisen
  Dato:	2024-10-16.
 
