@@ -41,6 +41,9 @@ The first version of KWords was developed for the purpose of analyzing political
 
 ### Interviews
 
+- Godzimirski, Jakub M. [Sanksjonene Vesten har innført spinnes til noen positivt av Kreml, advarer ekspert](https://www.nettavisen.no/nyheter/mener-kreml-er-sarbar-akilleshal/s/5-95-1586799). Nettavisen Oslo
+ Dato:	2024-01-23.
+
 - Godzimirski, Jakub M. [Russiske fengselsmyndigheter: Aleksej Navalnyj er død](https://www.tv2.no/nyheter/russiske-fengselsmyndigheter-aleksej-navalnyj-er-dod/16467516/). TV 2
  Dato:	2024-02-16.
 
