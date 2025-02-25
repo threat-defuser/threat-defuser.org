@@ -41,6 +41,9 @@ The first version of KWords was developed for the purpose of analyzing political
 
 ### Interviews
 
+- Godzimirski, Jakub M. [Største korrupsjonssak i Russland på lang tid](https://www.nrk.no/urix/russisk-viseforsvarsminister-anklaget-for-grov-korrupsjon-1.16857229). NRK
+ Dato:	2024-04-24.
+
 - Godzimirski, Jakub M. [Slik rammer de Putins økonomi](https://www.dagbladet.no/nyheter/ber-om-hjelp-usikkerhet/81234979). Dagbladet
  Dato:	2024-04-11.
 
