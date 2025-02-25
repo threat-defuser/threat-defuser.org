@@ -387,6 +387,8 @@ https://doi.org/10.1007/s11525-024-09431-0.
 
 ### Scholarly presentations
 
+- Godzimirski, Jakub M. Russia’s Political Warfare. Short Introduction. FLANKS 2 Seminar in Bucharest; 2024-05-22.
+
 - Godzimirski, Jakub M. Russian Repertoires of Power: Comparing Russian Power Practices in Ukraine and in the Middle East/North Africa. 2024 ASN Convention; 2024-05-16.
 
 - Godzimirski, Jakub M. Russian political warfare: what is this and what challenges does it pose in the High North and the Black Sea Region?. Dealing with the challenge of Russian political warfare in the High North and in the Black Sea Region; 2024-04-15.
