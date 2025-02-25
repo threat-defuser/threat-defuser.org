@@ -41,6 +41,8 @@ The first version of KWords was developed for the purpose of analyzing political
 
 ### Interviews
 
+- Godzimirski, Jakub M. []().
+
 - Godzimirski, Jakub M. [Terrorangrep i Russland: Dette er dei sikta](https://www.nrk.no/urix/terrorangrep-i-russland_-sikta-skal-ha-fatt-oyret-kutta-av-1.16820113). NRK
  Dato:	2024-03-25.
 
@@ -401,6 +403,8 @@ https://doi.org/10.1007/s11525-024-09431-0.
 - Godzimirski, Jakub, Jarand Rystad and Ulf Sverdrup. 31.03.2022. [PODCAST: Can Europe get out of Russian gas?](https://www.nupi.no/en/News/PODCAST-Can-Europe-get-out-of-Russian-gas).
 
 ### Scholarly presentations
+
+- Godzimirski, Jakub M. The Israel-Palestine Conflict - A new window of opportunity for Russian influence in the West?. Konkurrerende verdenssyn: Russlands potensiale for innflytelse i Europa etter 24.02.2022.
 
 - Godzimirski, Jakub M. Russia’s Political Warfare. Short Introduction. FLANKS 2 Seminar in Bucharest; 2024-05-22.
 
