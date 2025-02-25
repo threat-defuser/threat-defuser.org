@@ -368,6 +368,9 @@ https://doi.org/10.1007/s11525-024-09431-0.
 
 ### Scholarly presentations
 
+- Godzimirski, Jakub M. Mapping Russian repertoires of power in the Global South: the case of MENA region in the context of the war in Ukraine. CEEISA-ISA Joint International Conference Knowing the global-local: Imagining pasts, debating futures; 2024-06-19.
+
+
 - Godzimirski, Jakub M. HVORFOR OG HVORDAN KAN RUSSLAND KOMME TIL Å UTFORDRE NORSK ENERGIPRODUKSJON? Det verste som kan skje og hvordan bør vi forberede oss til dette. Å Entelios Brytningstid konferense; 2024-04-18.
 
 - Hoogensen Gjørv, Gunhild. Spion-saken ved Universitetet i Tromsø. Internationalt samarbeid innen UH sektoren; 2023-09-11.
