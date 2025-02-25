@@ -41,6 +41,9 @@ The first version of KWords was developed for the purpose of analyzing political
 
 ### Interviews
 
+- Godzimirski, Jakub M. TV2 intervjuet om Vladimir Putins tale i det russiske parlamentet. TV2
+ Dato:	2024-02-29.
+
 - Godzimirski, Jakub M. [Tror valget kan bli Putins siste](https://www.tv2.no/nyheter/utenriks/tror-valget-kan-bli-putins-siste/16544179/). TV2 Oslo
  Dato:	2024-03-17.
 
