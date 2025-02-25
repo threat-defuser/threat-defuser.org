@@ -387,6 +387,8 @@ https://doi.org/10.1007/s11525-024-09431-0.
 
 ### Scholarly presentations
 
+- Godzimirski, Jakub M. Russian political warfare: what is this and what challenges does it pose in the High North and the Black Sea Region?. Dealing with the challenge of Russian political warfare in the High North and in the Black Sea Region; 2024-04-15.
+
 - Godzimirski, Jakub M. Russian Hybrid Warfare and Threats from the High North to the Black Sea. 2024 Black Sea and Balkans Security Forum; 2024-05-23.
 
 - Godzimirski, Jakub M. Presentation of the NUPI report The Ukraine War, New Geopolitics of Energy, and Norway to Offshore Norge. On-line Offshore Norge Seminar; 2024-03-14.
