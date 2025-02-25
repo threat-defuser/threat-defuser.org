@@ -41,6 +41,9 @@ The first version of KWords was developed for the purpose of analyzing political
 
 ### Interviews
 
+- Godzimirski, Jakub M. [Vil gi Putin lov til å ta eigedom og verdiar frå krigsmotstandarar](https://www.nrk.no/urix/russland-vil-ta-eigedom-og-verdiar-fra-krigsmotstandarar-1.16742667). NRK Oslo
+ Dato:	2024-01-31.
+
 - Godzimirski, Jakub M. [Ukraina angriper langt inne i Russland fire dager før presidentvalget](https://www.nrk.no/urix/ukraina-gjor-narr-av-putin-_-nye-store-angrep-langt-inne-i-russland-fire-dager-for-presidentvalget-1.16802524). NRK Oslo
  Dato:	2024-03-13. 
 
