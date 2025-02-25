@@ -41,7 +41,8 @@ The first version of KWords was developed for the purpose of analyzing political
 
 ### Interviews
 
-- Godzimirski, Jakub M. []().
+- Godzimirski, Jakub M. [Tror valget kan bli Putins siste](https://www.tv2.no/nyheter/utenriks/tror-valget-kan-bli-putins-siste/16544179/). TV2 Oslo
+ Dato:	2024-03-17.
 
 - Godzimirski, Jakub M. [Terrorangrep i Russland: Dette er dei sikta](https://www.nrk.no/urix/terrorangrep-i-russland_-sikta-skal-ha-fatt-oyret-kutta-av-1.16820113). NRK
  Dato:	2024-03-25.
