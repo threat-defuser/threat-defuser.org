@@ -582,6 +582,9 @@ Putins krig mot det frie ord: Hvordan skille propaganda og sannhet. Internasjona
 
 ### Reports and Policy Briefs
 
+- Godzimirski, Jakub M.; Szulecki, Kacper; Stormoen, Ole Martin; Szacawa, Damian; Smura, Tomasz.
+[Polish-Norwegian Perceptions and Interactions](https://pulaski.pl/wp-content/uploads/2024/07/NorPolFactor-Polish-Norwegian-Perceptions-and-Interactions.pdf). Warsaw: Casimir Pulaski Foundation and NUPI 2024 50 s.
+
 - Godzimirski, Jakub M.; Blackburn, Matthew; Ionita, Daniel; Cristea, Ion; Stefureac, Remus.
 [Norway and Romania: Navigating Information Warfare](https://newstrategycenter.ro/wp-content/uploads/2024/04/Norway-and-Romania-Navigating-Information-Warfare.pdf). Bucharest and Oslo: New Strategy Center and NUPI 2024 36 s.
 
