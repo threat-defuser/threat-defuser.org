@@ -41,6 +41,8 @@ The first version of KWords was developed for the purpose of analyzing political
 
 ### Interviews
 
+- Godzimirski, Jakub M. [Ekspert: Militærledelsen kan ha gjort dette på egen hånd](https://www.nrk.no/urix/ekspert_-_-putins-mafiakarakter-har-blitt-tydelig-1.16527145). NRK Oslo Dato:	2023-08-24.
+
 - Godzimirski, Jakub M. [Disse er «top dogs» i Putins regime](https://www.nrk.no/urix/disse-er-_top-dogs_-i-putins-regime-1.16460146). Internett Oslo, Norway Dato:	2023-07-09.
 
 - Godzimirski, Jakub M. [Vil gi Putin lov til å ta eigedom og verdiar frå krigsmotstandarar](https://www.nrk.no/urix/russland-vil-ta-eigedom-og-verdiar-fra-krigsmotstandarar-1.16742667). NRK Oslo
