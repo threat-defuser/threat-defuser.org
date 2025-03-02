@@ -256,6 +256,10 @@ Vi bør identifisere sårbarheter og usikkerhet. UiT nyheter 2024-10-24.
 
 - [Webinar om desinformasjon: Hvordan styrke vår evne til å oppdage, varsle og motvirke?](https://www.youtube.com/watch?v=_R-4_oqVavA). 11.11.2020.
 
+### Books
+
+- Godzimirski, Jakub M.; Andersen, Morten Skumsrud. *The Political Economy of National Security, Critical Infrastructure and Securitization of Foreign Investments.* Palgrave Macmillan 2024 (ISBN 978-3-031-71403-0) 270 s. International Political Economy Series(1).
+
 
 ### Articles
 
