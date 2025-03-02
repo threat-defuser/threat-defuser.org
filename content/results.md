@@ -259,7 +259,9 @@ Vi bør identifisere sårbarheter og usikkerhet. UiT nyheter 2024-10-24.
 
 ### Articles
 
-- Godzimirski, Jakub M.; Andersen, Morten Skumsrud. [Conclusions. I](http://dx.doi.org/https://doi.org/10.1007/978-3-031-71404-7_1): *The Political Economy of National Security, Critical Infrastructure and Securitization of Foreign Investments.* Palgrave Macmillan 2024 ISBN 978-3-031-71403-0. s. 239-259.
+- Godzimirski, Jakub M.; Andersen, Morten Skumsrud. [Introduction.](https://doi.org/10.1007/978-3-031-71404-7_1) I: *The Political Economy of National Security, Critical Infrastructure and Securitization of Foreign Investments.* Palgrave Macmillan 2024 ISBN 978-3-031-71403-0. s. 1-14. 
+
+- Godzimirski, Jakub M.; Andersen, Morten Skumsrud. [Conclusions. I](https://link.springer.com/chapter/10.1007/978-3-031-71404-7_9): *The Political Economy of National Security, Critical Infrastructure and Securitization of Foreign Investments.* Palgrave Macmillan 2024 ISBN 978-3-031-71403-0. s. 239-259.
 
 - Godzimirski, Jakub M. Will Iran Challenge Russia's Position as a Major Global Energy Player?. I: *Struggle for alliance: Russia and Iran in the era of war in Ukraine.* I.B. Tauris 2024 ISBN 978-0-7556-5350-8. s. 281-296.
 
