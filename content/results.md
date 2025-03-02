@@ -580,6 +580,9 @@ Putins krig mot det frie ord: Hvordan skille propaganda og sannhet. Internasjona
 
 ### Reports and Policy Briefs
 
+- Godzimirski, Jakub M.; Bargaoanu, Alina; Ceuca, Razvan.
+[Addressing the Challenge of Russian Hybrid Warfare the NATO Way:The Case of Norway and Romania](https://newstrategycenter.ro/wp-content/uploads/2024/09/Working-Paper-2-FINAL-v2-3.pdf). Bucharest and Oslo: New Strategy Center and Norwegian Institute of International Affairs NUPI 2024 32 s.
+
 - Godzimirski, Jakub M. 2024. [How to make NATO better prepared to meet the challenge of the Russian political warfare? Lessons from Norway and Romania](https://newstrategycenter.ro/wp-content/uploads/2024/09/Policy-brief-4.pdf). Bucharest and Oslo: New Strategy Center and the Norwegian Institute of International Affairs 2024 10 pp.
 
 
