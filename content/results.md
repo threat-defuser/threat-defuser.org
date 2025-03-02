@@ -416,6 +416,8 @@ https://doi.org/10.1007/s11525-024-09431-0.
 
 ### Scholarly presentations
 
+- Godzimirski, Jakub M. Understanding the contours of political warfare. Presentation of FLANKS 2 project findings to the NATO Political Committee; 2024-06-24.
+
 - Godzimirski, Jakub M. The Israel-Palestine Conflict - A new window of opportunity for Russian influence in the West?. Konkurrerende verdenssyn: Russlands potensiale for innflytelse i Europa etter 24.02.2022.
 
 - Godzimirski, Jakub M. Russia’s Political Warfare. Short Introduction. FLANKS 2 Seminar in Bucharest; 2024-05-22.
