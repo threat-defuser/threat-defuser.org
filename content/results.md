@@ -263,9 +263,11 @@ Vi bør identifisere sårbarheter og usikkerhet. UiT nyheter 2024-10-24.
 
 ### Articles
 
+- Godzimirski, Jakub M.; Myhre, Marthe Handå; Onderco, Michal.
+[Caught in the liberal pragmatic trap? How political parties viewed energy dependence on Russia in three European countries 2012–2022](https://hdl.handle.net/11250/3157952). *Journal of Eurasian Studies* 2024.
+
 - Godzimirski, Jakub M.; Andersen, Morten Skumsrud; Haukland, Martin.
 Squaring the Circles: How to Understand National Security, Critical Infrastructure, Vital Societal Functions, and the Foreign Ownership Challenge?. I: *The Political Economy of National Security, Critical Infrastructure and Securitization of Foreign Investments.* Palgrave Macmillan 2024 ISBN 978-3-031-71403-0. s. 15-49.
-
 
 - Godzimirski, Jakub M.; Andersen, Morten Skumsrud. [Introduction.](https://doi.org/10.1007/978-3-031-71404-7_1) I: *The Political Economy of National Security, Critical Infrastructure and Securitization of Foreign Investments.* Palgrave Macmillan 2024 ISBN 978-3-031-71403-0. s. 1-14. 
 
