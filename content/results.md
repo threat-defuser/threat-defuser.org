@@ -259,6 +259,8 @@ Vi bør identifisere sårbarheter og usikkerhet. UiT nyheter 2024-10-24.
 
 ### Articles
 
+- Godzimirski, Jakub M.; Andersen, Morten Skumsrud. [Conclusions. I](http://dx.doi.org/https://doi.org/10.1007/978-3-031-71404-7_1): *The Political Economy of National Security, Critical Infrastructure and Securitization of Foreign Investments.* Palgrave Macmillan 2024 ISBN 978-3-031-71403-0. s. 239-259.
+
 - Godzimirski, Jakub M. Will Iran Challenge Russia's Position as a Major Global Energy Player?. I: *Struggle for alliance: Russia and Iran in the era of war in Ukraine.* I.B. Tauris 2024 ISBN 978-0-7556-5350-8. s. 281-296.
 
 - Godzimirski, Jakub M. [Polen og krigen i Ukraina: Er stemningen i ferd med å snu?](https://tidsskriftet-ip.no/index.php/intpol/article/view/6730). Internasjonal Politikk 2024 ;Volum 82.(3-4) s. 351-370.
@@ -416,7 +418,7 @@ https://doi.org/10.1007/s11525-024-09431-0.
 
 ### Scholarly presentations
 
-- Godzimirski, Jakub M. Understanding the contours of political warfare. Presentation of FLANKS 2 project findings to the NATO Political Committee; 2024-06-24.
+- Godzimirski, Jakub M.; Alina, Bârgăoanu. Understanding the contours of political warfare. Presentation of FLANKS 2 project findings to the NATO Political Committee; 2024-06-24.
 
 - Godzimirski, Jakub M. The Israel-Palestine Conflict - A new window of opportunity for Russian influence in the West?. Konkurrerende verdenssyn: Russlands potensiale for innflytelse i Europa etter 24.02.2022.
 
