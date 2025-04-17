@@ -37,22 +37,22 @@ The first version of KWords was developed for the purpose of analyzing political
 
 This workshop presented the results of Czech colleagues in the Threat-Defuser team and alongside relevant work by other (especially junior) colleagues. The workshop focused on hybrid threats in public discourse and the use of language corpora and AI to analyze them. The workshop also included a demo presentation of the tools and datasets of the Czech National Corpus that can be used in such research.
 
- - Speakers and materials:
-  - Josef Šlerka: [Using AI for content analysis](Josef-content-analysis.pdf)
+Speakers and materials:
+  - Josef Šlerka: [Using AI for content analysis](/presentations/Josef-content-analysis.pdf)
 
   - Václav Horký: [Identifying keywords with KWords 2 /demo/](https://kwords.korpus.cz/) - web application for identifying keywords (click on the gear for
 advanced settings or on the question mark for a brief help); [API documentation](https://kwords.korpus.cz/api/docs) - [more information at the CNC wiki](https://wiki.korpus.cz/doku.php/en:manualy:kwords).
 
-  - Konstantin Sulimenko: [Mapping the Anti-System Media Register Using Corpus and Quantitative Methods](Konstantin_Workshop_threat_defuser.pdf). 
+  - Konstantin Sulimenko: [Mapping the Anti-System Media Register Using Corpus and Quantitative Methods](/presentations/Konstantin_Workshop_threat_defuser.pdf). 
 
   - Pavel Vondřička: [Parallel corpus InterCorp – 60 languages at your hand /demo/](https://wiki.korpus.cz/doku.php/en:cnk:intercorp); 
 [KonText interface manual](https://wiki.korpus.cz/doku.php/en:manualy:kontext:index).
 
-  - Đurđa Jovanović Padejski: [Corpus assisted discourse analysis of most frequent environmental terms](Djurdja-Corpus_assisted_discourse_analysis_environmental_terms.pdf).
+  - Đurđa Jovanović Padejski: [Corpus assisted discourse analysis of most frequent environmental terms](/presentations/Djurdja-Corpus_assisted_discourse_analysis_environmental_terms.pdf).
 
   - Jiří Milička: [N-gram analysis with Engrammer /demo/](http://milicka.cz/en/engrammer/)
 
-  - Václav Cvrček & Masako Fidler: [Associations in discourse analysis](Vaclav-Mako-associations-collocations.pdf).
+  - Václav Cvrček & Masako Fidler: [Associations in discourse analysis](/presentations/Vaclav-Mako-associations-collocations.pdf).
 
 
 - Workshop in Malangen, Norway, 07.-09.10.2021.
