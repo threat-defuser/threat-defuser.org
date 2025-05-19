@@ -344,6 +344,8 @@ https://doi.org/10.1007/s11525-024-09431-0.
 
 ### Op-ed pieces
 
+- Hoogensen Gjørv, Gunhild. 18.05.2025. [Norge kan ende opp i den arktiske kulden](https://www.aftenposten.no/meninger/debatt/i/LMErRp/norge-kan-ende-opp-i-den-arktiske-kulden). *Aftenposten*.
+
 - Janda, Laura A. 07.03.2025. [People in danger of being left behind by a peace deal](https://www.thebarentsobserver.com/opinion/people-in-danger-of-being-left-behind-by-a-peace-deal/426091). *The Barents Observer*.
 
 - Janda, Laura A. and Nesset, Tore. 05.03.2025. [Russland: ord om krig og krig om ord](https://www.nordnorskdebatt.no/russland-ord-om-krig-og-krig-om-ord/o/5-124-352879). *Nordlys*. 
