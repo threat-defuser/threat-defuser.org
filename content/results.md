@@ -462,6 +462,9 @@ https://doi.org/10.1007/s11525-024-09431-0.
 
 ### Scholarly presentations
 
+- Nesset, Tore. Fears and threats: Russian reflexive verbs and second language learning. Invited plenary at Croaticumov okrugli stol, 
+Croaticum/University of Zagreb, 22.05.2025.
+
 - Janda, Laura A., Gunhild Hoogensen Gjørv, Václav Cvrček, Masako Fidler, Anna Obukhova. Grammar in the service of ideological messaging: Putin’s speeches 2022-2024. Grey Zone Seminar on Arctic Geopolitics, at UiT, May 9, 2025.
 
 - Godzimirski, Jakub M.; Alina, Bârgăoanu. Understanding the contours of political warfare. Presentation of FLANKS 2 project findings to the NATO Political Committee; 2024-06-24.
