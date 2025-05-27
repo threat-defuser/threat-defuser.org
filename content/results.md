@@ -462,6 +462,9 @@ https://doi.org/10.1007/s11525-024-09431-0.
 
 ### Scholarly presentations
 
+- Fidler, Masako Ueda. "Suravugengo kōpasu: senmonbunya no waku wo koeru kanōsei"/ Slavic-language corpora: possibilities for interdisciplinarity, an invited talk at the Mini-symposium and Lecture held by the Japan Society for the Study of Slavic Languages and Literatures (JSSSLL). 
+May 24, 2025. Sensyū University, Tokyo, Japan.
+
 - Nesset, Tore. Fears and threats: Russian reflexive verbs and second language learning. Invited plenary at Croaticumov okrugli stol, 
 Croaticum/University of Zagreb, 22.05.2025.
 
