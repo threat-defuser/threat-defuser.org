@@ -344,6 +344,8 @@ https://doi.org/10.1007/s11525-024-09431-0.
 
 ### Op-ed pieces
 
+- Janda, Laura A. 08.06.2025. [Exchange on a one-way street](https://www.thebarentsobserver.com/opinion/exchange-on-a-oneway-street/431208). *The Barents Observer*.
+
 - Hoogensen Gjørv, Gunhild. 18.05.2025. [Norge kan ende opp i den arktiske kulden](https://www.aftenposten.no/meninger/debatt/i/LMErRp/norge-kan-ende-opp-i-den-arktiske-kulden). *Aftenposten*.
 
 - Janda, Laura A. 07.03.2025. [People in danger of being left behind by a peace deal](https://www.thebarentsobserver.com/opinion/people-in-danger-of-being-left-behind-by-a-peace-deal/426091). *The Barents Observer*.
