@@ -468,6 +468,8 @@ https://doi.org/10.1007/s11525-024-09431-0.
 
 ### Scholarly presentations
 
+- Nesset, Tore. "Er du sikker på hva «sikker» betyr?". 24.09.2025. [UiTs Forskerpub](https://uit.no/tavla/artikkel/883359/forskerpub_er_du_sikker). Tromsø, Norway.
+
 - Fidler, Masako Ueda. "Suravugengo kōpasu: senmonbunya no waku wo koeru kanōsei"/ Slavic-language corpora: possibilities for interdisciplinarity, an invited talk at the Mini-symposium and Lecture held by the Japan Society for the Study of Slavic Languages and Literatures (JSSSLL). 
 May 24, 2025. Sensyū University, Tokyo, Japan.
 
