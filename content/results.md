@@ -289,6 +289,9 @@ Vi bør identifisere sårbarheter og usikkerhet. UiT nyheter 2024-10-24.
 
 ### Articles
 
+- Nesset, Tore. [Å forstå Russland frå innsida](https://hdl.handle.net/11250/3222899).
+  *Dag og Tid* 10.10.2025.
+
 - Godzimirski, Jakub M.; Myhre, Marthe Handå; Onderco, Michal.
 [Caught in the liberal pragmatic trap? How political parties viewed energy dependence on Russia in three European countries 2012–2022](https://hdl.handle.net/11250/3157952). *Journal of Eurasian Studies* 2024.
 
