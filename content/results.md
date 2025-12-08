@@ -347,6 +347,8 @@ https://doi.org/10.1007/s11525-024-09431-0.
 
 ### Op-ed pieces
 
+- Nesset, Tore. 05.12. 2025. [Tre enkle tiltak for å satse på russiskfaget](Tre enkle tiltak for å satse på russiskfaget). *Khrono*.
+
 - Janda, Laura A. 21.07.2025. [Stricter constraints on Internet than on narcotics](https://www.thebarentsobserver.com/opinion/stricter-constraints-on-internet-than-on-narcotics/433677). *The Barents Observer*.
 
 - Janda, Laura A. 17.07.2025. [Presidential decree: All languages are equal, but Russian is more equal](https://www.thebarentsobserver.com/opinion/presidential-decree-all-languages-are-equal-but-russian-is-more-equal/433592). *The Barents Observer*.
