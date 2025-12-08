@@ -347,7 +347,7 @@ https://doi.org/10.1007/s11525-024-09431-0.
 
 ### Op-ed pieces
 
-- Nesset, Tore. 05.12. 2025. [Tre enkle tiltak for å satse på russiskfaget](Tre enkle tiltak for å satse på russiskfaget). *Khrono*.
+- Nesset, Tore. 05.12. 2025. [Tre enkle tiltak for å satse på russiskfaget](https://www.khrono.no/tre-enkle-tiltak-for-a-satse-pa-russiskfaget/1020393). *Khrono*.
 
 - Janda, Laura A. 21.07.2025. [Stricter constraints on Internet than on narcotics](https://www.thebarentsobserver.com/opinion/stricter-constraints-on-internet-than-on-narcotics/433677). *The Barents Observer*.
 
