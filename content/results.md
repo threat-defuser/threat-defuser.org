@@ -289,6 +289,8 @@ Vi bør identifisere sårbarheter og usikkerhet. UiT nyheter 2024-10-24.
 
 ### Articles
 
+- Nesset, Tore. Nytt russisk propagandaverktøy. *Dag og Tid* 12.12.2025. 
+
 - Nesset, Tore. [Å forstå Russland frå innsida](https://hdl.handle.net/11250/3222899).
   *Dag og Tid* 10.10.2025.
 
