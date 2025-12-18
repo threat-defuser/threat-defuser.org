@@ -63,6 +63,8 @@ advanced settings or on the question mark for a brief help); [API documentation]
 
 ### Interviews
 
+- Janda, Laura A.	[“Longevity neboli dlouhověkost”](https://www.mujrozhlas.cz/veda-plus/longevity-neboli-dlouhovekost). 17.12.2025. Interview in Věda Plus, Český rozhlas. 
+
 - Godzimirski, Jakub M. [Ekspert: Militærledelsen kan ha gjort dette på egen hånd](https://www.nrk.no/urix/ekspert_-_-putins-mafiakarakter-har-blitt-tydelig-1.16527145). NRK Oslo Dato:	2023-08-24.
 
 - Godzimirski, Jakub M. [Disse er «top dogs» i Putins regime](https://www.nrk.no/urix/disse-er-_top-dogs_-i-putins-regime-1.16460146). Internett Oslo, Norway Dato:	2023-07-09.
