@@ -291,6 +291,8 @@ Vi bør identifisere sårbarheter og usikkerhet. UiT nyheter 2024-10-24.
 
 ### Articles
 
+- Makarova, Anastasia; Nesset, Tore; Janda, Laura A. 2025. “Security in Slavic: a linguistic approach.” *Jezikoslovlje* 26:2, 153–173. [original version](https://hrcak.srce.hr/jezikoslovlje); [handle](https://hdl.handle.net/11250/5341696). 
+
 - Nesset, Tore. [Nytt russisk propagandaverktøy](https://hdl.handle.net/11250/5330921). *Dag og Tid* 12.12.2025. 
 
 - Nesset, Tore. [Å forstå Russland frå innsida](https://hdl.handle.net/11250/3222899).
