@@ -20,6 +20,8 @@ The first version of KWords was developed for the purpose of analyzing political
 
 ### Dissertations
 
+- Zhukova, Valentina. 2026. *A Constructivist Approach to Russian Grammar: Lessons from the Russian Constructicon.* PhD Dissertation, UiT, The Arctic University of Norway. Tore Nesset main supervisor, Laura A. Janda secondary supervisor.
+
 - Obukhova, Anna. 2024. *Svalbard through the prism of Russian media: A discourse and cognitive perspective.* PhD Dissertation, UiT, The Arctic University of Norway. Laura A. Janda main supervisor, Tore Nesset secondary supervisor.
 
 - Kara Kathleen Hodgson. 2023. *Mastering the Arctic? Political Culture and colonialism in the Russian Far North.* PhD Dissertation, UiT, The Arctic University of Norway. Gunhild Hoogensen Gjørv supervisor.
@@ -61,7 +63,14 @@ advanced settings or on the question mark for a brief help); [API documentation]
 
 - Workshop in Lyngen, Norway, 11.-12.02.2022.
 
-- Workshop in Prague, Czech Republic, 19.-22.04.2022.
+- Workshop in Prague, Czech Republic, 19.-22.04.2022. Topic: Russia, hybrid threats, and the war in Ukraine
+  - Mikhail Fishman, journalist with TVRain (independent Russian-language media outlet in exile), report on current events in Russia and in the conflict in Ukraine. 
+  - Kathryn E. Stoner professor of political science at Stanford University, report on her new book Russia resurrected: Its power and purpose in a New Global Order (2021)
+  - Jakub Kalenský Journalist with specialization on Russia and hybrid threats and Senior Analyst at The European Centre of Excellence for Countering Hybrid Threats
+  - Jan Culik, University of Glasgow
+  - Reports from Threat-Defuser team members: Valentina Zhukova, Anna Obukhova, Tore Nesset, Isabel Dineen, Gunhild H. Gjørv, Andrei Rogatchevski, Laura Janda
+
+
 
 ### Interviews
 
