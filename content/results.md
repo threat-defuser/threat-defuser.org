@@ -38,24 +38,15 @@ The first version of KWords was developed for the purpose of analyzing political
 - ["To Kill a Reindeer" (2012): Film screening + workshop](https://uit.no/tavla/artikkel/918564/_to_kill_a_reindeer_2012_film_screening_wor) with renowned film director Paul-Anders Simma to screen his 2012 documentary about suppression of indigenous Sami media in Russia and answer questions from the public. February 4, 2026, 18:00 at UiT.
 
 - Workshop on Discourse Analysis and corpus-linguistic and AI methods for analyzing discourse, April 4, 2025: 10,00–16,00.
-
-This workshop presented the results of Czech colleagues in the Threat-Defuser team and alongside relevant work by other (especially junior) colleagues. The workshop focused on hybrid threats in public discourse and the use of language corpora and AI to analyze them. The workshop also included a demo presentation of the tools and datasets of the Czech National Corpus that can be used in such research.
-
-Speakers and materials:
+This workshop presented the results of Czech colleagues in the Threat-Defuser team and alongside relevant work by other (especially junior) colleagues. The workshop focused on hybrid threats in public discourse and the use of language corpora and AI to analyze them. The workshop also included a demo presentation of the tools and datasets of the Czech National Corpus that can be used in such research. Speakers and materials:
   - Josef Šlerka: [Using AI for content analysis](/presentations/Josef-content-analysis.pdf)
-
   - Václav Horký: [Identifying keywords with KWords 2 /demo/](https://kwords.korpus.cz/) - web application for identifying keywords (click on the gear for
 advanced settings or on the question mark for a brief help); [API documentation](https://kwords.korpus.cz/api/docs) - [more information at the CNC wiki](https://wiki.korpus.cz/doku.php/en:manualy:kwords).
-
   - Konstantin Sulimenko: [Mapping the Anti-System Media Register Using Corpus and Quantitative Methods](/presentations/Konstantin_Workshop_threat_defuser.pdf). 
-
   - Pavel Vondřička: [Parallel corpus InterCorp – 60 languages at your hand /demo/](https://wiki.korpus.cz/doku.php/en:cnk:intercorp); 
 [KonText interface manual](https://wiki.korpus.cz/doku.php/en:manualy:kontext:index).
-
   - Đurđa Jovanović Padejski: [Corpus assisted discourse analysis of most frequent environmental terms](/presentations/Djurdja-Corpus_assisted_discourse_analysis_environmental_terms.pdf).
-
   - Jiří Milička: [N-gram analysis with Engrammer /demo/](http://milicka.cz/en/engrammer/)
-
   - Václav Cvrček & Masako Fidler: [Associations in discourse analysis](/presentations/Vaclav-Mako-associations-collocations.pdf).
 
 
