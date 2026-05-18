@@ -11,7 +11,7 @@ The KWords application is used for the analysis of texts based on comparison wit
 
 KWords is an online application (the only thing needed to use it is a web browser) and it is accessible without registration to all users at kwords.korpus.cz.
 
-The first version of KWords was developed for the purpose of analyzing political speeches in collaboration with Brown University. The second version was developed as part of the Threat-defuser project. This version supports more than 30 languages and allows keyword analysis as well as keymorph analysis.
+The first version of KWords was developed for the purpose of analyzing political speeches in collaboration with Brown University. The second version was developed as part of the Threat-defuser project. This version supports text analysis in more than 40 languages (using the international annotation standard Universal Dependencies), and also enables machine processing via a freely available REST API. Its intuitive web interface allows not only researchers in the social sciences and humanities to take advantage of keyword and keymorph analysis, but also non-specialist users, who can gain a more detailed insight into the content of texts and a better understanding of rhetorical strategies.
 
 ## Media search
 
