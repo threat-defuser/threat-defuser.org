@@ -31,6 +31,21 @@ The first version of KWords was developed for the purpose of analyzing political
 
 - PUSHING EVERYONE'S BUTTONS: COGNITIVE METHODS IN POLITICAL DISCOURSE - Grammatical and multimodal patterns of compression in political discourse. A Theme Session organized by the Threat-Defuser project as part of the [International Cognitive Linguistics Conference](https://iclc16.phil.hhu.de/) at Heinrich Heine University, Düsseldorf, Germany. August 7-11, 2023.
 
+- Svalbard Threat-Defuser conference June 3-5, 2025
+  - *Language and History panel*
+  - Andrei Rogatchevski, Russian journalists on Svalbard in the 1930s
+  - Leonid S. Chekin, Communication across the Iron Curtain on Svalbard: Interpreters and multilinguals
+  - Anna Obukhova, Svalbard in Russian media: "Wrestling carpet" or "territory of mutual collaboration”?
+
+  - *Security panel*
+  - Kari Myklebost, Revitalizing Russian presence on Svalbard: Uses of history 
+  - Thomas Nilsen, The role of Svalbard in Russia's strategic, military and hybrid planning
+  - Gunhild Gjørv, Whose team are they on anyway? American narratives in and of the Arctic, and possible impacts on Svalbard
+
+  - *Writing workshop*
+  - led by Thomas Nilsen
+ 
+
 - The language of threats: Discourse and constructional analysis. A panel at Det 22. nordiske slavistmøte 10.–14. August 2022.
 
 ### Workshops
