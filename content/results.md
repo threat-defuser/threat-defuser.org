@@ -483,6 +483,8 @@ https://doi.org/10.1007/s11525-024-09431-0.
 
 ### Scholarly presentations
 
+- Václav Cvrček, Masako Ueda Fidler. [言語コーパスでテキストのフレーミングを探る– チェコメデイアでの東と西の概念 'Exploring framing of text using language corpora: Conceptualization of East and West in the Czech media'](Fidler&Cvrcek discourse prorotypes osaka university.pptx). Osaka University. May 13, 2026.
+
 - Nesset, Tore. "Er du sikker på hva «sikker» betyr?". 24.09.2025. [UiTs Forskerpub](https://uit.no/tavla/artikkel/883359/forskerpub_er_du_sikker). Tromsø, Norway.
 
 - Fidler, Masako Ueda. "Suravugengo kōpasu: senmonbunya no waku wo koeru kanōsei"/ Slavic-language corpora: possibilities for interdisciplinarity, an invited talk at the Mini-symposium and Lecture held by the Japan Society for the Study of Slavic Languages and Literatures (JSSSLL). 
