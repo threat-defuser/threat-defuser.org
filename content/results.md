@@ -33,7 +33,7 @@ The first version of KWords was developed for the purpose of analyzing political
 
 - Svalbard Threat-Defuser conference June 3-5, 2025
   - *Language and History panel*
-  - Andrei Rogatchevski, Russian journalists on Svalbard in the 1930s
+  - Andrei Rogatchevski and Richard D. Davies, Russian journalists on Svalbard in the 1930s
   - Leonid S. Chekin, Communication across the Iron Curtain on Svalbard: Interpreters and multilinguals
   - Anna Obukhova, Svalbard in Russian media: "Wrestling carpet" or "territory of mutual collaboration”?
 
