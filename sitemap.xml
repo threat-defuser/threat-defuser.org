@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://threat-defuser.org/</loc>
+    </url>
+    <url>
+        <loc>https://threat-defuser.org/articles/</loc>
+    </url>
+    <url>
+        <loc>https://threat-defuser.org/events/</loc>
+    </url>
+    <url>
+        <loc>https://threat-defuser.org/media-search/</loc>
+    </url>
+    <url>
+        <loc>https://threat-defuser.org/presentations/</loc>
+    </url>
+    <url>
+        <loc>https://threat-defuser.org/resources/</loc>
+    </url>
+    <url>
+        <loc>https://threat-defuser.org/results/</loc>
+    </url>
+    <url>
+        <loc>https://threat-defuser.org/team/</loc>
+    </url>
+    <url>
+        <loc>https://threat-defuser.org/work-packages/</loc>
+    </url>
+</urlset>
