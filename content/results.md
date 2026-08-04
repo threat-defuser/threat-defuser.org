@@ -308,6 +308,10 @@ Vi bør identifisere sårbarheter og usikkerhet. UiT nyheter 2024-10-24.
 
 ### Articles
 
+- Kristian Lundby Gjerde and Natalia Moen-Larsen. 2026. “Sex workers, wives, soldiers, and spies: Representations of Russians in Norwegian media 1992–2023”. *Media, War & Conflict*. [original version](https://doi.org/10.1177/17506352261464329);
+[handle](https://hdl.handle.net/11250/5539147).
+
+
 - Makarova, Anastasia; Nesset, Tore; Janda, Laura A. 2025. “Security in Slavic: a linguistic approach.” *Jezikoslovlje* 26:2, 153–173. [original version](https://hrcak.srce.hr/jezikoslovlje); [handle](https://hdl.handle.net/11250/5341696). 
 
 - Nesset, Tore. [Nytt russisk propagandaverktøy](https://hdl.handle.net/11250/5330921). *Dag og Tid* 12.12.2025. 
